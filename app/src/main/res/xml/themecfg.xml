@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+    <version>1</version>
+
+    <pkgName>me.x2gd4.dollphone</pkgName>
+    <themeName>Dollphone Icon Pack</themeName>
+    <themeInfo>A cute, cartoonish, pastel icon pack.</themeInfo>
+    <preview
+        img1="preview1"
+        img2="preview2" />
+
+</theme>

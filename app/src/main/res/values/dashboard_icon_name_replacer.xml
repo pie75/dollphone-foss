@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Icon name replacer
+    * Format: <item>Word that you want to replace + ,(comma) + Word that you want to replace with</item>
+    *
+    * NOTE: Adding so many conditions may reduce dashboard performance, loading time will be increased
+    * NOTE: By default underscore "_" will be replaced with space " ", you don't need to use icon name replacer -->
+
+    <!-- Enable or disable icon name replacer
+    * Enable -> true
+    * Disable -> false -->
+    <bool name="enable_icon_name_replacer">true</bool>
+
+    <string-array name="icon_name_replacer">
+        <!-- Word "app_" will be replaced with "" -->
+        <item>a__0h_h1,0h h1</item>
+        <item>a__0h_n0,0h n0</item>
+        <item>a__1111,1.1.1.1</item>
+        <item>a__3dcg,3DCG</item>
+        <item>a__3ds,3DS</item>
+        <item>a__,</item>
+        <!-- Word "icon_" will be replaced with "app_" -->
+        <item>dictionary_generic,Dictionary</item>
+        <item>dictionary_com,Dictionary.com</item>
+        <item>hackers_keyboard,Hacker’s Keyboard</item>
+        <item>app_cloner_premium_and_add_ons,App Cloner Premium &amp; Add-Ons</item>
+        <item>fdroid,F-Droid</item>
+        <item>color_01_red,Red</item>
+        <item>color_02_orange,Orange</item>
+        <item>color_03_yellow,Yellow</item>
+        <item>color_04_green,Green</item>
+        <item>color_05_teal,Teal</item>
+        <item>color_06_aqua,Aqua</item>
+        <item>color_07_blue,Blue</item>
+        <item>color_08_purple,Purple</item>
+        <item>color_09_pink,Pink</item>
+        <item>color_10_white,White</item>
+        <item>color_11_gray,Gray</item>
+        <item>color_12_black,Black</item>
+        <!-- case correction -->
+        <item>anysoftkeyboard,AnySoftKeyboard</item>
+        <item>avg_antivirus,AVG Antivirus</item>
+        <item>beatx,BeatX</item>
+        <item>commbank,CommBank</item>
+        <item>deepl,DeepL</item>
+        <item>duckduckgo,DuckDuckGo</item>
+        <item>easy_xkcd,Easy xkcd</item>
+        <item>fetlife,FetLife</item>
+        <item>gba,GBA</item>
+        <!--<item>gb,GB</item>
+        CONFLICTS WITH "GBOARD"-->
+        <item>gifshop,GIFShop</item>
+        <item>igtv,IGTV</item>
+        <item>inshot,InShot</item>
+        <item>line,LINE</item>
+        <item>mixi,mixi</item>
+        <item>messagease,MessagEase</item>
+        <item>nds,NDS</item>
+        <!--<item>nes,NES</item>
+        CONFLICTS WITH "HEADPHONES" AND "MINESWEEPER"-->
+        <item>paypal,PayPal</item>
+        <item>protonvpn,ProtonVPN</item>
+        <item>psp,PSP</item>
+        <item>qr,QR</item>
+        <item>quickedit,QuickEdit</item>
+        <item>sfc,SFC</item>
+        <item>spacedesk,spacedesk</item>
+        <item>squarepic,SquarePic</item>
+        <item>stepmaniax,StepManiaX</item>
+        <item>tiktok,TikTok</item>
+        <item>vlc,VLC</item>
+        <item>whatsapp,WhatsApp</item>
+        <item>ydkj,YDKJ</item>
+        <item>youtube,YouTube</item>
+    </string-array>
+
+</resources>

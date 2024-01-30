@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date">2024-01-30</string>
+
+    <!-- Changelog support html formatting
+    * <b> for Bold
+    * <i> for Italic
+    * <u> for Underline
+    * <a href="linkUrl">Link Text</a> for links -->
+    <string-array name="changelog">
+        <item>Initial publication!</item>
+    </string-array>
+
+</resources>
