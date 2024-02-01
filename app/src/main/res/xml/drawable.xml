@@ -3,12 +3,9 @@
 <version>1</version>
 
 <category title="Recent" />
-<item drawable="amazon_appstore" />
-<item drawable="arcticons" />
-<item drawable="dual_wallpaper" />
-<item drawable="tinder" />
-<item drawable="vendetta" />
-<item drawable="vendetta_manager" />
+<item drawable="a__2048" />
+<item drawable="gacha_life" />
+<item drawable="smule" />
 
 <category title="System" />
 <item drawable="alarm_clock" />
@@ -229,13 +226,15 @@
 <item drawable="games_4" />
 <item drawable="a__0h_h1" />
 <item drawable="a__0h_n0" />
+<item drawable="a__2048" />
 <item drawable="among_us" />
+<item drawable="beatx" />
 <item drawable="bejeweled_blitz" />
 <item drawable="bejeweled_classic" />
 <item drawable="bejeweled_stars" />
-<item drawable="beatx" />
 <item drawable="chess" />
 <item drawable="facebook_gaming" />
+<item drawable="gacha_life" />
 <item drawable="jackbox" />
 <item drawable="just_dance_now" />
 <item drawable="lingo_classic" />
@@ -244,6 +243,7 @@
 <item drawable="minesweeper" />
 <item drawable="project_sekai" />
 <item drawable="pump_it_up_m" />
+<item drawable="smule" />
 <item drawable="steam" />
 <item drawable="stepmaniax" />
 <item drawable="sudoku" />

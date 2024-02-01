@@ -31,6 +31,9 @@
     <!-- 1Weather -->
     <item component="ComponentInfo{com.handmark.expressweather/com.handmark.expressweather.ui.activities.SplashActivity}" drawable="weather" />
 
+    <!-- 2048 -->
+    <item component="ComponentInfo{com.androbaby.game2048/com.androbaby.game2048.MainActivity}" drawable="a__2048" />
+
     <!-- 3D Model Viewer -->
     <item component="ComponentInfo{org.andresoviedo.dddmodel2/org.andresoviedo.app.model3D.MainActivity}" drawable="a__3dcg" />
 
@@ -532,8 +535,8 @@
     <!-- Free Quran Education -->
     <item component="ComponentInfo{com.QuranApp.guide/com.QuranApp.guide.SplashActivity}" drawable="free_quran_education" />
 
-    <!-- GIFShop -->
-    <item component="ComponentInfo{com.gif.gifmaker/com.gif.gifmaker.ui.splash.SplashScreen}" drawable="gifshop" />
+    <!-- Gacha Life -->
+    <item component="ComponentInfo{air.com.lunime.gachalife/air.com.lunime.gachalife.AIRAppEntry}" drawable="gacha_life" />
 
     <!-- Gallery -->
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
@@ -566,6 +569,9 @@
     <!-- Geometric Weather -->
     <item component="ComponentInfo{com.mbestavros.geometricweather/com.mbestavros.geometricweather.main.MainActivity}" drawable="weather" />
     <item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity}" drawable="weather" />
+
+    <!-- GIFShop -->
+    <item component="ComponentInfo{com.gif.gifmaker/com.gif.gifmaker.ui.splash.SplashScreen}" drawable="gifshop" />
 
     <!-- Glitch Lab -->
     <item component="ComponentInfo{com.ilixa.glitch/com.ilixa.glitch.GlitchActivity}" drawable="glitch_lab" />
@@ -1716,6 +1722,9 @@
     <!-- SmartNews -->
     <item component="ComponentInfo{jp.gocro.smartnews.android/jp.gocro.smartnews.android.activity.SmartNewsActivity}" drawable="smartnews" />
 
+    <!-- Smule -->
+    <item component="ComponentInfo{com.smule.singandroid/com.smule.singandroid.StartupActivity}" drawable="smule" />
+    
     <!-- Snapchat -->
     <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
 

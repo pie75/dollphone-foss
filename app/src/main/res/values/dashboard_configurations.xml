@@ -91,12 +91,12 @@
     <!-- Link to your app's Rate and Review page.
         Leave this empty to disable the "Rate and Review" button.
         You can use special keyword `{{packageName}}`, `{{packageName}}` will be replaced with your app's package name -->
-    <string name="rate_and_review_link">https://apt.izzysoft.de/fdroid/index/apk/{{packageName}}</string>
+    <string name="rate_and_review_link">https://play.google.com/store/apps/details?id={{packageName}}</string>
 
     <!-- Link to your app's main page. It will be used when your user shares your app using "Share" button.
         Leave this empty to disable the "Share" button.
         You can use special keyword `{{packageName}}`, `{{packageName}}` will be replaced with your app's package name -->
-    <string name="share_link">https://apt.izzysoft.de/fdroid/index/apk/{{packageName}}</string>
+    <string name="share_link">https://play.google.com/store/apps/details?id={{packageName}}</string>
 
     <!-- Enable "Check for update" button.
         It needs the option "config_json" to be configured in order to work -->
@@ -149,7 +149,7 @@
 
     <!-- Enable if your icon pack includes adaptive icons.
         When enabled, the dashboard shows an Icon Shape changer button -->
-    <bool name="includes_adaptive_icons">false</bool>
+    <bool name="includes_adaptive_icons">true</bool>
 
     <!-- Icons section will read icons from drawable.xml same as Nova Launcher
         Put drawable.xml inside the "xml" folder -->
@@ -321,12 +321,12 @@
     <!-- Privacy policy link.
         Leave empty to disable this.
         You can generate one from https://app-privacy-policy-generator.firebaseapp.com/ -->
-    <string name="privacy_policy_link"></string>
+    <string name="privacy_policy_link">https://haitouch.ga/pp</string>
 
     <!-- Terms and Conditions link.
         Leave empty to disable this.
         You can generate one from https://app-privacy-policy-generator.firebaseapp.com/ -->
-    <string name="terms_and_conditions_link"></string>
+    <string name="terms_and_conditions_link">https://haitouch.ga/tos</string>
 
 
     <!--
@@ -334,7 +334,7 @@
     -->
     <!-- Enable/disable donation
         Show support development option in the home page. -->
-    <bool name="enable_donation">false</bool>
+    <bool name="enable_donation">true</bool>
 
     <!-- Take a look inside License.java for donation product -->
 

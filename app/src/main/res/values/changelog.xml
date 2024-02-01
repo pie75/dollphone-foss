@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">2024-01-30</string>
+    <string name="changelog_date">2024-01-31</string>
 
-    <!-- Changelog support html formatting
-    * <b> for Bold
-    * <i> for Italic
-    * <u> for Underline
-    * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Initial publication!</item>
+        <item>2024-02-01 — Enabled adaptive app icon for Dollphone; updated links to donation and reviews; </item>
+        <item>2024-01-31 — Added icons: 2048, Gacha Life, Smule</item>
+        <item>2024-01-30 — Initial publication!</item>
     </string-array>
 
 </resources>
