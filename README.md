@@ -1,28 +1,24 @@
-# CandyBar Sample - FOSS
-[![JitPack](https://img.shields.io/jitpack/v/github/zixpo/candybar?color=4c1&label=JitPack&style=flat-square)](https://jitpack.io/#donnnno/candybar-foss)
+# Dollphone Icon Pack
+
 [![License](https://img.shields.io/github/license/zixpo/candybar?style=flat-square)](/LICENSE)
 
-An F-Droid compatible version of Candybar, easy to use.
+![Header image](./marketing/play%20store%20feature%20graphic.png)
 
-[Downlead the zip to get started here](https://github.com/Donnnno/candybar-foss-sample/archive/main.zip) and not from the wiki below! 
+## English
+Dollphone is a cute icon pack that is very cute, but isn’t too hyper. The icons avoid overly saturated or dark colors, and softly bulge out the "straight" lines away from the center for a plushie-like look.
 
-Original description below:
+Dollphone Icon Pack is a crystallization of years of passion for the “yurukawa” aesthetic.
 
-<hr>
+## 日本語
+Dollphone は、かわいいけど元気すぎないアイコンパックです。極彩色や暗い色を避けて、外側に近づくにつれ少しずつ線を膨らませることによって、ぬいぐるみのようなふわっとした触感を演出しています。
 
-Sample Implementation of CandyBar Dashboard.
+Dollphone アイコンパックは、何年もまたいだ『ゆるかわ』への情熱の結晶です。
 
-Read the [Wiki](https://github.com/zixpo/candybar-sample/wiki) to get Started.
-
-# Apps using Candybar FOSS
-
-|Arcticons|Snow|
-|---|---|
-<a href="https://github.com/Donnnno/Arcticons"><img height="60" alt="Arcticons" src="https://github.com/Donnnno/Arcticons/blob/main/app/src/dark/play/listings/en-US/graphics/icon/ic_launcher_round.png"></a>|<a href="https://github.com/baitmooth/snow"><img height="80" alt="Snow" src="https://github.com/baitmooth/snow/blob/main/fastlane/metadata/android/en-US/images/icon.png"></a>
+Template forked from Donnnno/candybar-foss-sample.
 
 # License
 ```
-Copyright (c) 2014-2016 Dani Mahardhika
+Copyright (c) 2024-2024 Haruki (Haley) Wakamatsu
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
