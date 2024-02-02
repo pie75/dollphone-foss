@@ -16,7 +16,8 @@
     -->
     <string name="default_theme">auto</string>
 
-
+    <!-- Whether the Material You theme should be applied by default in supported devices -->
+    <bool name="material_you_by_default">false</bool>
     <!--
         CONFIG: MUZEI
     -->
@@ -27,7 +28,7 @@
     <string name="muzei_art_source_desc">Your Art Source Description</string>
 
     <!-- Muzei base color -->
-    <color name="muzei_color">@color/pink0</color>
+    <color name="muzei_color">@color/colorPrimary</color>
 
 
     <!--

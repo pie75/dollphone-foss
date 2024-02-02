@@ -1,7 +1,7 @@
     apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion rootProject.ext.CompileSdk
+    compileSdk rootProject.ext.CompileSdk
 
     defaultConfig {
         applicationId 'me.x2gd4.dollphone'
@@ -21,30 +21,23 @@ android {
         }
     }
 
-    buildTypes {
-        release {
-            debuggable false
-            minifyEnabled true
-        }
+    compileOptions {
+        encoding = 'UTF-8'
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
 
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+    buildFeatures {
+        viewBinding true
     }
     namespace 'me.x2gd4.dollphone'
+    lint {
+        abortOnError false
+        checkReleaseBuilds false
+    }
 }
 
-dependencies {
-    /*
-     * CandyBar Material Dashboard Library
-     *
-     * TODO: How to update the dashboard?!
-     * Check this update guide for every version
-     *      - https://github.com/zixpo/candybar-sample/wiki/Updating-the-dashboard
-     * If you've missed some versions you've to also follow update guide for those versions
-     */
-
-    implementation 'com.github.Donnnno:candybar-foss:3.13.3'
-
-}
+    dependencies {
+        implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+        implementation 'com.github.donnnno:candybar-foss:3.19.0-hotfix'
+    }

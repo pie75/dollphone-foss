@@ -14,7 +14,7 @@ Dollphone は、かわいいけど元気すぎないアイコンパックです�
 
 Dollphone アイコンパックは、何年もまたいだ『ゆるかわ』への情熱の結晶です。
 
-Template forked from Donnnno/candybar-foss-sample.
+Dollphone is built with the [Candybar-FOSS Dashboard](https://github.com/Donnnno/candybar-foss).
 
 # License
 ```

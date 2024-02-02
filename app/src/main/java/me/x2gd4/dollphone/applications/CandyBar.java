@@ -1,5 +1,7 @@
 package me.x2gd4.dollphone.applications;
 
+import me.x2gd4.dollphone.R;
+
 import androidx.annotation.NonNull;
 
 // TODO: Remove `//` below to enable OneSignal
@@ -8,18 +10,11 @@ import androidx.annotation.NonNull;
 import candybar.lib.applications.CandyBarApplication;
 
 public class CandyBar extends CandyBarApplication {
-
-    // TODO: Remove `/*` and `*/` below to enable OneSignal
-    /*
+    @NonNull
     @Override
-    public void onCreate() {
-        super.onCreate();
-
-        // OneSignal Initialization
-        OneSignal.initWithContext(this);
-        OneSignal.setAppId("YOUR_ONESIGNAL_APP_ID_HERE");
+    public Class<?> getDrawableClass() {
+        return R.drawable.class;
     }
-    */
 
     @NonNull
     @Override
