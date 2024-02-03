@@ -14,6 +14,8 @@ Dollphone は、かわいいけど元気すぎないアイコンパックです�
 
 Dollphone アイコンパックは、何年もまたいだ『ゆるかわ』への情熱の結晶です。
 
+---
+
 Dollphone is built with the [Candybar-FOSS Dashboard](https://github.com/Donnnno/candybar-foss).
 
 # Design details
@@ -27,6 +29,8 @@ The fonts used are:
 * **Japanese:** [ユールカ](https://fontworks.co.jp/fontsearch/yurukastd-ub/) (Yuruka) by Fontworks
 * **Korean:** [CookieRun](https://www.cookierunfont.com) Black commissioned by Devsisters Corp.
 * **Cyrillic and Greek:** [Tobi Greek Cyrillic](https://www.myfonts.com/collections/tobi-greek-cyrillic-font-rodrigotypo) by RodrigoTypo
+
+The app’s body text uses [Bricolage Grotesque](https://ateliertriay.github.io/bricolage/) by Mathieu Triay.
 
 # License
 ```
