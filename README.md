@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/zixpo/candybar?style=flat-square)](/LICENSE)
 
-![Header image](./marketing/play%20store%20feature%20graphic.png)
+![Header image](./fastlane/metadata/android/en-US/images/featureGraphic.png)
 
 ## English
 Dollphone is a cute icon pack that is very cute, but isn’t too hyper. The icons avoid overly saturated or dark colors, and softly bulge out the "straight" lines away from the center for a plushie-like look.
