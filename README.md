@@ -16,6 +16,18 @@ Dollphone アイコンパックは、何年もまたいだ『ゆるかわ』へ�
 
 Dollphone is built with the [Candybar-FOSS Dashboard](https://github.com/Donnnno/candybar-foss).
 
+# Design details
+
+The icons are drafted in 128x128 resolution. Thick strokes are 4px wide and when it is necessary to use thinner strokes, they are 2px wide.
+
+Drop shadows have the same color as the outline at 50% opacity, and moved 4px down, 2px right.
+
+The fonts used are:
+* **Most text:** [Mikado](https://www.hvdfonts.com/fonts/mikado) Bold by HVD Fonts
+* **Japanese:** [ユールカ](https://fontworks.co.jp/fontsearch/yurukastd-ub/) (Yuruka) by Fontworks
+* **Korean:** [CookieRun](https://www.cookierunfont.com) Black commissioned by Devsisters Corp.
+* **Cyrillic and Greek:** [Tobi Greek Cyrillic](https://www.myfonts.com/collections/tobi-greek-cyrillic-font-rodrigotypo) by RodrigoTypo
+
 # License
 ```
 Copyright (c) 2024-2024 Haruki (Haley) Wakamatsu
