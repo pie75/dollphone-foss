@@ -31,6 +31,10 @@
     <!-- 1Weather -->
     <item component="ComponentInfo{com.handmark.expressweather/com.handmark.expressweather.ui.activities.SplashActivity}" drawable="weather" />
 
+    <!-- 1010! Klooni -->
+    <item component="ComponentInfo{dev.lonami.klooni/dev.lonami.klooni.AndroidLauncher}" drawable="a__1010_klooni" />
+    <item component="ComponentInfo{io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher}" drawable="a__1010_klooni" />
+
     <!-- 2048 -->
     <item component="ComponentInfo{com.androbaby.game2048/com.androbaby.game2048.MainActivity}" drawable="a__2048" />
 
@@ -334,6 +338,9 @@
     <item component="ComponentInfo{com.huawei.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.android.dialer.DialtactsActivity}" drawable="contacts" />
 
+    <!-- Cromite -->
+    <item component="ComponentInfo{org.cromite.cromite/com.google.android.apps.chrome.Main}" drawable="cromite" />
+
     <!-- Czech French Dictionary -->
     <item component="ComponentInfo{com.dragoma.csfr/com.dragoma.csfr.HomeActivity}" drawable="dictionary_cs" />
 
@@ -345,6 +352,10 @@
 
     <!-- DeepL Translator -->
     <item component="ComponentInfo{com.jamal2367.deepl/com.jamal2367.deepl.MainActivity}" drawable="deepl" />
+
+    <!-- Delta Icon Pack -->
+    <item component="ComponentInfo{website.leifs.delta.foss/website.leifs.delta.activities.MainActivity}" drawable="delta_iconpack" />
+    <item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.MainActivity}" drawable="delta_iconpack" />
 
     <!-- Desmos -->
     <item component="ComponentInfo{com.desmos.calculator/com.desmos.calculator.MainActivity}" drawable="desmos" />
@@ -695,6 +706,9 @@
     <!-- HeartBeat -->
     <item component="ComponentInfo{eu.berdosi.app.heartbeat/eu.berdosi.app.heartbeat.MainActivity}" drawable="health" />
     <item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" drawable="health" />
+
+    <!-- Hovercraft -->
+    <item component="ComponentInfo{com.highscorehero.hovercraft/com.prime31.UnityPlayerNativeActivity}" drawable="hovercraft" />
 
     <!-- Huawei Browser -->
     <item component="ComponentInfo{com.huawei.browser/com.huawei.browser.Main2}" drawable="browser" />
@@ -1724,7 +1738,7 @@
 
     <!-- Smule -->
     <item component="ComponentInfo{com.smule.singandroid/com.smule.singandroid.StartupActivity}" drawable="smule" />
-    
+
     <!-- Snapchat -->
     <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
 
@@ -1885,6 +1899,9 @@
     <!-- Whatsapp -->
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.0}" drawable="whatsapp" />
+
+    <!-- Winlator -->
+    <item component="ComponentInfo{com.winlator/com.winlator.MainActivity}" drawable="winlator" />
 
     <!-- Wordfeud -->
     <item component="ComponentInfo{com.hbwares.wordfeud.free/com.hbwares.wordfeud.ui.WordFeudActivity}" drawable="wordfeud" />
