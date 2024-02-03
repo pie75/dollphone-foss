@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="CandyBar.Theme.App.DayNight" parent="CandyBar.Theme.Base">
-        <item name="cb_colorPrimary">#222222</item>
-        <item name="cb_colorPrimaryDark">#222222</item>
-        <item name="cb_colorAccent">#1BB96F</item>
+        <item name="cb_colorPrimary">#600030</item>
+        <item name="cb_colorPrimaryDark">#400020</item>
+        <item name="cb_colorAccent">#600030</item>
 
         <!-- Navigation Bar -->
-        <item name="cb_navigationBar">#222222</item>
+        <item name="cb_navigationBar">#600030</item>
 
         <!-- Splash Screen -->
-        <item name="cb_splashColor">#222222</item>
+        <item name="cb_splashColor">#40b0ff</item>
 
         <!-- Navigation View -->
         <item name="cb_navigationViewHeaderBackground">#00000000</item>
@@ -17,12 +17,12 @@
         <item name="cb_navigationViewTitleBack">#33000000</item>
 
         <item name="cb_navigationViewText">#FFFFFF</item>
-        <item name="cb_navigationViewTextSelected">#1BB96F</item>
-        <item name="cb_navigationViewSelectedBackground">#2A1BB96F</item>
+        <item name="cb_navigationViewTextSelected">#40b0ff</item>
+        <item name="cb_navigationViewSelectedBackground">#003060</item>
         <item name="cb_navigationViewRippleColor">#25000000</item>
 
         <!-- Swipe Refresh -->
-        <item name="cb_swipeRefresh">#1BB96F</item>
+        <item name="cb_swipeRefresh">#40b0ff</item>
 
         <!-- Tap Intro -->
         <item name="cb_tapIntroTitle">?cb_mainBackground</item>
@@ -34,22 +34,22 @@
         <item name="cb_toolbarIcon">#FFFFFFFF</item>
 
         <!-- Tab -->
-        <item name="cb_tabIndicator">#BDBDBD</item>
-        <item name="cb_tabText">#616161</item>
-        <item name="cb_tabTextSelected">#BDBDBD</item>
+        <item name="cb_tabIndicator">#ffb0f0</item>
+        <item name="cb_tabText">#835565</item>
+        <item name="cb_tabTextSelected">#ffb0f0</item>
 
         <!-- Card -->
         <item name="cb_cardBackground">#2C2C2C</item>
         <item name="cb_cardStroke">#11000000</item>
 
         <!-- Ripple -->
-        <item name="cb_rippleColor">#1BB96F</item>
-        <item name="cb_rippleAccent">#1BB96F</item>
+        <item name="cb_rippleColor">#600030</item>
+        <item name="cb_rippleAccent">#600030</item>
 
         <!-- Attributes -->
-        <item name="cb_mainBackground">#222222</item>
-        <item name="cb_primaryText">#FFFFFF</item>
-        <item name="cb_secondaryText">#ABABAB</item>
+        <item name="cb_mainBackground">#000000</item>
+        <item name="cb_primaryText">#f3f3f3</item>
+        <item name="cb_secondaryText">#9b969d</item>
 
         <item name="cb_dividerList">#2C2C2C</item>
 
