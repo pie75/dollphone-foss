@@ -3,9 +3,14 @@
 <version>1</version>
 
 <category title="Recent" />
+<item drawable="a__1010_klooni" />
 <item drawable="a__2048" />
+<item drawable="cromite" />
+<item drawable="delta_iconpack" />
 <item drawable="gacha_life" />
+<item drawable="hovercraft" />
 <item drawable="smule" />
+<item drawable="winlator" />
 
 <category title="System" />
 <item drawable="alarm_clock" />
@@ -160,6 +165,7 @@
 <category title="Browsers" />
 <item drawable="browser" />
 <item drawable="chrome" />
+<item drawable="cromite" />
 <item drawable="duckduckgo" />
 <item drawable="firefox" />
 <item drawable="firefox_nightly" />
@@ -226,6 +232,7 @@
 <item drawable="games_4" />
 <item drawable="a__0h_h1" />
 <item drawable="a__0h_n0" />
+<item drawable="a__1010_klooni" />
 <item drawable="a__2048" />
 <item drawable="among_us" />
 <item drawable="beatx" />
@@ -235,6 +242,7 @@
 <item drawable="chess" />
 <item drawable="facebook_gaming" />
 <item drawable="gacha_life" />
+<item drawable="hovercraft" />
 <item drawable="jackbox" />
 <item drawable="just_dance_now" />
 <item drawable="lingo_classic" />
@@ -273,6 +281,7 @@
 <item drawable="psx" />
 <item drawable="retroarch" />
 <item drawable="sfc" />
+<item drawable="winlator" />
 
 <category title="Files &amp; Cloud" />
 <item drawable="files" />
@@ -368,6 +377,7 @@
 <item drawable="amazon" />
 <item drawable="amazon_appstore" />
 <item drawable="arcticons" />
+<item drawable="delta_iconpack" />
 <item drawable="commbank" />
 <item drawable="cosplay" />
 <item drawable="nike" />
