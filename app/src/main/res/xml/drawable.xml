@@ -3,11 +3,16 @@
 <version>1</version>
 
 <category title="Recent" />
-<item drawable="a__1010_klooni" />
-<item drawable="cromite" />
-<item drawable="delta_iconpack" />
-<item drawable="hovercraft" />
-<item drawable="winlator" />
+<item drawable="audio_technica_connect" />
+<item drawable="chai" />
+<item drawable="fake_chat" />
+<item drawable="fake_traveler" />
+<item drawable="lexica" />
+<item drawable="revanced_manager" />
+<item drawable="trackercontrol" />
+<item drawable="unexpected_keyboard" />
+<item drawable="yahoo_mail" />
+
 
 <category title="System" />
 <item drawable="alarm_clock" />
@@ -138,6 +143,7 @@
 <item drawable="headphones_3" />
 <item drawable="headphones_4" />
 <item drawable="apple_music" />
+<item drawable="audio_technica_connect" />
 <item drawable="autotagger" />
 <item drawable="bandcamp" />
 <item drawable="bandcamp_for_artists" />
@@ -158,6 +164,7 @@
 <item drawable="youtube_kids" />
 <item drawable="youtube_studio" />
 <item drawable="youtube_vanced" />
+<item drawable="revanced_manager" />
 
 <category title="Browsers" />
 <item drawable="browser" />
@@ -174,7 +181,7 @@
 <item drawable="puffin" />
 <item drawable="tor" />
 
-<category title="Messaging" />
+<category title="SMS &amp; Email" />
 <item drawable="element" />
 <item drawable="email" />
 <item drawable="gmail" />
@@ -186,6 +193,7 @@
 <item drawable="telegram" />
 <item drawable="tutanota" />
 <item drawable="whatsapp" />
+<item drawable="yahoo_mail" />
 
 <category title="Social" />
 <item drawable="social" />
@@ -242,6 +250,7 @@
 <item drawable="hovercraft" />
 <item drawable="jackbox" />
 <item drawable="just_dance_now" />
+<item drawable="lexica" />
 <item drawable="lingo_classic" />
 <item drawable="lingo_itv" />
 <item drawable="minecraft" />
@@ -299,6 +308,7 @@
 <item drawable="keyman" />
 <item drawable="messagease" />
 <item drawable="multiling_o_keyboard" />
+<item drawable="unexpected_keyboard" />
 
 <category title="Utilities" />
 <item drawable="a__1111" />
@@ -311,6 +321,7 @@
 <item drawable="barcode" />
 <item drawable="bible" />
 <item drawable="bitwarden" />
+<item drawable="chai" />
 <item drawable="code_editor" />
 <item drawable="deepl" />
 <item drawable="desmos" />
@@ -319,6 +330,8 @@
 <item drawable="dual_wallpaper" />
 <item drawable="duolingo" />
 <item drawable="easy_xkcd" />
+<item drawable="fake_chat" />
+<item drawable="fake_traveler" />
 <item drawable="fdroid" />
 <item drawable="files" />
 <item drawable="files_1" />
@@ -346,6 +359,7 @@
 <item drawable="smartnews" />
 <item drawable="spacedesk" />
 <item drawable="spectrogram" />
+<item drawable="trackercontrol" />
 <item drawable="translate" />
 <item drawable="tunnelbear" />
 <item drawable="unicode" />

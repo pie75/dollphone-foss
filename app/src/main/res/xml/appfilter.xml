@@ -103,6 +103,9 @@
     <item component="ComponentInfo{com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder}" drawable="record" />
     <item component="ComponentInfo{com.sladjan.audiorecorder/com.sladjan.audiorecorder.app.main.MainActivity}" drawable="record" />
 
+    <!-- Audio-Technica Connect -->
+    <item component="ComponentInfo{jp.co.audiotechnica.connect/com.audiotechnica.SplashActivity}" drawable="audio_technica_connect" />
+
     <!-- Authy -->
     <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy" />
 
@@ -257,6 +260,9 @@
 
     <!-- Canada Weather -->
     <item component="ComponentInfo{me.austinhuang.caweather/ca.fwe.caweather.MainActivity}" drawable="weather" />
+
+    <!-- Chai -->
+    <item component="ComponentInfo{com.Beauchamp.Messenger.external/com.Beauchamp.Messenger.external.MainActivity}" drawable="chai" />
 
     <!-- Character Pad -->
     <item component="ComponentInfo{com.husseinelfeky.characterpad/com.husseinelfeky.characterpad.StartupActivity}" drawable="unicode" />
@@ -492,6 +498,12 @@
     <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.share.view.ShareActivity}" drawable="messenger_lite" />
     <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger_lite" />
 
+    <!-- Fake Chat -->
+    <item component="ComponentInfo{navanvi.conversation.app/navanvi.conversation.conversation.MainActivity}" drawable="fake_chat" />
+
+    <!-- Fake Traveler -->
+    <item component="ComponentInfo{cl.coders.faketraveler/cl.coders.faketraveler.MainActivity}" drawable="fake_traveler" />
+
     <!-- Famistudio -->
     <item component="ComponentInfo{org.famistudio/crc64a10958aa5b7794e0.FamiStudioWindow}" drawable="famistudio" />
 
@@ -541,7 +553,7 @@
     <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" drawable="weather" />
 
     <!-- FreeOTP+ -->
-    <item component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}" drawable="freeotp+" />
+    <item component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}" drawable="freeotp" />
 
     <!-- Free Quran Education -->
     <item component="ComponentInfo{com.QuranApp.guide/com.QuranApp.guide.SplashActivity}" drawable="free_quran_education" />
@@ -798,6 +810,9 @@
 
     <!-- KWeather -->
     <item component="ComponentInfo{org.kde.kweather/org.qtproject.qt5.android.bindings.QtActivity}" drawable="weather" />
+
+    <!-- Lexica -->
+    <item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.MainMenuActivity}" drawable="lexica" />
 
     <!-- LINE -->
     <item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line" />
@@ -1191,6 +1206,9 @@
     <!-- RetroArch -->
     <item component="ComponentInfo{com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity}" drawable="retroarch" />
     <item component="ComponentInfo{com.retroarch.aarch64/com.retroarch.browser.mainmenu.MainMenuActivity}" drawable="retroarch" />
+
+    <!-- ReVanced Manager -->
+    <item component="ComponentInfo{app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity}" drawable="revanced_manager" />
 
     <!-- Samsung Browser -->
     <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser" />
@@ -1827,6 +1845,9 @@
     <item component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}" drawable="tor" />
     <item component="ComponentInfo{org.torproject.torbrowser_alpha/org.torproject.torbrowser_alpha.App}" drawable="tor" />
 
+    <!-- TrackerControl -->
+    <item component="ComponentInfo{net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain}" drawable="trackercontrol" />
+
     <!-- Translate -->
     <item component="ComponentInfo{ru.yandex.translate/ru.yandex.translate.ui.activities.MainActivity}" drawable="translate" />
 
@@ -1853,6 +1874,9 @@
     <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />
     <item component="ComponentInfo{tv.twitch.android.apq/tv.twitch.android.apq.core.LandingActivity}" drawable="twitch" />
     <item component="ComponentInfo{tv.twitchmod.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />
+
+    <!-- Unexpected Keyboard -->
+    <item component="ComponentInfo{juloo.keyboard2/juloo.keyboard2.LauncherActivity}" drawable="unexpected_keyboard" />
 
     <!-- UnicodePad -->
     <item component="ComponentInfo{jp.ddo.hotmist.unicodepad/jp.ddo.hotmist.unicodepad.UnicodeActivity}" drawable="unicode" />
@@ -1912,6 +1936,9 @@
 
     <!-- X (Twitter) -->
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x_twitter" />
+
+    <!-- Yahoo! Mail (Japan) -->
+    <item component="ComponentInfo{jp.co.yahoo.android.ymail/jp.co.yahoo.android.ymail.YMailStartActivity}" drawable="yahoo_mail" />
 
     <!-- Yahoo News -->
     <item component="ComponentInfo{jp.co.yahoo.android.news/jp.co.yahoo.android.news.activity.SplashActivity}" drawable="news" />
