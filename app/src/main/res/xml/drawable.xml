@@ -13,7 +13,6 @@
 <item drawable="unexpected_keyboard" />
 <item drawable="yahoo_mail" />
 
-
 <category title="System" />
 <item drawable="alarm_clock" />
 <item drawable="app_drawer" />
@@ -118,7 +117,6 @@
 <category title="Microsoft" />
 <item drawable="outlook" />
 <item drawable="teams" />
-
 
 <category title="Images &amp; Editing" />
 <item drawable="easy_pose" />

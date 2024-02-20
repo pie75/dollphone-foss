@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 3,
-      "versionName": "1.0.2",
-      "outputFile": "dollphone-foss-v3-release.apk"
+      "versionCode": 4,
+      "versionName": "1.0.3",
+      "outputFile": "dollphone-foss-v4-release.apk"
     }
   ],
   "elementType": "File"
