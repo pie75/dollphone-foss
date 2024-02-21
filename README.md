@@ -5,7 +5,7 @@
 ![Header image](./fastlane/metadata/android/en-US/images/featureGraphic.png)
 
 ## English
-Dollphone is a cute icon pack that is very cute, but isn’t too hyper. The icons avoid overly saturated or dark colors, and softly bulge out the "straight" lines away from the center for a plushie-like look.
+Dollphone is an icon pack that is very cute, but isn’t too hyper. The icons avoid overly saturated or dark colors, and softly bulge out the "straight" lines away from the center for a plushie-like look.
 
 Dollphone Icon Pack is a crystallization of years of passion for the “yurukawa” aesthetic.
 

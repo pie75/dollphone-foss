@@ -4,6 +4,7 @@
     <string name="changelog_date"></string>
 
     <string-array name="changelog">
+        <item>2024-02-21 — Updated Arcticons, Opera, Opera Mini; Added Arcticons Light, Arcticons Material You, Character.ai, カラオケ館 (Karaoke Kan), Mitch, Send to Browser</item>
         <item>2024-02-20 — Removed unnecessary Internet permissions</item>
         <item>2024-02-18 — Added icons: Audio-Technica Connect, Chai, Fake Chat, Fake Traveler, Lexica, ReVanced Manager, TrackerControl, Unexpected Keyboard, Yahoo!Mail (Japan)3</item>
         <item>2024-02-04 — Updated Candybar dashboard version; Added contributor icons: 1010 Klooni, Cromite, Delta Icon Pack, Hovercraft, Winlator</item>

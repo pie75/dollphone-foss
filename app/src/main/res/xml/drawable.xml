@@ -3,15 +3,15 @@
 <version>1</version>
 
 <category title="Recent" />
-<item drawable="audio_technica_connect" />
-<item drawable="chai" />
-<item drawable="fake_chat" />
-<item drawable="fake_traveler" />
-<item drawable="lexica" />
-<item drawable="revanced_manager" />
-<item drawable="trackercontrol" />
-<item drawable="unexpected_keyboard" />
-<item drawable="yahoo_mail" />
+<item drawable="arcticons" />
+<item drawable="arcticons_light" />
+<item drawable="arcticons_you" />
+<item drawable="character_ai" />
+<item drawable="karaoke_kan" />
+<item drawable="mitch" />
+<item drawable="opera" />
+<item drawable="opera_mini" />
+<item drawable="send_to_browser" />
 
 <category title="System" />
 <item drawable="alarm_clock" />
@@ -93,6 +93,7 @@
 <item drawable="youtube_vanced" />
 <item drawable="youtube_music" />
 <item drawable="vanced_music" />
+
 <category title="Google" />
 <item drawable="googleapp" />
 <item drawable="google_assistant" />
@@ -148,6 +149,7 @@
 <item drawable="famistudio" />
 <item drawable="karaoke_dam" />
 <item drawable="karaoke_joysound" />
+<item drawable="karaoke_kan" />
 <item drawable="metronome" />
 <item drawable="soundcloud" />
 <item drawable="vlc" />
@@ -178,6 +180,7 @@
 <item drawable="opera_gx" />
 <item drawable="puffin" />
 <item drawable="tor" />
+<item drawable="send_to_browser" />
 
 <category title="SMS &amp; Email" />
 <item drawable="element" />
@@ -253,6 +256,7 @@
 <item drawable="lingo_itv" />
 <item drawable="minecraft" />
 <item drawable="minesweeper" />
+<item drawable="mitch" />
 <item drawable="project_sekai" />
 <item drawable="pump_it_up_m" />
 <item drawable="smule" />
@@ -320,6 +324,7 @@
 <item drawable="bible" />
 <item drawable="bitwarden" />
 <item drawable="chai" />
+<item drawable="character_ai" />
 <item drawable="code_editor" />
 <item drawable="deepl" />
 <item drawable="desmos" />
@@ -386,6 +391,8 @@
 <item drawable="amazon" />
 <item drawable="amazon_appstore" />
 <item drawable="arcticons" />
+<item drawable="arcticons_light" />
+<item drawable="arcticons_you" />
 <item drawable="delta_iconpack" />
 <item drawable="commbank" />
 <item drawable="cosplay" />

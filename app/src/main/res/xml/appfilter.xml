@@ -97,6 +97,12 @@
     <!-- Arcticons -->
     <item component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons" />
 
+    <!-- Arcticons Black -->
+    <item component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_black" />
+
+    <!-- Arcticons Material You -->
+    <item component="ComponentInfo{com.donnnno.arcticons.you.play/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_you" />
+
     <!-- Audio Recorder -->
     <item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="record" />
     <item component="ComponentInfo{com.dimowner.audiorecorder/com.dimowner.audiorecorder.app.main.MainActivity}" drawable="record" />
@@ -796,6 +802,9 @@
     <!-- Just Dance Now -->
     <item component="ComponentInfo{com.ubisoft.dance.JustDance/com.ubisoft.dance.JustDance.JustDanceLaunchActivity}" drawable="just_dance_now" />
 
+    <!-- Karaoke Kan -->
+    <item component="ComponentInfo{jp.karaokekan.karakan.karakan/jp.karaokekan.karakan.karakan.MainActivity}" drawable="karaoke_kan" />
+
     <!-- Keep Notes -->
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="notes" />
 
@@ -890,6 +899,9 @@
     <item component="ComponentInfo{org.secuso.privacyfriendlyminesweeper/org.secuso.privacyfriendlyminesweeper.activities.SplashActivity}" drawable="minesweeper" />
     <item component="ComponentInfo{ee.dustland.android.minesweeper/ee.dustland.android.minesweeper.MinesweeperHostActivity}" drawable="minesweeper" />
     <item component="ComponentInfo{dev.lucanlm.antimine/dev.lucasnlm.antimine.splash.SplashActivity}" drawable="minesweeper" />
+
+    <!-- Mitch -->
+    <item component="ComponentInfo{ua.gardenapple.itchupdater/garden.appl.mitch.ui.MainActivity}" drawable="mitch" />
 
     <!-- MJ Weather -->
     <item component="ComponentInfo{com.moji.mjweather/com.moji.mjweather.LauncherActivity}" drawable="weather" />
@@ -1229,6 +1241,9 @@
 
     <!-- ScreenMashter -->
     <item component="ComponentInfo{pro.capture.screenshot/pro.capture.screenshot.activity.SplashActivity}" drawable="screen_master" />
+
+    <!-- Send to browser -->
+    <item component="ComponentInfo{de.superfusion.sendtobrowser/de.superfusion.sendtobrowser.MainActivity}" drawable="send_to_browser" />
 
     <!-- Senreta Vortaro -->
     <item component="ComponentInfo{org.mcxa.vortaro/org.mcxa.vortaro.MainActivity}" drawable="dictionary_eo" />
