@@ -98,7 +98,7 @@
     <item component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons" />
 
     <!-- Arcticons Black -->
-    <item component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_black" />
+    <item component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_light" />
 
     <!-- Arcticons Material You -->
     <item component="ComponentInfo{com.donnnno.arcticons.you.play/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_you" />
@@ -272,6 +272,9 @@
 
     <!-- Character Pad -->
     <item component="ComponentInfo{com.husseinelfeky.characterpad/com.husseinelfeky.characterpad.StartupActivity}" drawable="unicode" />
+
+    <!-- Character.AI -->
+    <item component="ComponentInfo{ai.character.app/ai.character.app.MainActivity}" drawable="character_ai"/>
 
     <!-- Charmap -->
     <item component="ComponentInfo{com.kkinder.charmap/com.kkinder.charmap.Charmap}" drawable="unicode" />
@@ -787,6 +790,9 @@
     <item component="ComponentInfo{com.instander.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
     <item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="instagram" />
 
+    <!-- Instagram Threads -->
+    <item component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}" drawable="threads"/>
+
     <!-- JBL Headphones -->
     <item component="ComponentInfo{jbl.stc.com/jbl.stc.com.activity.SplashActivity}" drawable="headphones_1" />
 
@@ -853,6 +859,19 @@
 
     <!-- Map Assist -->
     <item component="ComponentInfo{amirz.assistmapper/amirz.assistmapper.PickerActivity}" drawable="map" />
+
+    <!-- McDonald's -->
+    <item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds"/>
+    <item component="ComponentInfo{com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity}" drawable="mcdonalds"/>
+    <item component="ComponentInfo{de.mcdonalds.mcdonaldsinfoapp/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds"/>
+    <item component="ComponentInfo{tw.com.mcddaily/ggh.cld}" drawable="mcdonalds"/>
+    <item component="ComponentInfo{com.mcdo.mcdonalds/com.gigigo.mcdonaldsbr.ui.activities.splash.SplashActivity}" drawable="mcdonalds"/>
+    <item component="ComponentInfo{com.mcdonalds.superapp/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds"/>
+    <item component="ComponentInfo{jp.co.mcdonalds.android/mcdonalds.basic.McdonaldsJapanHomeActivity}" drawable="mcdonalds"/>
+    <item component="ComponentInfo{com.mcdonalds.app.uk/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds"/>
+    <item component="ComponentInfo{com.mcdonalds.au.gma/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds"/>
+    <item component="ComponentInfo{lk.mcdonalds.delivery/sg.com.steria.mcdonalds.activity.home.StartupActivity}" drawable="mcdonalds"/>
+    <item component="ComponentInfo{com.apegroup.mcdonaldsrussia/com.apegroup.mcdonaldsrussia.activities.main.MainActivity}" drawable="mcdonalds"/>
 
     <!-- MediaFire -->
     <item component="ComponentInfo{com.mediafire.android/com.mediafire.android.MainActivity}" drawable="mediafire" />
@@ -965,6 +984,9 @@
     <!-- nds4droid -->
     <item component="ComponentInfo{com.opendoorstudios.ds4droid/com.opendoorstudios.ds4droid.MainActivity}" drawable="nds" />
 
+    <!-- Neko Atsume -->
+    <item component="ComponentInfo{jp.co.hit_point.nekoatsume/jp.co.hit_point.nekoatsume.GActivity}" drawable="neko_atsume"/>
+
     <!-- Netflix -->
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
 
@@ -1069,6 +1091,10 @@
 
     <!-- Oxford English Dictionary -->
     <item component="ComponentInfo{com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish/com.mobisystems.msdict.viewer.EulaActivity}" drawable="dictionary_en" />
+
+    <!-- Pandora -->
+    <item component="ComponentInfo{com.pandora.android/com.pandora.android.LauncherActivity}" drawable="pandora"/>
+    <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="pandora"/>
 
     <!-- PayPal -->
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" />
@@ -1801,6 +1827,15 @@
     <!-- Spectroid -->
     <item component="ComponentInfo{org.intoorbit.spectrum/org.intoorbit.spectrum.SpectrumActivity}" drawable="spectrogram" />
 
+    <!-- Spotify -->
+    <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify"/>
+    <item component="ComponentInfo{com.spotify.s4a/com.spotify.s4a.SplashActivity}" drawable="spotify"/>
+    <item component="ComponentInfo{com.spotify.musix/com.spotify.musix.MainActivity}" drawable="spotify"/>
+    <item component="ComponentInfo{com.spotify.lite/com.spotify.lite.features.launcher.LauncherActivity}" drawable="spotify"/>
+    <item component="ComponentInfo{com.spotify.lite/com.spotify.litenavigation.launcher.LauncherActivity}" drawable="spotify"/>
+    <item component="ComponentInfo{com.spotify.music/com.jojoy.delegate.JojoyInstallerActivity}" drawable="spotify"/>
+    <item component="ComponentInfo{fm.anchor.android/anchor.MainActivity}" drawable="spotify"/>
+
     <!-- Squarepic -->
     <item component="ComponentInfo{nocrop.photoeditor.squarepic/com.shamble.instafit.SplashActivity}" drawable="squarepic" />
 
@@ -1890,11 +1925,22 @@
     <item component="ComponentInfo{tv.twitch.android.apq/tv.twitch.android.apq.core.LandingActivity}" drawable="twitch" />
     <item component="ComponentInfo{tv.twitchmod.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />
 
+    <!-- Uber -->
+    <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="uber"/>
+    <item component="ComponentInfo{com.ubercab.uberlite/com.ubercab.uberlite.feature.RootActivity}" drawable="uber"/>
+
+    <!-- Uber Eats -->
+    <item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.app.feature.launch.LauncherActivity}" drawable="ubereats"/>
+    <item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.core.activity.LauncherActivity}" drawable="ubereats"/>
+
     <!-- Unexpected Keyboard -->
     <item component="ComponentInfo{juloo.keyboard2/juloo.keyboard2.LauncherActivity}" drawable="unexpected_keyboard" />
 
     <!-- UnicodePad -->
     <item component="ComponentInfo{jp.ddo.hotmist.unicodepad/jp.ddo.hotmist.unicodepad.UnicodeActivity}" drawable="unicode" />
+
+    <!-- UNIQLO -->
+    <item component="ComponentInfo{com.uniqlo.in.catalogue/com.uniqlo.ja.catalogue.view.mobile.startup.StartupActivity}" drawable="uniqlo"/>
 
     <!-- VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc" />
@@ -1928,6 +1974,13 @@
 
     <!-- Wallet -->
     <item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity}" drawable="wallet" />
+
+    <!-- Walmart -->
+    <item component="ComponentInfo{com.walmart.android/com.walmart.android.app.main.LaunchActivity}" drawable="walmart"/>
+    <item component="ComponentInfo{com.walmart.android/com.walmart.glass.integration.splash.SplashActivity}" drawable="walmart"/>
+    <item component="ComponentInfo{com.walmart.beta/com.walmart.glass.integration.splash.SplashActivity}" drawable="walmart"/>
+    <item component="ComponentInfo{com.walmart.grocery/com.walmart.grocery.screen.start.StartupActivity}" drawable="walmart"/>
+    <item component="ComponentInfo{com.walmart.mg/com.walmart.glass.integration.splash.SplashActivity}" drawable="walmart"/>
 
     <!-- WaveEditor -->
     <item component="ComponentInfo{io.sbaud.wavstudio/io.sbaud.wavstudio.activities.LoadActivity}" drawable="record" />
@@ -1965,8 +2018,10 @@
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
 
     <!-- YouTube Music -->
-    <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music" />
-    <item component="ComponentInfo{com.vanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music" />
+    <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music"/>
+    <item component="ComponentInfo{com.vanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music"/>
+    <item component="ComponentInfo{app.revanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music"/>
+    <item component="ComponentInfo{app.rvx.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music"/>
 
     <!-- YouTube Vanced (RIP :( ) -->
     <item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.application.Shell$HomeActivity}" drawable="youtube_vanced" />
@@ -1980,5 +2035,8 @@
 
     <!-- Youtube Studio -->
     <item component="ComponentInfo{com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity}" drawable="youtubestudio" />
+
+    <!-- Zoom -->
+    <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
 
 </resources>

@@ -3,15 +3,14 @@
 <version>1</version>
 
 <category title="Recent" />
-<item drawable="arcticons" />
-<item drawable="arcticons_light" />
-<item drawable="arcticons_you" />
-<item drawable="character_ai" />
-<item drawable="karaoke_kan" />
-<item drawable="mitch" />
-<item drawable="opera" />
-<item drawable="opera_mini" />
-<item drawable="send_to_browser" />
+<item drawable="mcdonalds" />
+<item drawable="pandora" />
+<item drawable="spotify" />
+<item drawable="threads" />
+<item drawable="uber" />
+<item drawable="uber_eats" />
+<item drawable="walmart" />
+<item drawable="zoom" />
 
 <category title="System" />
 <item drawable="alarm_clock" />
@@ -151,7 +150,9 @@
 <item drawable="karaoke_joysound" />
 <item drawable="karaoke_kan" />
 <item drawable="metronome" />
+<item drawable="pandora" />
 <item drawable="soundcloud" />
+<item drawable="spotify" />
 <item drawable="vlc" />
 <item drawable="youtube_music" />
 
@@ -229,6 +230,7 @@
 <item drawable="vendetta" />
 <item drawable="vendetta_manager" />
 <item drawable="x_twitter" />
+<item drawable="zoom" />
 
 <category title="Games" />
 <item drawable="games" />
@@ -257,6 +259,7 @@
 <item drawable="minecraft" />
 <item drawable="minesweeper" />
 <item drawable="mitch" />
+<item drawable="neko_atsume" />
 <item drawable="project_sekai" />
 <item drawable="pump_it_up_m" />
 <item drawable="smule" />
@@ -311,6 +314,15 @@
 <item drawable="messagease" />
 <item drawable="multiling_o_keyboard" />
 <item drawable="unexpected_keyboard" />
+
+<category title="Shopping" />
+<item drawable="amazon" />
+<item drawable="amazon_appstore" />
+<item drawable="mcdonalds" />
+<item drawable="nike" />
+<item drawable="uber_eats" />
+<item drawable="uniqlo" />
+<item drawable="walmart" />
 
 <category title="Utilities" />
 <item drawable="a__1111" />
@@ -388,15 +400,12 @@
 <item drawable="wiktionary" />
 
 <category title="Other" />
-<item drawable="amazon" />
-<item drawable="amazon_appstore" />
 <item drawable="arcticons" />
 <item drawable="arcticons_light" />
 <item drawable="arcticons_you" />
 <item drawable="delta_iconpack" />
 <item drawable="commbank" />
 <item drawable="cosplay" />
-<item drawable="nike" />
 <item drawable="optus" />
 
 <category title="Numbers" />
