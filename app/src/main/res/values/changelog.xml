@@ -4,7 +4,7 @@
     <string name="changelog_date"></string>
 
     <string-array name="changelog">
-        <item>2024-02-24 — Updated Threads; Added McDonald’s, Neko Atsume, Pandora, Spotify, Threads, Uber, Uber Eats, Uniqlo, Walmart, Zoom</item>
+        <item>2024-02-24 — Fixed splash screen graphics; Updated Threads; Added McDonald’s, Neko Atsume, Pandora, Spotify, Threads, Uber, Uber Eats, Uniqlo, Walmart, Zoom</item>
         <item>2024-02-21 — Updated Arcticons, Opera, Opera Mini; Added Arcticons Light, Arcticons Material You, Character.ai, カラオケ館 (Karaoke Kan), Mitch, Send to Browser</item>
         <item>2024-02-20 — Removed unnecessary Internet permissions</item>
         <item>2024-02-18 — Added icons: Audio-Technica Connect, Chai, Fake Chat, Fake Traveler, Lexica, ReVanced Manager, TrackerControl, Unexpected Keyboard, Yahoo!Mail (Japan)</item>
