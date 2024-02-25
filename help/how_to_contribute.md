@@ -55,7 +55,7 @@ Brown       | #af8f7c | #74564d | #9e6545
 
 * {Suggested} Avoid gradients:
     * Gloss should be represented using stripes or dots as highlights. cf. [Camera](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/camera.png), [Clock](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/clock.png), [Nintendo DS](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/nds.png)
-    * For counterexamples, cf. [Instagram](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/instagram.png), [Opera](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/opera.png), [Steam](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/steam.png), [YouTube Vanced](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/youtube_vanced.png).
+    * For counterexamples, cf. [Firefox](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/firefox.png), [Instagram](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/instagram.png), [Opera](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/opera.png), [Steam](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/steam.png), [YouTube Vanced](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/youtube_vanced.png).
 
 ### Visual Style and Design Language
 
