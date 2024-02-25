@@ -18,19 +18,15 @@ Dollphone アイコンパックは、何年もまたいだ『ゆるかわ』へ�
 
 Dollphone is built with the [Candybar-FOSS Dashboard](https://github.com/Donnnno/candybar-foss).
 
-# Design details
+# This app is missing an icon! How can I get you to make one?
 
-The icons are drafted in 128x128 resolution. Thick strokes are 4px wide and when it is necessary to use thinner strokes, they are 2px wide.
+The app has an in-built feature to request missing icons. Simply follow the on-screen instructions: select the icons you want to request, then send me the resulting e-mail.
 
-Drop shadows have the same color as the outline at 50% opacity, and moved 4px down, 2px right.
+# How can I make an icon for you to include?
 
-The fonts used are:
-* **Most text:** [Mikado](https://www.hvdfonts.com/fonts/mikado) Bold by HVD Fonts
-* **Japanese:** [ユールカ](https://fontworks.co.jp/fontsearch/yurukastd-ub/) (Yuruka) by Fontworks
-* **Korean:** [CookieRun](https://www.cookierunfont.com) Black commissioned by Devsisters Corp.
-* **Cyrillic and Greek:** [Tobi Greek Cyrillic](https://www.myfonts.com/collections/tobi-greek-cyrillic-font-rodrigotypo) by RodrigoTypo
+First of all, thank you for your interest in this project! Making and maintaining an icon pack is hard work, so I need all the help you can get.
 
-The app’s body text uses [Bricolage Grotesque](https://ateliertriay.github.io/bricolage/) by Mathieu Triay.
+Please refer to [the contributor help document](https://github.com/JapanYoshi/dollphone-foss/blob/main/help/how_to_contribute.md).
 
 # License
 ```
