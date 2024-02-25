@@ -5,6 +5,8 @@ Follow some of the specs and guidelines. Some requirements are more flexible tha
 
 ### Shape and size
 
+![](howto_canvas.png)
+
 * {Required} The icons are drafted in 128x128px resolution.
 
 * {Required} Thick strokes are 4px wide. When it is necessary to use thinner strokes, they are 2px wide.
@@ -12,6 +14,8 @@ Follow some of the specs and guidelines. Some requirements are more flexible tha
     * {Advised} Put an outline on anything that appears in front of the background. This rule does not apply to colorations in the background. cf. [1.1.1.1](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/a__1111.png) for a counterexample.
 
 * {Required} When exporting the icons, export at 512x512 (4x resolution / 384dpi on Inkscape).
+
+![](howto_frame.png)
 
 * {Required} Design within the icon frame: a 120x120px circle with a 4px stroke (making the bounding box 124x124).
     * Exceptionally, a select few icons may have elements going over the outlines or jutting out of the circle. cf. [8vim](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/a__8vim.png), [PS1](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/psx.png)
@@ -21,6 +25,8 @@ Follow some of the specs and guidelines. Some requirements are more flexible tha
 * {Advised} Drop shadows have the same color as the outline color corresponding to the background color, at 50% opacity, and moved 4px down, 2px right.
 
 * {Suggested} You may also clip the contents using the outline, with or without an interior drop shadow. cf. [Map](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/map.png), [Settings](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/settings.png), [Steam](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/steam.png), [Tusky](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/tusky.png), [Weather](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/weather.png).
+
+![](howto_no_straight.png)
 
 * {Advised} **Avoid straight lines** unless they exactly go through the center. Straight lines should be very rarely used; edges that are straight in other icon packs should softly bulge out away from the center.
 
@@ -32,9 +38,11 @@ Follow some of the specs and guidelines. Some requirements are more flexible tha
 
 * {Required} **Don't use fully saturated colors!** Mostly stick to the colors in the "generic colors" icons and the system icons:
 
+![](howto_palette.png)
+
 Color       |      BG | Outline |    Spot
 :--------   | ------: | ------: | ------:
-White       | #ffffff | #747474 | #000000
+White       | #ffffff | #747474 | #ffffff
 Gray        | #d4d4d4 | #646464 | #8f8f8f
 Black       | #4c4c4c | #373737 | #404040
 Pale Blue   | #b5cee1 | #6693b1 | #f7ffff
@@ -46,7 +54,7 @@ Red         | #ff8090 | #d5425d | #d5425d
 Orange      | #f8c365 | #f08117 | #f08117
 Yellow      | #e2db53 | #b9a400 | #e0d60d
 Green       | #b7ed50 | #5b9323 | #52d348
-Teal        | #2c737f | #40bfb3 | #47aebf
+Teal        | #40bfb3 | #2c737f | #47aebf
 Aqua        | #76ddfe | #5598cc | #45a9f3
 Blue        | #6d9fe9 | #3a76c3 | #3a76c3
 Purple      | #9a6fc7 | #6b5a83 | #af5fcc
@@ -61,7 +69,11 @@ Brown       | #af8f7c | #74564d | #9e6545
 
 * {Advised} If the logo represents something tangible, skeuomorphize it using cute real-life objects. cf. [Phone/Dialer](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/phone.png) (that Nokia brick), [Alarm Clock](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/alarm_clock.png) (a cute round alarm clock I found online), [Radio](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/radio.png) (a classic brown radio).
 
+![](./howto_humor.png)
+
 * {Suggested} If the logo is too simple, replace it with an older version or a recognizable mascot. cf. [Fake Chat](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/fake_chat.png), [McDonald's](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/mcdonalds.png), or [the alternate Instagram icon](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/instagram_1.png).
+
+![](./howto_yurukawa.png)
 
 * {Suggested} If the logo features a non-human mascot, recreate it in the style of Sumikko Gurashi, Pusheen, Tamagotchi, or another similar sytle. cf. [Among Us](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/among_us.png), [DuckDuckGo](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/duckduckgo.png), [Duolingo](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/duolingo.png), [Karaoke Kan](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/karaoke_kan.png), [Reddit](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/reddit.png), [RetroArch](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/retroarch.png), [Snapchat](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/snapchat.png), [TunnelBear](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/tunnelbear.png).
 
@@ -79,6 +91,8 @@ Brown       | #af8f7c | #74564d | #9e6545
     * **Korean:** [CookieRun](https://www.cookierunfont.com) Black commissioned by Devsisters Corp. (Free font)
     * **Cyrillic and Greek:** [Tobi Greek Cyrillic](https://www.myfonts.com/collections/tobi-greek-cyrillic-font-rodrigotypo) by RodrigoTypo (Once again, this is a commercial font)
     * \(The app’s body text uses [Bricolage Grotesque](https://ateliertriay.github.io/bricolage/) by Mathieu Triay. (It's a Google Font)\)
+
+![](./howto_wordmark.png)
 
 * {Suggested} When the icon consists of text, and the wordmark features some special styling, try to modify the above fonts to incorporate their special stylings. cf. [Amazon](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/amazon.png), [Tumblr](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/tumblr.png), [Zoom](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/zoom.png). For counterexamples, cf. [Optus](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/optus.png), [Pinterest](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/pinterest.png), [Wordfeud](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/wordfeud.png).
 
