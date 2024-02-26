@@ -9,6 +9,12 @@ Dollphone is an icon pack that is very cute, but isn’t too hyper. The icons av
 
 Dollphone Icon Pack is a crystallization of years of passion for the “yurukawa” aesthetic.
 
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/me.x2gd4.dollphone/)
+
+Or download the latest APK from the [Releases Section](https://github.com/JapanYoshi/dollphone-foss/releases/latest).
+
 ## 日本語
 Dollphone は、かわいいけど元気すぎないアイコンパックです。極彩色や暗い色を避けて、外側に近づくにつれ少しずつ線を膨らませることによって、ぬいぐるみのようなふわっとした触感を演出しています。
 
