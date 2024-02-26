@@ -150,7 +150,7 @@
 
     <!-- Enable if your icon pack includes adaptive icons.
         When enabled, the dashboard shows an Icon Shape changer button -->
-    <bool name="includes_adaptive_icons">true</bool>
+    <bool name="includes_adaptive_icons">false</bool>
 
     <!-- Icons section will read icons from drawable.xml same as Nova Launcher
         Put drawable.xml inside the "xml" folder -->
@@ -165,7 +165,7 @@
     <!-- Enable regular icon request limit
         When enabled users will be able to request only the specified number of icons.
         The number of icon a user can request should be specified in the "icon_request_limit" section -->
-    <bool name="enable_icon_request_limit">false</bool>
+    <bool name="enable_icon_request_limit">true</bool>
 
     <!-- Limit the numbers of icon a user can request
         IGNORE if "enable_icon_request_limit" option is disabled
@@ -173,7 +173,7 @@
         After making 10 icon request the user will not be able to request again.
 
         See "reset_icon_request_limit" option to learn how to reset the limit. -->
-    <integer name="icon_request_limit">10</integer>
+    <integer name="icon_request_limit">12</integer>
 
     <!-- Reset regular icon request limit every update
         IGNORE if "enable_icon_request_limit" option is disabled
@@ -218,7 +218,7 @@
     <string name="premium_request_email"></string>
 
     <!-- Icon request email subjects. Leave empty to use default Subject. -->
-    <string name="regular_request_email_subject">Dollphone request: REPLACEME</string>
+    <string name="regular_request_email_subject">Dollphone request</string>
     <string name="premium_request_email_subject"></string>
 
     <!-- API keys for Arctic Manager.

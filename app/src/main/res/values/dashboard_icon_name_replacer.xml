@@ -13,14 +13,13 @@
     <bool name="enable_icon_name_replacer">true</bool>
 
     <string-array name="icon_name_replacer">
-        <!-- Word "app_" will be replaced with "" -->
         <item>a__0h_h1,0h h1</item>
         <item>a__0h_n0,0h n0</item>
         <item>a__1111,1.1.1.1</item>
         <item>a__3dcg,3DCG</item>
         <item>a__3ds,3DS</item>
         <item>a__,</item>
-        <!-- Word "icon_" will be replaced with "app_" -->
+        <!-- dots and apostrophes and stuff -->
         <item>dictionary_generic,Dictionary</item>
         <item>dictionary_com,Dictionary.com</item>
         <item>hackers_keyboard,Hacker’s Keyboard</item>
@@ -38,6 +37,10 @@
         <item>color_10_white,White</item>
         <item>color_11_gray,Gray</item>
         <item>color_12_black,Black</item>
+        <item>davx_5,DAVx⁵</item>
+        <item>k9mail,K-9 Mail</item>
+        <item>my_fritz,My Fritz!</item>
+        <item>osmand_plus,OsmAnd+</item>
         <!-- case correction -->
         <item>anysoftkeyboard,AnySoftKeyboard</item>
         <item>avg_antivirus,AVG Antivirus</item>
