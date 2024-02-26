@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date"></string>
+    <string name="changelog_date">2024-02-26</string>
 
     <string-array name="changelog">
-        <item>2024-02-06 — Added Guy B’s requests: 34 (!) new icons, new aliases for 3 existing icons; Limited icon count to 12 per request</item>
-        <item>2024-02-24 — Fixed splash screen graphics; Updated Threads; Added McDonald’s, Neko Atsume, Pandora, Spotify, Threads, Uber, Uber Eats, Uniqlo, Walmart, Zoom</item>
-        <item>2024-02-21 — Updated Arcticons, Opera, Opera Mini; Added Arcticons Light, Arcticons Material You, Character.ai, カラオケ館 (Karaoke Kan), Mitch, Send to Browser</item>
-        <item>2024-02-20 — Removed unnecessary Internet permissions</item>
-        <item>2024-02-18 — Added icons: Audio-Technica Connect, Chai, Fake Chat, Fake Traveler, Lexica, ReVanced Manager, TrackerControl, Unexpected Keyboard, Yahoo!Mail (Japan)</item>
-        <item>2024-02-04 — Updated Candybar dashboard version; Added contributor icons: 1010 Klooni, Cromite, Delta Icon Pack, Hovercraft, Winlator</item>
-        <item>2024-02-01 — Changed app icon for Dollphone; updated links to donation and reviews</item>
-        <item>2024-01-31 — Added icons: 2048, Gacha Life, Smule</item>
-        <item>2024-01-30 — Initial publication!</item>
+        <item>Added Guy B’s requests: 34 (!) new icons, new aliases for 3 existing icons</item>
+        <item>Limited icon count to 12 per request</item>
     </string-array>
 
 </resources>

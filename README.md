@@ -18,6 +18,8 @@ Dollphone アイコンパックは、何年もまたいだ『ゆるかわ』へ�
 
 Dollphone is built with the [Candybar-FOSS Dashboard](https://github.com/Donnnno/candybar-foss).
 
+[See changelog](./CHANGELOG.md)
+
 # This app is missing an icon! How can I get you to make one?
 
 The app has an in-built feature to request missing icons. Simply follow the on-screen instructions: select the icons you want to request, then send me the resulting e-mail.
