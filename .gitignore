@@ -162,3 +162,4 @@ gradle-app.setting
 
 .idea/
 help/howto.svg
+*.aab
