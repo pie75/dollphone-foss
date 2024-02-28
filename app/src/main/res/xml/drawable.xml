@@ -3,42 +3,26 @@
 <version>1</version>
 
 <category title="Recent" />
-<item drawable="adaway" />
-<item drawable="aegis" />
-<item drawable="apkupdater" />
-<item drawable="bubble" />
-<item drawable="cache_cleaner" />
-<item drawable="car_report" />
-<item drawable="catima" />
-<item drawable="davx_5" />
-<item drawable="fairemail" />
-<item drawable="fennec" />
-<item drawable="hobbyconnect" />
-<item drawable="jtx_board" />
-<item drawable="k9mail" />
-<item drawable="keepassdx" />
-<item drawable="kfz_kennzeichen" />
-<item drawable="kfz_kennzeichen_alt" />
-<item drawable="magisk" />
-<item drawable="markor" />
-<item drawable="memetastic" />
-<item drawable="monocles_mail" />
-<item drawable="mupdf_viewer" />
-<item drawable="my_fritz" />
-<item drawable="neo_backup" />
-<item drawable="nextcloud" />
-<item drawable="nextcloud_cookbook" />
-<item drawable="notificationlog" />
-<item drawable="open_note_scanner" />
-<item drawable="osmand_plus" />
-<item drawable="secscanqr" />
-<item drawable="shelter" />
-<item drawable="signal" />
-<item drawable="streetcomplete" />
-<item drawable="threema_libre" />
-<item drawable="tiny_weather_forecast" />
-<item drawable="victron_connect" />
-<item drawable="zapp" />
+<item drawable="adobe_acrobat" />
+<item drawable="aftership" />
+<item drawable="aliexpress" />
+<item drawable="anb" />
+<item drawable="appsales" />
+<item drawable="beats" />
+<item drawable="chatgpt" />
+<item drawable="ebay" />
+<item drawable="free_download_manager" />
+<item drawable="google_family_link" />
+<item drawable="google_find" />
+<item drawable="google_one" />
+<item drawable="microsoft_365" />
+<item drawable="my_stc" />
+<item drawable="oneplus_clone_phone" />
+<item drawable="oneplus_community" />
+<item drawable="revanced_extended" />
+<item drawable="stc_pay" />
+<item drawable="xbox_game_pass" />
+<item drawable="ymusic" />
 
 <category title="System" />
 <item drawable="alarm_clock" />
@@ -131,8 +115,11 @@
 <item drawable="drive" />
 <item drawable="duo" />
 <item drawable="google_docs" />
+<item drawable="google_family_link" />
+<item drawable="google_find" />
 <item drawable="google_lens" />
 <item drawable="google_news" />
+<item drawable="google_one" />
 <item drawable="google_photos" />
 <item drawable="google_play_books" />
 <item drawable="google_play_games" />
@@ -145,8 +132,17 @@
 <item drawable="google_translate" />
 
 <category title="Microsoft" />
+<item drawable="microsoft_365" />
 <item drawable="outlook" />
 <item drawable="teams" />
+
+<category title="Amazon" />
+<item drawable="amazon" />
+<item drawable="amazon_appstore" />
+<item drawable="kindle" />
+
+<category title="Adobe" />
+<item drawable="adobe_acrobat" />
 
 <category title="Images &amp; Editing" />
 <item drawable="easy_pose" />
@@ -162,7 +158,7 @@
 <item drawable="squarepic" />
 <item drawable="waifu2x" />
 
-<category title="Music" />
+<category title="Music &amp; Audio" />
 <item drawable="music" />
 <item drawable="music_1" />
 <item drawable="music_2" />
@@ -176,6 +172,7 @@
 <item drawable="autotagger" />
 <item drawable="bandcamp" />
 <item drawable="bandcamp_for_artists" />
+<item drawable="beats" />
 <item drawable="famistudio" />
 <item drawable="karaoke_dam" />
 <item drawable="karaoke_joysound" />
@@ -185,6 +182,7 @@
 <item drawable="soundcloud" />
 <item drawable="spotify" />
 <item drawable="vlc" />
+<item drawable="ymusic" />
 <item drawable="youtube_music" />
 
 <category title="Video" />
@@ -196,6 +194,7 @@
 <item drawable="youtube_kids" />
 <item drawable="youtube_studio" />
 <item drawable="youtube_vanced" />
+<item drawable="revanced_extended" />
 <item drawable="revanced_manager" />
 <item drawable="zapp" />
 
@@ -252,6 +251,7 @@
 <item drawable="layout" />
 <item drawable="linkedin" />
 <item drawable="mixi" />
+<item drawable="oneplus_community" />
 <item drawable="pinterest" />
 <item drawable="quora" />
 <item drawable="reddit" />
@@ -306,6 +306,7 @@
 <item drawable="sudoku" />
 <item drawable="tetris" />
 <item drawable="wordfeud" />
+<item drawable="xbox_game_pass" />
 <item drawable="ydkj" />
 
 <category title="Non-App Games" />
@@ -344,6 +345,7 @@
 <item drawable="dropbox" />
 <item drawable="jtx_board" />
 <item drawable="mediafire" />
+<item drawable="microsoft_365" />
 <item drawable="nextcloud" />
 
 <category title="Keyboards" />
@@ -356,11 +358,20 @@
 <item drawable="multiling_o_keyboard" />
 <item drawable="unexpected_keyboard" />
 
-<category title="Shopping" />
-<item drawable="amazon" />
-<item drawable="amazon_appstore" />
+<category title="Shopping &amp; Financial" />
+<item drawable="aftership" />
+<item drawable="aliexpress" />
+<item drawable="anb" />
+<item drawable="appsales" />
+<item drawable="commbank" />
+<item drawable="ebay" />
+<item drawable="mada_pay" />
 <item drawable="mcdonalds" />
+<item drawable="my_stc" />
 <item drawable="nike" />
+<item drawable="paypal" />
+<item drawable="stc_pay" />
+<item drawable="uber" />
 <item drawable="uber_eats" />
 <item drawable="uniqlo" />
 <item drawable="walmart" />
@@ -385,6 +396,7 @@
 <item drawable="catima" />
 <item drawable="chai" />
 <item drawable="character_ai" />
+<item drawable="chatgpt" />
 <item drawable="code_editor" />
 <item drawable="deepl" />
 <item drawable="desmos" />
@@ -401,13 +413,13 @@
 <item drawable="files_2" />
 <item drawable="files_3" />
 <item drawable="fluid_navigation_gestures" />
+<item drawable="free_download_manager" />
 <item drawable="freeotp" />
 <item drawable="google_news" />
 <item drawable="google_translate" />
 <item drawable="hobbyconnect" />
 <item drawable="keepassdx" />
 <item drawable="kfz_kennzeichen" />
-<item drawable="kindle" />
 <item drawable="lovense_remote" />
 <item drawable="magisk" />
 <item drawable="markor" />
@@ -421,10 +433,10 @@
 <item drawable="notes" />
 <item drawable="notificationlog" />
 <item drawable="nova_launcher" />
+<item drawable="oneplus_clone_phone" />
 <item drawable="open_note_scanner" />
 <item drawable="osmand" />
 <item drawable="osmand_plus" />
-<item drawable="paypal" />
 <item drawable="protonvpn" />
 <item drawable="qr" />
 <item drawable="quickedit" />
@@ -469,7 +481,6 @@
 <item drawable="arcticons_light" />
 <item drawable="arcticons_you" />
 <item drawable="delta_iconpack" />
-<item drawable="commbank" />
 <item drawable="cosplay" />
 <item drawable="optus" />
 
