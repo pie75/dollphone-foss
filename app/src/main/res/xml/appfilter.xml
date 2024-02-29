@@ -2000,6 +2000,7 @@
 
     <!-- Steam -->
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam" />
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}" drawable="steam" />
 
     <!-- StepManiaX Tracker -->
     <item component="ComponentInfo{com.steprevolution.smxmobile/com.steprevolution.smxmobile.MainActivity}" drawable="stepmaniax" />
@@ -2225,5 +2226,8 @@
 
     <!-- Zoom -->
     <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
+
+    <!-- GraphineOs browser -->
+    <item component="ComponentInfo{app.vanadium.browser/com.google.android.apps.chrome.Main}" drawable="vanadium_browser"/>
 
 </resources>
