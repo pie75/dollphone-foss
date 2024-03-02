@@ -1,3 +1,8 @@
+# 2024-03-??
+- Added Ankit Malik's requests: ?? new icons, new aliases for existing icons
+- Added contributor icon: Vanadium Browser
+- Contributor corrected AppFilter for Steam
+
 # 2024-02-28
 - Added Murtada Sahwan’s requests: 21 new icons, new aliases for existing icons
 - Modified KFZ Kennzeichen and Outlook
