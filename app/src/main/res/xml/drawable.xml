@@ -23,6 +23,7 @@
 <item drawable="stc_pay" />
 <item drawable="xbox_game_pass" />
 <item drawable="ymusic" />
+<item drawable="vanadium_browser" />
 
 <category title="System" />
 <item drawable="alarm_clock" />
@@ -214,6 +215,7 @@
 <item drawable="puffin" />
 <item drawable="tor" />
 <item drawable="send_to_browser" />
+<item drawable="vanadium_browser" />
 
 <category title="SMS &amp; Email" />
 <item drawable="element" />
