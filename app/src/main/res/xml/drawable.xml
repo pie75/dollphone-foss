@@ -24,6 +24,13 @@
 <item drawable="xbox_game_pass" />
 <item drawable="ymusic" />
 <item drawable="black_clover_m" />
+<item drawable="burger_king" />
+<item drawable="kentucky_fried_chicken" />
+<item drawable="mos_burger" />
+<item drawable="phase_10" />
+<item drawable="playing_cards" />
+<item drawable="starbucks" />
+<item drawable="uno" />
 <item drawable="vanadium_browser" />
 
 <category title="System" />

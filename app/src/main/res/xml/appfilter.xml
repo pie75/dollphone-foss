@@ -207,6 +207,9 @@
     <!-- Bubble -->
     <item component="ComponentInfo{org.woheller69.level/org.woheller69.level.Level}" drawable="bubble" />
 
+    <!-- Burger King (Japan) -->
+    <item component="ComponentInfo{jp.co.burgerkingjapan/com.mcnc.bizmob.base.SlideFragmentActivity}" drawable="burger_king"/>
+
     <!-- Cache Cleaner -->
     <item component="ComponentInfo{com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity}" drawable="cache_cleaner" />
 
@@ -906,6 +909,9 @@
     <!-- Keyman -->
     <item component="ComponentInfo{com.tavultesoft.kmapro/com.tavultesoft.kmapro.SplashScreenActivity}" drawable="keyman" />
 
+    <!-- KFC (Japan) -->
+    <item component="ComponentInfo{jp.dreambrain.adiorama/jp.co.kfc.ui.MainActivity}" drawable="kentucky_fried_chicken"/>
+
     <!-- KFZ-Kennzeichen -->
     <item component="ComponentInfo{luke.kfz/luke.kfz.MainActivity}" drawable="kfz_kennzeichen" />
 
@@ -1034,6 +1040,9 @@
 
     <!-- Monocles Mail -->
     <item component="ComponentInfo{de.monocles.mail/com.fsck.k9.activity.MessageList}" drawable="monocles_mail" />
+
+    <!-- MOS Burger -->
+    <item component="ComponentInfo{jp.co.mos.MosBurger/jp.co.mos.MosBurger.MainActivity}" drawable="mos_burger"/>
 
     <!-- Motorola Game Mode -->
     <item component="ComponentInfo{com.motorola.gamemode/com.motorola.gamemode.ui.launcher.main.GameCenterActivity}" drawable="games" />
@@ -1245,6 +1254,9 @@
 
     <!-- PayPal -->
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" />
+
+    <!-- Phase 10 -->
+    <item component="ComponentInfo{com.mattel163.phase10/com.netease.uno.CustomOverrideActivity}" drawable="phase_10"/>
 
     <!-- Phone -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="phone" />
@@ -1960,6 +1972,9 @@
     <!-- Snapchat -->
     <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
 
+    <!-- Solitaire -->
+    <item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="solitaire"/>
+
     <!-- Soundcloud -->
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.MainActivity}" drawable="soundcloud" />
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="soundcloud" />
@@ -1997,6 +2012,9 @@
 
     <!-- Squarepic -->
     <item component="ComponentInfo{nocrop.photoeditor.squarepic/com.shamble.instafit.SplashActivity}" drawable="squarepic" />
+
+    <!-- Starbucks (Japan) -->
+    <item component="ComponentInfo{com.starbucks.jp/com.appunite.sbj.splash.SplashActivity}" drawable="starbucks"/>
 
     <!-- stc pay -->
     <item component="ComponentInfo{sa.com.stcpay/sa.com.stcpay.launcher_d2bb6544d0c7607f9e371c3f8be743ad2954f8102a2c7f7665390b1561acfb47}" drawable="stc_pay" />
@@ -2110,6 +2128,9 @@
 
     <!-- Unexpected Keyboard -->
     <item component="ComponentInfo{juloo.keyboard2/juloo.keyboard2.LauncherActivity}" drawable="unexpected_keyboard" />
+
+    <!-- UNO -->
+    <item component="ComponentInfo{com.matteljv.uno/com.netease.uno.CustomOverrideActivity}" drawable="uno"/>
 
     <!-- UnicodePad -->
     <item component="ComponentInfo{jp.ddo.hotmist.unicodepad/jp.ddo.hotmist.unicodepad.UnicodeActivity}" drawable="unicode" />
