@@ -194,6 +194,9 @@
     <item component="ComponentInfo{com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity}" drawable="bitwarden" />
     <item component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}" drawable="bitwarden" />
 
+    <!-- Black Clover M -->
+    <item component="ComponentInfo{com.garena.game.bc/com.epicgames.ue4.SplashActivity}" drawable="black_clover_m" />
+
     <!-- Browser -->
     <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser" />
     <item component="ComponentInfo{com.mi.globalbrowser/com.mi.globalbrowser.Main}" drawable="browser" />
