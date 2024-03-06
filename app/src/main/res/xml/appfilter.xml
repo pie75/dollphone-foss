@@ -535,6 +535,9 @@
     <!-- Dotpict -->
     <item component="ComponentInfo{net.dotpicko.dotpict/net.dotpicko.dotpict.RoutingActivity}" drawable="pixel_art" />
 
+    <!-- DraStic -->
+    <item component="ComponentInfo{com.dsemu.drastic/com.dsemu.drastic.DraSticActivity}" drawable="nds"/>
+
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DbxMainActivity}" drawable="dropbox" />
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="dropbox" />
@@ -1056,7 +1059,7 @@
     <item component="ComponentInfo{com.mediafire.android/com.mediafire.android.MainActivity}" drawable="mediafire" />
 
     <!-- melonDS -->
-    <item component="ComponentInfo{me.magnum.melonds/me.magnum.melonds.ui.romlist.RomListActivity}" drawable="nds" />
+    <item component="ComponentInfo{me.magnum.melonds/me.magnum.melonds.ui.romlist.RomListActivity}" drawable="melonds" />
 
     <!-- MemeTastic -->
     <item component="ComponentInfo{io.github.gsantner.memetastic/net.gsantner.memetastic.activity.MainActivity}" drawable="memetastic" />
@@ -2036,6 +2039,9 @@
     <item component="ComponentInfo{com.simplytranslate/com.simplytranslate.MainActivity}" drawable="google_translate" />
     <item component="ComponentInfo{com.simplytranslate_mobile/com.simplytranslate_mobile.MainActivity}" drawable="google_translate" />
 
+    <!-- Slack -->
+    <item component="ComponentInfo{com.Slack/slack.features.home.HomeActivity}" drawable="slack"/>
+
     <!-- SmartNews -->
     <item component="ComponentInfo{jp.gocro.smartnews.android/jp.gocro.smartnews.android.activity.SmartNewsActivity}" drawable="smartnews" />
 
@@ -2045,8 +2051,8 @@
     <!-- Snapchat -->
     <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
 
-    <!-- Solitaire -->
-    <item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="solitaire"/>
+    <!-- Solitaire (Microsoft Solitaire Collection) -->
+    <item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="playing_cards"/>
 
     <!-- Soundcloud -->
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.MainActivity}" drawable="soundcloud" />
