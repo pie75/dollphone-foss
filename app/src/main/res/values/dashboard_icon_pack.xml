@@ -12,18 +12,18 @@
     <string name="developerName">Haley Halcyon</string>
     <string name="authorName">Haley Halcyon</string>
 
-    <string name="authorLink">http://2gd4.me</string>
-    <string name="developer_link">http://2gd4.me</string>
+    <string name="authorLink" translatable="false">http://2gd4.me</string>
+    <string name="developer_link" translatable="false">http://2gd4.me</string>
 
     <string name="theme_description">A cute, cartoonish, pastel icon pack.</string>
     <string name="theme_info">A cute, cartoonish, pastel icon pack.</string>
     <string name="theme_ad_msg">A cute, cartoonish, pastel icon pack.</string>
 
-    <string name="theme_feature">feature</string>
+    <string name="theme_feature" translatable="false">feature</string>
 
-    <string name="theme_preview1">preview1</string>
-    <string name="theme_preview2">preview2</string>
+    <string name="theme_preview1" translatable="false">preview1</string>
+    <string name="theme_preview2" translatable="false">preview2</string>
 
-    <string name="iconpack">me.x2gd4.dollphone</string>
+    <string name="iconpack" translatable="false">me.x2gd4.dollphone</string>
 
 </resources>

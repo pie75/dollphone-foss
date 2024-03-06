@@ -20,6 +20,6 @@
 
     <!-- Default Wallpaper
     - Name your default wallpaper with "wall0" (MUST) -->
-    <string name="default_wallpaper">wall0</string>
+    <string name="default_wallpaper" translatable="false">wall0</string>
 
 </resources>

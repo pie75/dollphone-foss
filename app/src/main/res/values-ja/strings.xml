@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dollphone</string>
+    <string name="home_title">Dollphoneアイコンパック</string>
+    <string name="home_description">"<![CDATA[
+<b>Dollphone</b>（ドールフォーン）は、かわいいアイコンパックです。角は丸くて、直線的な部分は少し膨らんでいて、人形のような雰囲気です。かわいい雑貨と少しレトロな家電製品にも構想を得ています。
+<br>
+このアイコンパックが気に入って、私の創作活動を支援したいと思った方は、<a href="https://ko-fi.com/itsspelledhaley">Ko-fiから寄付する</a>ことを考えてみてください。
+<br>
+欠けているアイコンがあったら、「アイコンリクエスト」機能を使ってください。まとめて制作してアップデートします。]]>"</string>
+    <string name="share_link">https://2gd4.me/dollphone</string>
+    <string name="regular_request_email_subject">Dollphoneリクエスト</string>
+    <string name="about_title">はるるちゃん</string>
+    <string name="about_desc">"<![CDATA[
+初音ミクと故郷が同じ、インディーズのプログラマーでグラフィックデザイナー。
+<a href="https://2gd4.me">ホームページ</a>、<a href="https://haitouch.ga/ja">個人ゲームスタジオのウェブサイト</a>、<a href="https://ko-fi.com/itsspelledhaley">仮想募金箱</a>もご覧ください。]]>"</string>
+    <string name="theme_title">Dollphoneアイコンパック</string>
+    <string name="theme_name">Dollphoneアイコンパック</string>
+    <string name="theme_author">はるるちゃん</string>
+    <string name="developer_name">はるるちゃん</string>
+    <string name="developerName">はるるちゃん</string>
+    <string name="authorName">はるるちゃん</string>
+    <string name="theme_description">ゆるかわアイコンパック。</string>
+    <string name="theme_info">ゆるかわアイコンパック。</string>
+    <string name="theme_ad_msg">ゆるかわアイコンパック。</string>
+</resources>
