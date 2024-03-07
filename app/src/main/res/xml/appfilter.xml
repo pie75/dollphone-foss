@@ -1190,6 +1190,13 @@
     <!-- nds4droid -->
     <item component="ComponentInfo{com.opendoorstudios.ds4droid/com.opendoorstudios.ds4droid.MainActivity}" drawable="nds" />
 
+	<!-- Nedbank Apps -->
+	<item component="ComponentInfo{za.co.nedbank/za.co.nedbank.ui.splashscreen.SplashScreenActivity}" drawable="nedbank_green" />
+	<item component="ComponentInfo{za.co.nedsecure.nedbankSMAS/za.co.entersekt.nedbank.MainActivity}" drawable="nedbank_green" />
+	<item component="ComponentInfo{za.co.nedbank.roa/com.zentity.nedbank.roa.NedbankActivity}" drawable="nedbank_green" />
+	<item component="ComponentInfo{za.co.nedbank.privatewealth/com.zentity.nedbank.NedbankActivity}" drawable="nedbank_black" />
+	<item component="ComponentInfo{com.entersekt.authapp.nedbank.nba.prod/com.entersekt.authapp.MainActivity}" drawable="nedbank_auth" />
+	
     <!-- Neko Atsume -->
     <item component="ComponentInfo{jp.co.hit_point.nekoatsume/jp.co.hit_point.nekoatsume.GActivity}" drawable="neko_atsume"/>
 
