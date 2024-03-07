@@ -40,6 +40,8 @@ Follow some of the specs and guidelines. Some requirements are more flexible tha
 
 ![](howto_palette.png)
 
+* The Palette below is provided as a GIMP Palette [here](dollphone-foss.gpl), for use in Inkscape.
+	
 Color       |      BG | Outline |    Spot
 :--------   | ------: | ------: | ------:
 White       | #ffffff | #747474 | #ffffff

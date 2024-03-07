@@ -1,0 +1,51 @@
+GIMP Palette
+Name: Dollphone Icon Pack
+Columns: 3
+# Find the rest of the project at https://github.com/JapanYoshi/dollphone-foss
+255 255 255	White BG
+116 116 116	White Outline
+255 255 255	White Spot
+212 212 212	Gray BG
+100 100 100	Gray Outline
+143 143 143	Gray Spot
+76 76 76	Black BG
+55 55 55	Black Outline
+64 64 64	Black Spot
+181 206 225	Pale Blue BG
+102 147 177	Pale Blue Outline
+247 255 255	Pale Blue Spot
+116 139 155	Dark Gray BG
+101 117 128	Dark Gray Outline
+216 221 223	Dark Gray Spot
+
+255 128 144	Red BG
+213 66 93	Red Outline
+213 66 93	Red Spot
+248 195 101	Orange BG
+240 129 23	Orange Outline
+240 129 23	Orange Spot
+226 219 83	Yellow BG
+185 164 0	Yellow Outline
+224 214 13	Yellow Spot
+183 237 80	Green BG
+91 147 35	Green Outline
+82 211 72	Green Spot
+64 191 179	Teal BG
+44 115 127	Teal Outline
+71 174 191	Teal Spot
+
+118 221 254	Aqua BG
+85 152 204	Aqua Outline
+69 169 243	Aqua Spot
+109 159 233	Blue BG
+58 118 195	Blue Outline
+58 118 195	Blue Spot
+154 111 199	Purple BG
+107 90 131	Purple Outline
+175 95 204	Purple Spot
+255 176 240	Pink BG
+195 58 117	Pink Outline
+254 162 224	Pink Spot
+175 143 124	Brown BG
+116 86 77	Brown Outline
+158 101 69	Brown Spot
