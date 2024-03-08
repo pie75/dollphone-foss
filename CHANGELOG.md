@@ -1,7 +1,14 @@
-# 2024-03-??
-- Added Ankit Malik's requests: ?? new icons, new aliases for existing icons
+# 2024-03-08
+- Temporarily paused requests due to massive backlog
+- Added Discord link
+- Added Japanese translation
+- Added Burger King, Dijeweled Remastered, Kentucky Fried Chicken, MelonDS, Microsoft Solitaire Collection, MOS Burger, Phase 10, RetroArch Plus, Slack, Starbucks, UNO
+- Added alias for the English release of Project Sekai (Requested by Hamad Asghar)
+- Added 1~N of Ankit Malik’s requests: 48 new icons, 1 alias for existing icons
+- Added Yoanel’s request: Black Clover M
 - Added contributor icon: Vanadium Browser
 - Contributor corrected AppFilter for Steam
+- Added drop shadow to Metronome
 
 # 2024-02-28
 - Added Murtada Sahwan’s requests: 21 new icons, new aliases for existing icons

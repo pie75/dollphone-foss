@@ -73,19 +73,21 @@
         If you don't want to show any description, just leave this empty
         ex: <string name="home_description"></string>
         -->
-    <string name="home_description" translatable="false">
+    <string name="home_description">
         <![CDATA[
             <b>Dollphone</b> is a cute, pastel icon pack with rounded edges,
             gently bulging “straight” sides, and a doll-like aesthetic.
             It is inspired by cute stationery and lightly retro tech.
             <br>
+            Join the <a href="https://discord.gg/G4KBHz8ux6">Discord community server</a>!
+            <br>
             If you like this icon pack and want to support my ventures financially,
             please consider <a href="https://ko-fi.com/itsspelledhaley">tipping me on Ko-fi.</a>
             (The units are in yen, but it will automatically convert for you.)
             <br>
-            If you want to request an icon that’s missing,
+            <!--If you want to request an icon that’s missing,
             please use the integrated “Request icons” feature.
-            I’ll update the icon pack in batches.
+            I’ll update the icon pack in batches.-->
         ]]>
     </string>
 
