@@ -39,6 +39,7 @@
 <item drawable="opencalc" />
 <item drawable="phase_10" />
 <item drawable="playing_cards" />
+<item drawable="sgt_puzzles" />
 <item drawable="starbucks" />
 <item drawable="uno" />
 <item drawable="vanadium_browser" />
@@ -320,6 +321,7 @@
 <item drawable="neko_atsume" />
 <item drawable="project_sekai" />
 <item drawable="pump_it_up_m" />
+<item drawable="sgt_puzzles" />
 <item drawable="smule" />
 <item drawable="steam" />
 <item drawable="stepmaniax" />

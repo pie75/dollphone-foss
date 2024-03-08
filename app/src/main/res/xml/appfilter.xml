@@ -1405,6 +1405,9 @@
     <!-- Pump It Up M -->
     <item component="ComponentInfo{com.andamiro.piume/com.unity3d.player.UnityPlayerActivity}" drawable="pump_it_up_m" />
 
+	<!-- Puzzles -->
+	<item component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}" drawable="sgt_puzzles"/>
+
     <!-- QR/Barcode Scanner Pro -->
     <item component="ComponentInfo{com.barcode.qrcode.scanner.reader.pro/com.barcode.qrcode.scanner.reader.pro.activity.MainActivity}" drawable="qr" />
 
