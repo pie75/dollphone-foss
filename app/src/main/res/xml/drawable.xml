@@ -13,6 +13,7 @@
 <item drawable="bixby_vision" />
 <item drawable="black_clover_m" />
 <item drawable="bolt" />
+<item drawable="book_reader" />
 <item drawable="brave" />
 <item drawable="brawl_stars" />
 <item drawable="burger_king" />
@@ -412,6 +413,7 @@
 <item drawable="barcode" />
 <item drawable="bible" />
 <item drawable="bitwarden" />
+<item drawable="book_reader" />
 <item drawable="bubble" />
 <item drawable="cache_cleaner" />
 <item drawable="car_report" />

@@ -224,6 +224,9 @@
 	<!-- Bolt -->
 	<item component="ComponentInfo{ee.mtakso.client/ee.mtakso.client.activity.SplashHomeActivity}" drawable="bolt"/>
 
+	<!-- Book Reader -->
+	<item component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}" drawable="book_reader"/>
+
     <!-- Brave -->
     <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave" />
 
