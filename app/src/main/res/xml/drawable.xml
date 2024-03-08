@@ -12,6 +12,7 @@
 <item drawable="bhagavad_gita" />
 <item drawable="bixby_vision" />
 <item drawable="black_clover_m" />
+<item drawable="bolt" />
 <item drawable="brave" />
 <item drawable="brawl_stars" />
 <item drawable="burger_king" />
@@ -381,6 +382,7 @@
 <item drawable="aliexpress" />
 <item drawable="anb" />
 <item drawable="appsales" />
+<item drawable="bolt" />
 <item drawable="commbank" />
 <item drawable="ebay" />
 <item drawable="mada_pay" />
