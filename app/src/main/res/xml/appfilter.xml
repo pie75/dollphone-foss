@@ -1014,6 +1014,9 @@
     <!-- Lingo (third-party multilingual) -->
     <item component="ComponentInfo{com.MsbApps.Lingo/com.unity3d.player.UnityPlayerActivity}" drawable="lingo_classic" />
 
+	<!-- Loop Habit Tracker -->
+	<item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop_habits"/>
+
     <!-- Lovense Remote -->
     <item component="ComponentInfo{com.lovense.wear/com.wear.main.FlashActivity}" drawable="lovense_remote" />
 
