@@ -44,6 +44,8 @@
 <item drawable="playing_cards" />
 <item drawable="sgt_puzzles" />
 <item drawable="starbucks" />
+<item drawable="syncthing" />
+<item drawable="syncthing_lite" />
 <item drawable="uno" />
 <item drawable="vanadium_browser" />
 
@@ -483,6 +485,8 @@
 <item drawable="spacedesk" />
 <item drawable="streetcomplete" />
 <item drawable="spectrogram" />
+<item drawable="syncthing" />
+<item drawable="syncthing_lite" />
 <item drawable="tiny_weather_forecast" />
 <item drawable="trackercontrol" />
 <item drawable="translate" />
