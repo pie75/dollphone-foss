@@ -4,6 +4,8 @@
 
 ![Header image](./fastlane/metadata/android/en-US/images/featureGraphic.png)
 
+[Official Discord server](https://discord.gg/G4KBHz8ux6)
+
 ## English
 Dollphone is an icon pack that is very cute, but isn’t too hyper. The icons avoid overly saturated or dark colors, and softly bulge out the "straight" lines away from the center for a plushie-like look.
 
