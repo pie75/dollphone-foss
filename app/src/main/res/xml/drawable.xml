@@ -31,6 +31,7 @@
 <item drawable="florisboard" />
 <item drawable="galaxy_store" />
 <item drawable="kentucky_fried_chicken" />
+<item drawable="lichess"/>
 <item drawable="loop_habits" />
 <item drawable="mos_burger" />
 <item drawable="nedbank_auth" />
@@ -313,6 +314,7 @@
 <item drawable="jackbox" />
 <item drawable="just_dance_now" />
 <item drawable="lexica" />
+<item drawable="lichess"/>
 <item drawable="lingo_classic" />
 <item drawable="lingo_itv" />
 <item drawable="minecraft" />
