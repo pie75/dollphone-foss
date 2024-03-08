@@ -1265,6 +1265,7 @@
     <item component="ComponentInfo{org.secuso.privacyfriendlynotes/org.secuso.privacyfriendlynotes.ui.SplashActivity}" drawable="notes" />
     <item component="ComponentInfo{ea.simple.notes/ea.simple.notes.MainApp.a}" drawable="notes" />
     <item component="ComponentInfo{org.billthefarmer.notes/org.billthefarmer.notes.Notes}" drawable="notes" />
+	<item component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}" drawable="notes"/>
     <item component="ComponentInfo{com.samsung.android.app.memo/com.samsung.android.app.memo.Main}" drawable="notes" />
     <item component="ComponentInfo{com.oneplus.note/com.nearme.note.main.MainActivity}" drawable="notes" />
 
