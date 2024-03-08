@@ -981,6 +981,9 @@
     <!-- Karaoke Kan -->
     <item component="ComponentInfo{jp.karaokekan.karakan.karakan/jp.karaokekan.karakan.karakan.MainActivity}" drawable="karaoke_kan" />
 
+	<!-- Karma FW -->
+	<item component="ComponentInfo{net.stargw.fok/net.stargw.karma.ActivityMain}" drawable="karma_fw"/>
+
     <!-- Keep Notes -->
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="notes" />
 
