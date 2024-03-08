@@ -39,6 +39,7 @@
 <item drawable="nedbank_auth" />
 <item drawable="nedbank_black" />
 <item drawable="nedbank_green" />
+<item drawable="nihonoari" />
 <item drawable="opencalc" />
 <item drawable="phase_10" />
 <item drawable="playing_cards" />
@@ -512,6 +513,7 @@
 <item drawable="dictionary_ko_hangul" />
 <item drawable="dictionary_zh" />
 <item drawable="dictionary_zh_hans" />
+<item drawable="nihonoari" />
 <item drawable="wiktionary" />
 
 <category title="Other" />
