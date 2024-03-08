@@ -9,6 +9,7 @@
 - Added contributor icon: Vanadium Browser
 - Contributor corrected AppFilter for Steam
 - Added drop shadow to Metronome
+- Temporarily changed app icon
 
 # 2024-02-28
 - Added Murtada Sahwan’s requests: 21 new icons, new aliases for existing icons

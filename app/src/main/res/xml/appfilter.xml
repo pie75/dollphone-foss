@@ -531,7 +531,7 @@
     <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RequestPermissionsActivity}" drawable="documents" />
 
     <!-- Dollphone (Just to stop this from showing up in requested icons) -->
-    <item component="ComponentInfo{me.x2gd4.dollphone/me.x2gd4.dollphone.activities.MainActivity}" drawable="dollphone" />
+    <item component="ComponentInfo{me.x2gd4.dollphone/me.x2gd4.dollphone.activities.MainActivity}" drawable="gamergate" />
 
     <!-- Dolphin Emulator -->
     <item component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity}" drawable="dolphin" />
