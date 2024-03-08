@@ -26,6 +26,7 @@
 <item drawable="dmss" />
 <item drawable="eds_lite" />
 <item drawable="eternity" />
+<item drawable="everyday_tasks"/>
 <item drawable="extirpater" />
 <item drawable="fall" />
 <item drawable="florisboard" />
@@ -434,6 +435,7 @@
 <item drawable="dual_wallpaper" />
 <item drawable="duolingo" />
 <item drawable="easy_xkcd" />
+<item drawable="everyday_tasks"/>
 <item drawable="fake_chat" />
 <item drawable="fake_traveler" />
 <item drawable="fdroid" />

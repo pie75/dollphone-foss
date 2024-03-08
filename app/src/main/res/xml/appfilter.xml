@@ -605,6 +605,9 @@
 
     <!-- Eternity -->
     <item component="ComponentInfo{eu.toldi.infinityforlemmy/eu.toldi.infinityforlemmy.DefaultIcon}" drawable="eternity_for_lemmy" />
+	
+	<!-- Everyday Tasks -->
+	<item component="ComponentInfo{de.jepfa.personaltasklogger/de.jepfa.personaltasklogger.MainActivity}" drawable="everyday_tasks"/>
 
     <!-- Explorer -->
     <item component="ComponentInfo{com.speedsoftware.explorer/com.speedsoftware.explorer.Explorer}" drawable="files_2" />
