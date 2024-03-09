@@ -1,3 +1,7 @@
+# 2024-03-??
+- Removed the edges of reference images appearing on Aurora Shop’s icon
+- Fixed Eternity for Lemmy not appearing the icon list
+
 # 2024-03-08
 - Temporarily paused requests due to massive backlog
 - Added Discord link

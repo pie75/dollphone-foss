@@ -7,8 +7,8 @@ android {
         applicationId 'me.x2gd4.dollphone'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 9
-        versionName '1.0.8'
+        versionCode 10
+        versionName '1.1.0'
         multiDexEnabled true
 
         // Naming app bundles
