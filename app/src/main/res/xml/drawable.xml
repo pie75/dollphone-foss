@@ -5,6 +5,7 @@
 <category title="Recent" />
 <item drawable="bilibili" />
 <item drawable="niconico" />
+<item drawable="too_good_to_go" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -398,6 +399,7 @@
 <item drawable="paypal" />
 <item drawable="starbucks" />
 <item drawable="stc_pay" />
+<item drawable="too_good_to_go" />
 <item drawable="uber" />
 <item drawable="uber_eats" />
 <item drawable="uniqlo" />
