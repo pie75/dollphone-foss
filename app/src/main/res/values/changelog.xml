@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date" translatable="false">2024-03-08</string>
+    <string name="changelog_date" translatable="false">2024-03-??</string>
 
     <string-array name="changelog">
-        <item>Temporarily paused requests due to massive backlog</item>
-        <item>Added Discord link</item>
-        <item>Added Japanese translation</item>
-        <item>Added Burger King, Dijeweled Remastered, Kentucky Fried Chicken, MelonDS, Microsoft Solitaire Collection, MOS Burger, Phase 10, RetroArch Plus, Slack, Starbucks, UNO</item>
-        <item>Added alias for the English release of Project Sekai (Requested by Hamad Asghar)</item>
-        <item>Added #~N of Ankit Malik’s requests: 48 new icons, 1 alias for existing icons</item>
-        <item>Added Yoanel’s request: Black Clover M</item>
-        <item>Added Amber’s request: wX</item>
-        <item>Added contributor icon: Vanadium Browser</item>
-        <item>Contributor corrected AppFilter for Steam</item>
-        <item>Added drop shadow to Metronome</item>
+        <item></item>
     </string-array>
 
 </resources>
