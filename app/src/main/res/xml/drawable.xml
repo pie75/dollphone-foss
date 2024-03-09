@@ -3,6 +3,8 @@
 <version>1</version>
 
 <category title="Recent" />
+<item drawable="bilibili" />
+<item drawable="niconico" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -183,10 +185,12 @@
 <category title="Video" />
 <item drawable="video" />
 <item drawable="bendystraw" />
+<item drawable="bilibili" />
 <item drawable="mx_player_pro" />
 <item drawable="netflix" />
 <item drawable="newpipe" />
 <item drawable="next_player" />
+<item drawable="niconico" />
 <item drawable="vlc" />
 <item drawable="youtube" />
 <item drawable="youtube_kids" />
