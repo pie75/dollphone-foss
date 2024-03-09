@@ -1,6 +1,11 @@
 # 2024-03-??
 - Removed the edges of reference images appearing on Aurora Shop’s icon
 - Fixed Eternity for Lemmy not appearing the icon list
+- Added alias for `MainBrandDark` activity on Discord (Did the requester change the app icon in the app? I wouldn't know because I don't want Nitro)
+- Added multiple Telegram icon aliases; why are there so many?!
+- Added KDE Connect alias
+- Added Google Classroom alias
+- Added Tiktok alias
 
 # 2024-03-08
 - Temporarily paused requests due to massive backlog

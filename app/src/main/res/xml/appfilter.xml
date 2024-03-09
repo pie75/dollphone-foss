@@ -476,6 +476,7 @@
 
     <!-- DeepL -->
     <item component="ComponentInfo{com.example.deeplviewer/com.example.deeplviewer.MainActivity}" drawable="deepl" />
+    <item component="ComponentInfo{com.deepl.mobiletranslator/com.deepl.mobiletranslator.MainActivity}" drawable="deepl" />
 
     <!-- DeepL Translator -->
     <item component="ComponentInfo{com.jamal2367.deepl/com.jamal2367.deepl.MainActivity}" drawable="deepl" />
@@ -519,8 +520,8 @@
     <item component="ComponentInfo{com.company.game/com.company.game.RunnerActivity}" drawable="dijeweled" />
 
     <!-- Discord -->
-    <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
     <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
+    <item component="ComponentInfo{com.discord/com.discord.main.MainBrandDark}" drawable="discord" />
 
     <!-- DMSS -->
     <item component="ComponentInfo{com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity}" drawable="dmss" />
@@ -795,6 +796,9 @@
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
     <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="chrome" />
     <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="chrome" />
+    
+    <!-- Google Classroom -->
+    <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.classroomflutter.MainActivity}" drawable="classroom" />
 
     <!-- Google Clock -->
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
@@ -957,6 +961,7 @@
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
     <item component="ComponentInfo{com.instander.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
     <item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="instagram" />
+    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity1}" drawable="instagram" />
 
     <!-- Instagram Threads -->
     <item component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}" drawable="threads"/>
@@ -984,6 +989,9 @@
 
     <!-- Karaoke Kan -->
     <item component="ComponentInfo{jp.karaokekan.karakan.karakan/jp.karaokekan.karakan.karakan.MainActivity}" drawable="karaoke_kan" />
+
+    <!-- KDE Connect -->
+    <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kde_connect" />
 
     <!-- Keep Notes -->
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="notes" />
@@ -1578,6 +1586,7 @@
 
     <!-- Signal -->
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
+
     <!-- Simple Calculator -->
     <item component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Pink}" drawable="calculator" />
     <item component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Purple}" drawable="calculator" />
@@ -2181,10 +2190,12 @@
 
     <!-- Telegram -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram" />
+    <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
     <item component="ComponentInfo{org.telegram.messenger.beta/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram" />
-    <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.ui.LaunchActivity}" drawable="telegram" />
-    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
 
     <!-- Telegram Plus -->
     <item component="ComponentInfo{org.telegram.plus/org.telegram.ui.LaunchActivity}" drawable="telegram" />
@@ -2207,6 +2218,9 @@
 
     <!-- Threema Libre -->
     <item component="ComponentInfo{ch.threema.app.libre/ch.threema.app.activities.MainActivity}" drawable="threema_libre" />
+
+    <!-- TikTok -->
+    <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
 
     <!-- Tinder -->
     <item component="ComponentInfo{com.tinder/com.tinder.launch.internal.activities.LoginActivity}" drawable="tinder" />
