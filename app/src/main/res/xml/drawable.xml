@@ -6,6 +6,7 @@
 <item drawable="bilibili" />
 <item drawable="niconico" />
 <item drawable="too_good_to_go" />
+<item drawable="torservices" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -499,6 +500,7 @@
 <item drawable="streetcomplete" />
 <item drawable="spectrogram" />
 <item drawable="tiny_weather_forecast" />
+<item drawable="torservices" />
 <item drawable="trackercontrol" />
 <item drawable="translate" />
 <item drawable="tunnelbear" />
