@@ -2288,7 +2288,7 @@
     <item component="ComponentInfo{com.android.VideoPlayer/com.android.VideoPlayer.VideoPlayer}" drawable="video" />
 
 	<!-- Voice Search -->
-	<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="googleapp"/>
+	<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="voice_search"/>
 
     <!-- Waifu2x -->
     <item component="ComponentInfo{com.kaede_software.superresolutionwaifu2x/com.kaede_software.superresolutionwaifu2x.SdFileListActivity}" drawable="waifu2x" />

@@ -50,6 +50,7 @@
 <item drawable="syncthing_lite" />
 <item drawable="uno" />
 <item drawable="vanadium_browser" />
+<item drawable="google_voice_search"/>
 
 <category title="System" />
 <item drawable="alarm_clock" />
@@ -157,6 +158,7 @@
 <item drawable="google_slides" />
 <item drawable="play_store" />
 <item drawable="google_translate" />
+<item drawable="google_voice_search"/>
 
 <category title="Microsoft" />
 <item drawable="microsoft_365" />
