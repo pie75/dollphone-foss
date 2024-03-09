@@ -208,6 +208,12 @@
     <item component="ComponentInfo{com.pmp.biblia/com.pmp.biblia.views.activities.SplashScreenActivity_}" drawable="bible" />
     <item component="ComponentInfo{yuku.alkitab.kjv/yuku.alkitab.base.IsiActivity}" drawable="bible" />
 
+    <!-- Bilibili -->
+    <item component="ComponentInfo{com.bstar.intl/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili"/>
+    <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}" drawable="bilibili"/>
+    <item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.MainActivityV2}" drawable="bilibili"/>
+    <item component="ComponentInfo{tv.danmaku.bilibilihd/tv.danmaku.bili.MainActivityV2}" drawable="bilibili"/>
+
     <!-- Binary Eye -->
     <item component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" drawable="qr_code" />
 
@@ -1242,6 +1248,9 @@
 
     <!-- Next Player -->
     <item component="ComponentInfo{dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity}" drawable="next_player" />
+
+    <!-- Niconico Douga / ﾆｺﾆｺ動画 -->
+    <item component="ComponentInfo{jp.nicovideo.android/jp.nicovideo.android.StartupActivity}" drawable="niconico"/>
 
     <!-- Night Filter -->
     <item component="ComponentInfo{com.digipom.nightfilter/com.digipom.nightfilter.activity.StartActivity}" drawable="night_mode" />
