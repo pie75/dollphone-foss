@@ -766,6 +766,9 @@
     <!-- GIFShop -->
     <item component="ComponentInfo{com.gif.gifmaker/com.gif.gifmaker.ui.splash.SplashScreen}" drawable="gifshop" />
 
+	<!-- Git Quick Reference -->
+	<item component="ComponentInfo{io.github.easyintent.quickref/io.github.easyintent.quickref.MainActivityEx}" drawable="git_quick_reference"/>
+
     <!-- Glitch Lab -->
     <item component="ComponentInfo{com.ilixa.glitch/com.ilixa.glitch.GlitchActivity}" drawable="glitch_lab" />
 

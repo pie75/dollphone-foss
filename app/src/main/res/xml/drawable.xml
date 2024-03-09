@@ -31,6 +31,7 @@
 <item drawable="fall" />
 <item drawable="florisboard" />
 <item drawable="galaxy_store" />
+<item drawable="git_quick_reference"/>
 <item drawable="karma_fw"/>
 <item drawable="kentucky_fried_chicken" />
 <item drawable="lichess"/>
@@ -451,6 +452,7 @@
 <item drawable="freeotp" />
 <item drawable="google_news" />
 <item drawable="google_translate" />
+<item drawable="git_quick_reference"/>
 <item drawable="hobbyconnect" />
 <item drawable="karma_fw"/>
 <item drawable="keepassdx" />
