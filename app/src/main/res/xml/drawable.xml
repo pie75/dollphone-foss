@@ -45,6 +45,7 @@
 <item drawable="opencalc" />
 <item drawable="phase_10" />
 <item drawable="playing_cards" />
+<item drawable="ruffle" />
 <item drawable="sgt_puzzles" />
 <item drawable="starbucks" />
 <item drawable="syncthing" />
@@ -364,6 +365,7 @@
 <item drawable="psp" />
 <item drawable="psx" />
 <item drawable="retroarch" />
+<item drawable="ruffle" />
 <item drawable="sfc" />
 <item drawable="winlator" />
 

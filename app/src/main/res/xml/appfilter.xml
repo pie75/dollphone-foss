@@ -1525,6 +1525,9 @@
     <!-- ReVanced Manager -->
     <item component="ComponentInfo{app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity}" drawable="revanced_manager" />
 
+	<!-- Ruffle -->
+	<item component="ComponentInfo{rs.ruffle/rs.ruffle.MainActivity}" drawable="ruffle" />
+
     <!-- Samsung Browser -->
     <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser" />
     <item component="ComponentInfo{com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser" />
