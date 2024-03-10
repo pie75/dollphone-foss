@@ -5,6 +5,7 @@
 <category title="Recent" />
 <item drawable="a__1dm_plus" />
 <item drawable="activity_manager" />
+<item drawable="adobe_air" />
 <item drawable="apps_packages_info" />
 <item drawable="aurora_shop" />
 <item drawable="azar" />
@@ -172,6 +173,7 @@
 
 <category title="Adobe" />
 <item drawable="adobe_acrobat" />
+<item drawable="adobe_air" />
 
 <category title="Images &amp; Editing" />
 <item drawable="easy_pose" />

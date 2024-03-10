@@ -65,6 +65,9 @@
     <!-- Adobe Acrobat -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat" />
 
+	<!-- Adobe AIR -->
+	<item component="ComponentInfo{com.adobe.air/com.adobe.air.AdobeAIRMainActivity}" drawable="adobe_air" />
+
     <!-- Aegis -->
     <item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" drawable="aegis" />
 
