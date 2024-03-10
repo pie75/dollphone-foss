@@ -698,6 +698,19 @@
     <item component="ComponentInfo{org.mozilla.fenix.nightly/org.mozilla.fenix.nightly.App}" drawable="firefox_nightly" />
     <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.App}" drawable="firefox_nightly" />
 
+    <!-- Five Nights at Freddy's -->
+    <item component="ComponentInfo{com.scottgames.fivenightsatfreddys/com.scottgames.fivenightsatfreddys.Main}" drawable="five_nights_at_freddys"/>
+
+    <!-- Five Nights at Freddy's 2 -->
+    <item component="ComponentInfo{com.scottgames.fnaf2/com.scottgames.fnaf2.Main}" drawable="five_nights_at_freddys_2"/>
+
+    <!-- Five Nights at Freddy's 3 -->
+    <item component="ComponentInfo{com.scottgames.fnaf3/com.scottgames.fnaf3.Main}" drawable="five_nights_at_freddys_3"/>
+
+    <!-- Five Nights at Freddy's 4 -->
+    <item component="ComponentInfo{com.scottgames.fnaf4/com.scottgames.fnaf4.Main}" drawable="five_nights_at_freddys_4"/>
+    <item component="ComponentInfo{com.spanishprojectteam.fnaf4/com.spanishprojectteam.fnaf4.Main}" drawable="five_nights_at_freddys_4"/>
+
     <!-- FlorisBoard -->
     <item component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard" />
 
