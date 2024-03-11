@@ -1330,8 +1330,11 @@
     <!-- NWS NOW -->
     <item component="ComponentInfo{net.nwsnow.amazon/weather.Google.Activities.MainActivity}" drawable="weather" />
 
-	<!-- Ola Party -->
-	<item component="ComponentInfo{com.live.party/com.yy.hiyo.MainActivity}" drawable="ola_party" />
+    <!-- Ola Party -->
+    <item component="ComponentInfo{com.live.party/com.yy.hiyo.MainActivity}" drawable="ola_party" />
+
+    <!-- OmeTV -->
+    <item component="ComponentInfo{omegle.tv/omegle.tv.SplashActivity}" drawable="ometv" />
 
     <!-- OnePlus Clone Phone -->
     <item component="ComponentInfo{com.oneplus.backuprestore/com.oplus.phoneclone.PhoneCloneMainActivity}" drawable="oneplus_clone_phone" />
@@ -1360,6 +1363,9 @@
 
     <!-- Open Note Scanner -->
     <item component="ComponentInfo{com.todobom.opennotescanner/com.todobom.opennotescanner.OpenNoteScannerActivity}" drawable="open_note_scanner" />
+
+    <!-- Open Stable Diffuson -->
+    <item component="ComponentInfo{com.openstablediffusion/com.openstablediffusion.MainActivity}" drawable="open_stable_diffusion"/>
 
     <!-- OpenWeather -->
     <item component="ComponentInfo{uk.co.openweather/uk.co.openweather.SplashActivity}" drawable="openweather" />
