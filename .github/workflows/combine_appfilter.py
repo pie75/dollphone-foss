@@ -67,7 +67,23 @@ def calculate_sha1(content):
     return sha1.hexdigest()
 
 def combine_all_appfilters():
-    appfilter_files = ['newicons/appfilter.xml']
+
+    # Try to get the content of the existing combined_appfilter.xml file
+    try:
+        existing_file = repo.get_contents('app/src/main/res/xml/appfilter.xml', ref='main')
+        if existing_file:
+            response = requests.get(file.raw_url)
+            if response.status_code == 200:
+                content = response.content.decode('utf-8')
+                with open('newicons/appfilter.xml', 'w', encoding='utf-8') as f:
+                    f.write(content)
+                print(f"Downloaded appfilter.xml: {file.filename}")
+                appfilter_files= ['newicons/appfilter.xml']
+        else:
+            print("The existing_file is None.")
+    except Exception as e:
+        print(f"No existing appfilter.xml file found. {e}")
+        appfilter_files = ['app/src/main/res/xml/appfilter.xml']
 
     # Combine the appfilter.xml files
     print(f"Combining {appfilter_files} appfilter.xml files...")
@@ -88,7 +104,7 @@ def combine_all_appfilters():
         # Check if the pull request has an appfilter.xml file
         for file in files:
             print(f"File: {file.filename}")
-            if file.filename == 'newicons/appfilter.xml':
+            if file.filename == 'app/src/main/res/xml/appfilter.xml':
                 print(f"Found appfilter.xml: {file.filename}")
                 try:
                     response = requests.get(file.raw_url)
