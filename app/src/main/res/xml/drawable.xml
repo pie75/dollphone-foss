@@ -5,6 +5,7 @@
 <category title="Recent" />
 <item drawable="bilibili" />
 <item drawable="niconico" />
+<item drawable="ola_party" />
 <item drawable="too_good_to_go" />
 <item drawable="torservices" />
 
@@ -260,6 +261,7 @@
 <item drawable="linkedin" />
 <item drawable="mixi" />
 <item drawable="monkey" />
+<item drawable="ola_party" />
 <item drawable="oneplus_community" />
 <item drawable="pinterest" />
 <item drawable="quora" />
