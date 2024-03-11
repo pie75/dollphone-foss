@@ -23,7 +23,7 @@ const debounce = (func, delay) => {
 };
 
 // Fetch and process data
-fetch('/requests.txt')
+fetch('https://raw.githubusercontent.com/JapanYoshi/dollphone-foss/main/generated/requests.txt')
     .then(response => {
         if (!response.ok) {
             throw new Error(`HTTP error! Status: ${response.status}`);
@@ -64,7 +64,7 @@ fetch('/requests.txt')
         appEntriesDataGlobal = appEntriesData;
 
         // Example usage:
-        fetch('https://raw.githubusercontent.com/Arcticons-Team/Arcticons/icon-requests/docs/assets/combined_appfilter.xml')
+        fetch('https://raw.githubusercontent.com/JapanYoshi/dollphone-foss/icon-requests/docs/assets/combined_appfilter.xml')
             .then(response => {
                 if (!response.ok) {
                     // If appfilter.xml cannot be loaded, render appEntriesData as is
