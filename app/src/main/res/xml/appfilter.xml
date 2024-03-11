@@ -2332,6 +2332,9 @@
     <item component="ComponentInfo{com.sony.tvsideview.videoph/com.sony.tvsideview.MainActivity}" drawable="video" />
     <item component="ComponentInfo{com.android.VideoPlayer/com.android.VideoPlayer.VideoPlayer}" drawable="video" />
 
+    <!-- Vivaldi -->
+	<item component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}" drawable="vivaldi" />
+
     <!-- Waifu2x -->
     <item component="ComponentInfo{com.kaede_software.superresolutionwaifu2x/com.kaede_software.superresolutionwaifu2x.SdFileListActivity}" drawable="waifu2x" />
 

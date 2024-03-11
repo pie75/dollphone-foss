@@ -8,6 +8,7 @@
 <item drawable="ola_party" />
 <item drawable="too_good_to_go" />
 <item drawable="torservices" />
+<item drawable="vivaldi" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -221,6 +222,7 @@
 <item drawable="tor" />
 <item drawable="send_to_browser" />
 <item drawable="vanadium_browser" />
+<item drawable="vivaldi" />
 
 <category title="SMS &amp; Email" />
 <item drawable="element" />
