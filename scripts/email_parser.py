@@ -23,14 +23,16 @@ def parse_args():
 
     parser.add_argument("folder_path", type=str, help="Path to folder containing .eml files of requests")
     parser.add_argument("appfilter_path", type=str, help="Path to existing appfilter.xml to recognize potentially updatable appfilters")
+    parser.add_argument("extracted_png_folder_path", type=str, help="Path to folder containing extracted PNGs")
     parser.add_argument("requests_path", nargs="?", type=str, default=None, help="Existing requests.txt file to augment with new info (optional)")
 
     return parser.parse_args()
 
 class EmailParser:
-    def __init__(self, folder_path, appfilter_path, requests_path=None):
+    def __init__(self, folder_path, appfilter_path, extracted_png_folder_path, requests_path=None):
         self.folder_path = Path(folder_path)
         self.appfilter_path = Path(appfilter_path)
+        self.extracted_png_folder_path = Path(extracted_png_folder_path)
         self.requests_path = Path(requests_path) if requests_path else None
 
         self.filelist = list(self.folder_path.glob('*.eml'))
@@ -124,7 +126,7 @@ class EmailParser:
                         with zip_file.open(file_info.filename) as png_file:
                             # Save the PNG file
                             png_content = png_file.read()
-                            png_filename = os.path.join("extracted_png", f"{drawable}.png")
+                            png_filename = os.path.join(self.extracted_png_folder_path, f"{drawable}.png")
                             done = False
                             number = 0
                             while not done:
@@ -141,12 +143,12 @@ class EmailParser:
                                 else:
                                     number += 1
                                     # Rename the PNG file and update the apps dictionary
-                                    png_filename = os.path.join("extracted_png", f"{drawable}_{number}.png")
+                                    png_filename = os.path.join(self.extracted_png_folder_path, f"{drawable}_{number}.png")
         except Exception as e:
             print(f"Error extracting PNG file: {e}")
     
     def delete_unused_icons(self):
-        extracted_png_folder = "extracted_png"
+        extracted_png_folder = self.extracted_png_folder_path
 
         # Get a list of all files in the extracted_png folder
         png_files = os.listdir(extracted_png_folder)
@@ -310,5 +312,5 @@ Last requested {reqDate}
 
 if __name__ == "__main__":
     args = parse_args()
-    parser = EmailParser(args.folder_path, args.appfilter_path, args.requests_path)
+    parser = EmailParser(args.folder_path, args.appfilter_path, args.extracted_png_folder_path, args.requests_path)
     parser.main()
