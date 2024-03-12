@@ -52,6 +52,7 @@
 <item drawable="syncthing_lite" />
 <item drawable="uno" />
 <item drawable="vanadium_browser" />
+<item drawable="who_here" />
 <item drawable="google_voice_search"/>
 
 <category title="System" />
@@ -340,6 +341,7 @@
 <item drawable="stepmaniax" />
 <item drawable="sudoku" />
 <item drawable="tetris" />
+<item drawable="who_here" />
 <item drawable="wordfeud" />
 <item drawable="xbox_game_pass" />
 <item drawable="ydkj" />
