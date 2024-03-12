@@ -2175,6 +2175,12 @@
     <!-- Sudoku Free -->
     <item component="ComponentInfo{com.app2go.sudokufree/com.app2go.sudokufree.MainActivity}" drawable="sudoku" />
 
+	<!-- Suntimes -->
+	<item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}" drawable="suntimes" />
+
+	<!-- Suntimes Alarms -->
+	<item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.alarmclock.ui.AlarmClockActivityLauncher}" drawable="suntimes_alarms" />
+
 	<!-- Syncthing Variants-->
 	<item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing"/>
 	<item component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing"/>

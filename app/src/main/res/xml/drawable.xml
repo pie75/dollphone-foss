@@ -49,6 +49,8 @@
 <item drawable="ruffle" />
 <item drawable="sgt_puzzles" />
 <item drawable="starbucks" />
+<item drawable="suntimes" />
+<item drawable="suntimes_alarms" />
 <item drawable="syncthing" />
 <item drawable="syncthing_lite" />
 <item drawable="uno" />
@@ -498,6 +500,8 @@
 <item drawable="spacedesk" />
 <item drawable="streetcomplete" />
 <item drawable="spectrogram" />
+<item drawable="suntimes" />
+<item drawable="suntimes_alarms" />
 <item drawable="syncthing" />
 <item drawable="syncthing_lite" />
 <item drawable="tiny_weather_forecast" />
