@@ -2231,6 +2231,9 @@
     <!-- Sudoku Free -->
     <item component="ComponentInfo{com.app2go.sudokufree/com.app2go.sudokufree.MainActivity}" drawable="sudoku" />
 
+	<!-- Tata 1mg -->
+	<item component="ComponentInfo{com.aranoah.healthkart.plus/com.aranoah.healthkart.plus.startup.splash.SplashActivity}" drawable="tata_1mg" />
+
     <!-- Telegram -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
