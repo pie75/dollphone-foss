@@ -42,6 +42,7 @@
 <item drawable="nedbank_black" />
 <item drawable="nedbank_green" />
 <item drawable="nihonoari" />
+<item drawable="obsidian" />
 <item drawable="opencalc" />
 <item drawable="phase_10" />
 <item drawable="playing_cards" />
@@ -480,6 +481,7 @@
 <item drawable="notes" />
 <item drawable="notificationlog" />
 <item drawable="nova_launcher" />
+<item drawable="obsidian" />
 <item drawable="oneplus_clone_phone" />
 <item drawable="open_note_scanner" />
 <item drawable="osmand" />
