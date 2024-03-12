@@ -518,8 +518,9 @@
 <item drawable="simplelogin" />
 <item drawable="smartnews" />
 <item drawable="spacedesk" />
-<item drawable="streetcomplete" />
 <item drawable="spectrogram" />
+<item drawable="squawker" />
+<item drawable="streetcomplete" />
 <item drawable="tiny_weather_forecast" />
 <item drawable="torservices" />
 <item drawable="trackercontrol" />

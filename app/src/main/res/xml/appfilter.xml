@@ -2192,6 +2192,9 @@
     <!-- Squarepic -->
     <item component="ComponentInfo{nocrop.photoeditor.squarepic/com.shamble.instafit.SplashActivity}" drawable="squarepic" />
 
+	<!-- Squawker -->
+	<item component="ComponentInfo{org.ca.squawker/org.ca.squawker.MainActivity}" drawable="squawker" />
+
     <!-- Starbucks (Japan) -->
     <item component="ComponentInfo{com.starbucks.jp/com.appunite.sbj.splash.SplashActivity}" drawable="starbucks"/>
 
