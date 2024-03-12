@@ -6,6 +6,15 @@
 <item drawable="bilibili" />
 <item drawable="niconico" />
 <item drawable="ola_party" />
+<item drawable="ometv" />
+<item drawable="open_stable_diffusion" />
+<item drawable="open_video_editor" />
+<item drawable="opencalc" />
+<item drawable="rar" />
+<item drawable="reckoning_skills" />
+<item drawable="reset_system" />
+<item drawable="save_locally" />
+<item drawable="simplelogin" />
 <item drawable="too_good_to_go" />
 <item drawable="torservices" />
 <item drawable="vivaldi" />
@@ -264,6 +273,7 @@
 <item drawable="mixi" />
 <item drawable="monkey" />
 <item drawable="ola_party" />
+<item drawable="ometv" />
 <item drawable="oneplus_community" />
 <item drawable="pinterest" />
 <item drawable="quora" />
@@ -488,6 +498,8 @@
 <item drawable="nova_launcher" />
 <item drawable="oneplus_clone_phone" />
 <item drawable="opencalc" />
+<item drawable="open_stable_diffusion" />
+<item drawable="open_video_editor" />
 <item drawable="open_note_scanner" />
 <item drawable="osmand" />
 <item drawable="osmand_plus" />
@@ -496,9 +508,14 @@
 <item drawable="quickedit" />
 <item drawable="quizlet" />
 <item drawable="quran" />
+<item drawable="rar" />
+<item drawable="reckoning_skills" />
+<item drawable="reset_system" />
+<item drawable="save_locally" />
 <item drawable="screen_master" />
 <item drawable="secscanqr" />
 <item drawable="shelter" />
+<item drawable="simplelogin" />
 <item drawable="smartnews" />
 <item drawable="spacedesk" />
 <item drawable="streetcomplete" />
