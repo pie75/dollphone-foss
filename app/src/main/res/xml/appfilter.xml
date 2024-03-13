@@ -979,6 +979,9 @@
     <!-- Instagram Threads -->
     <item component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}" drawable="threads"/>
 
+    <!-- IzzyOnDroid -->
+    <item component="ComponentInfo{in.sunilpaulmathew.izzyondroid/in.sunilpaulmathew.izzyondroid.MainActivity}" drawable="izzyondroid"/>
+
     <!-- JBL Headphones -->
     <item component="ComponentInfo{jbl.stc.com/jbl.stc.com.activity.SplashActivity}" drawable="headphones_1" />
 
