@@ -307,6 +307,7 @@
 
     <!-- Camera -->
     <item component="ComponentInfo{app.grapheneos.camera/app.grapheneos.camera.ui.activities.MainActivity}" drawable="camera_1" />
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="camara" />
 
     <!-- LineageOS Camera -->
     <item component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraLauncher}" drawable="camera" />
@@ -436,6 +437,8 @@
     <item component="ComponentInfo{com.vivo.compass/com.vivo.compass.CalibrationActivity}" drawable="compass" />
     <item component="ComponentInfo{apps.r.compass/apps.r.compass.StartTheme.Black}" drawable="compass" />
     <item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="compass" />
+    <item component="ComponentInfo{apps.r.compass/apps.r.compass.StartTheme.Charcoal}" drawable="compass" />
+
 
     <!-- Contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}" drawable="contacts" />
@@ -1250,6 +1253,10 @@
     <!-- My Files (OnePlus) -->
     <item component="ComponentInfo{com.oneplus.filemanager/com.oplus.filemanager.main.ui.MainActivity}" drawable="files_2" />
 
+    <!-- My Files (Samsung) -->
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity}" drawable="files" />
+
+
     <!-- MyFRITZ! -->
     <item component="ComponentInfo{de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity}" drawable="my_fritz" />
 
@@ -1481,6 +1488,7 @@
 
     <!-- ProtonMail -->
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.MainActivity}" drawable="protonmail" />
+    <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="protonmail" />
 
     <!-- ProtonVPN -->
     <item component="ComponentInfo{com.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}" drawable="protonvpn" />
@@ -1644,6 +1652,8 @@
 
     <!-- Signal -->
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
+    <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltDarkVariant}" drawable="signal" />
+
 
     <!-- Simple Calculator -->
     <item component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Pink}" drawable="calculator" />
@@ -2171,6 +2181,7 @@
 
     <!-- Snapchat -->
     <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
+    <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.DevilAlias}" drawable="snapchat" />
 
     <!-- Solitaire (Microsoft Solitaire Collection) -->
     <item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="playing_cards"/>
@@ -2266,6 +2277,9 @@
     <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
     <item component="ComponentInfo{org.telegram.messenger.beta/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram" />
+
+    <!-- Telegram Plus -->
+    <item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.DarkIcon}" drawable="telegram" />
 
     <!-- Telegram Plus -->
     <item component="ComponentInfo{org.telegram.plus/org.telegram.ui.LaunchActivity}" drawable="telegram" />
@@ -2420,6 +2434,9 @@
 
     <!-- Weather (OPPO) -->
     <item component="ComponentInfo{com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity}" drawable="weather" />
+
+    <!-- Weather -->
+    <item component="ComponentInfo{net.oneplus.weather/com.oplus.weather.main.view.WeatherMainActivity}" drawable="weather" />
 
     <!-- Whatsapp -->
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
