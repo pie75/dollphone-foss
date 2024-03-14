@@ -459,7 +459,6 @@
 <item drawable="character_ai" />
 <item drawable="chatgpt" />
 <item drawable="code_editor" />
-<item drawable="collins_dictionary" />
 <item drawable="cool_text_and_symbols" />
 <item drawable="cryptomator" />
 <item drawable="deepl" />
@@ -498,7 +497,6 @@
 <item drawable="lovense_remote" />
 <item drawable="magisk" />
 <item drawable="markor" />
-<item drawable="merriam_webster_dictionary" />
 <item drawable="monospace" />
 <item drawable="mupdf_viewer" />
 <item drawable="my_fritz" />
@@ -548,13 +546,13 @@
 
 <category title="Dictionary" />
 <item drawable="dictionary_generic" />
+<item drawable="collins_dictionary" />
 <item drawable="dictionary_cs" />
 <item drawable="dictionary_de" />
 <item drawable="dictionary_en" />
 <item drawable="dictionary_com" />
 <item drawable="dictionary_eo" />
 <item drawable="dictionary_es" />
-<item drawable="spanishdict" />
 <item drawable="dictionary_fr" />
 <item drawable="dictionary_ja" />
 <item drawable="dictionary_ja_kanji" />
@@ -563,6 +561,10 @@
 <item drawable="dictionary_ko_hangul" />
 <item drawable="dictionary_zh" />
 <item drawable="dictionary_zh_hans" />
+<item drawable="merriam_webster_dictionary" />
+<item drawable="oxford_dictionary" />
+<item drawable="spanishdict" />
+<item drawable="wikipedia" />
 <item drawable="wiktionary" />
 
 <category title="Other" />
