@@ -1119,6 +1119,9 @@
     <!-- MemeTastic -->
     <item component="ComponentInfo{io.github.gsantner.memetastic/net.gsantner.memetastic.activity.MainActivity}" drawable="memetastic" />
 
+    <!-- Merriam-Webster Dictionary -->
+    <item component="ComponentInfo{com.merriamwebster.premium/com.merriamwebster.dictionary.activity.dictionary.DictionaryActivity}" drawable="merriam_webster_dictionary"/>
+
     <!-- MessagEase Keyboard -->
     <item component="ComponentInfo{com.exideas.mekb/com.exideas.mekb.StartListActivity}" drawable="messagease" />
 
@@ -1141,6 +1144,9 @@
 
     <!-- Metronome -->
     <item component="ComponentInfo{com.eumlab.android.prometronome/com.eumlab.prometronome.MainActivity}" drawable="metronome"/>
+
+    <!-- Metronome -->
+    <item component="ComponentInfo{com.bobek.metronome/com.bobek.metronome.MainActivity}" drawable="metronome"/>
 
     <!-- Microsoft 365 (Office) -->
     <item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="microsoft_365_office_" />

@@ -6,6 +6,7 @@
 <item drawable="bilibili" />
 <item drawable="izzyondroid" />
 <item drawable="just_eat" />
+<item drawable="merriam_webster_dictionary" />
 <item drawable="niconico" />
 <item drawable="ola_party" />
 <item drawable="ometv" />
@@ -489,6 +490,7 @@
 <item drawable="lovense_remote" />
 <item drawable="magisk" />
 <item drawable="markor" />
+<item drawable="merriam_webster_dictionary" />
 <item drawable="monospace" />
 <item drawable="mupdf_viewer" />
 <item drawable="my_fritz" />
