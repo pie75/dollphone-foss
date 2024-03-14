@@ -1,0 +1,27 @@
+<!-- Proton Mail -->
+<item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="proton_mail" />
+
+<!-- Google TV -->
+<item component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}" drawable="google_tv" />
+
+<!-- Snapchat -->
+<item component="ComponentInfo{com.snapchat.android/com.snapchat.android.DevilAlias}" drawable="snapchat" />
+
+<!-- Cámara -->
+<item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="camara" />
+
+<!-- My Files -->
+<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity}" drawable="my_files" />
+
+<!-- Compass -->
+<item component="ComponentInfo{apps.r.compass/apps.r.compass.StartTheme.Charcoal}" drawable="compass" />
+
+<!-- Signal -->
+<item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltDarkVariant}" drawable="signal_1" />
+
+<!-- Weather -->
+<item component="ComponentInfo{net.oneplus.weather/com.oplus.weather.main.view.WeatherMainActivity}" drawable="weather" />
+
+<!-- Plus -->
+<item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.DarkIcon}" drawable="plus" />
+
