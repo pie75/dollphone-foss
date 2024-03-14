@@ -4,6 +4,7 @@
 
 <category title="Recent" />
 <item drawable="bilibili" />
+<item drawable="bitmoji" />
 <item drawable="google_authenticator" />
 <item drawable="izzyondroid" />
 <item drawable="just_eat" />
@@ -19,10 +20,12 @@
 <item drawable="reset_system" />
 <item drawable="save_locally" />
 <item drawable="simplelogin" />
+<item drawable="suntimes" />
 <item drawable="too_good_to_go" />
 <item drawable="torservices" />
 <item drawable="vivaldi" />
 <item drawable="voyager" />
+<item drawable="waze" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -446,6 +449,7 @@
 <item drawable="barcode" />
 <item drawable="bhagavad_gita" />
 <item drawable="bible" />
+<item drawable="bitmoji" />
 <item drawable="bitwarden" />
 <item drawable="bubble" />
 <item drawable="cache_cleaner" />
@@ -530,6 +534,7 @@
 <item drawable="spectrogram" />
 <item drawable="squawker" />
 <item drawable="streetcomplete" />
+<item drawable="suntimes" />
 <item drawable="tiny_weather_forecast" />
 <item drawable="torservices" />
 <item drawable="trackercontrol" />
@@ -537,6 +542,7 @@
 <item drawable="tunnelbear" />
 <item drawable="unicode" />
 <item drawable="victron_connect" />
+<item drawable="waze" />
 <item drawable="weight_tracker" />
 <item drawable="wx" />
 
