@@ -4,6 +4,7 @@
 
 <category title="Recent" />
 <item drawable="bilibili" />
+<item drawable="google_authenticator" />
 <item drawable="izzyondroid" />
 <item drawable="just_eat" />
 <item drawable="merriam_webster_dictionary" />
@@ -116,6 +117,7 @@
 
 <category title="Google" />
 <item drawable="googleapp" />
+<item drawable="google_authenticator" />
 <item drawable="google_assistant" />
 <item drawable="cardboard" />
 <item drawable="google_classroom" />
