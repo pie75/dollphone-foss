@@ -5,8 +5,12 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Requested Apps</title>
+        <title>Requested Apps - Dollphone Icon Pack</title>
         <link rel="icon" type="image/png" href="img/dollphone/icon.png" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12,75,800;12,100,500;12,100,800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://japanyoshi.github.io/haley.css">
         <link rel="stylesheet" href="css/requests.css" />
     </head>
 
@@ -25,15 +29,14 @@
             <table>
                 <thead>
                     <tr>
-                        <th class="sortable-header" onclick="sortTable(0)">App
-                            Name</th>
+                        <th class="sortable-header" onclick="sortTable(0)">Name</th>
                         <th>Icon</th>
                         <th>Links</th>
                         <th class="sortable-header"
-                            onclick="sortTable(3)">Requested times</th>
+                            onclick="sortTable(3)">Req. count</th>
                         <th class="sortable-header" onclick="sortTable(4)">Last
-                            Requested</th>
-                        <th>Appfilter</th>
+                            Req.</th>
+                        <th>App Filter</th>
                     </tr>
                 </thead>
                 <tbody id="app-entries"></tbody>

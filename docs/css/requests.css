@@ -1,17 +1,6 @@
-@font-face {
-    font-family: 'Inter';
-    font-weight: 100 900;
-    font-display: swap;
-    font-style: oblique 0deg 10deg;
-    font-variation-settings: "slnt" 0deg;
-    src: url("../img/Inter.var.woff2") format("woff2");
-  }
-
 body {
-    font-family: 'Inter', Arial, Helvetica, sans-serif, sans-serif;
-    margin-left: 4vw;
-    margin-right: 4vw;
-    background-color: white;
+    text-align: center;
+    font-family: 'Bricolage Grotesque', Inter, DejaVu Sans, Liberation Sans, -apple-system, BlinkMacSystemFont, Arial, Helvetica, sans-serif, sans-serif;
 }
 
 .app-entry {
@@ -76,22 +65,26 @@ body {
     overflow: visible;
     min-height: 3rem;
     border-radius: 4em;
-    background-color: #eee;
-    border: 1.5px solid #171717;
+    background-color: var(--white);
+    border: 0.25rem solid var(--gray);
     box-shadow: none;
     outline: none;
     padding: 0.8em 1.2em;    
     font-size: 16px;
     font-weight: bold;
-    font-family: 'Inter', Arial, Helvetica, sans-serif, sans-serif;
-
+    font-family: inherit;
+    color: var(--black);
 }
 
 .table-container {
+    border-radius: 0.5rem;
     max-height: 1200px;
     /* Set maximum height for scrollable area */
     overflow-y: auto;
     /* Enable vertical scrolling */
+
+    border: 0.25rem solid var(--pink-light);
+    background: var(--pink-dark);
 }
 
 .table-container thead th {
@@ -99,6 +92,10 @@ body {
     /* make the table heads sticky */
     top: 0px;
     /* table head will be placed from the top of the table and sticks to it */
+
+    font-stretch: 75%;
+    color: var(--white);
+    background: var(--aqua-dark);
 }
 
 .sortable-header {
@@ -128,15 +125,20 @@ body {
 }
 
 table {
-    width: 99.5%;
+    width: 100%;
     border-collapse: collapse;
 }
 
 th,
 td {
-    border: 1px solid #ddd;
     padding: 8px;
     text-align: center;
+    border-left: 2px solid var(--aqua-light);
+}
+
+th:nth-child(1),
+td:nth-child(1) {
+    border-left: none;
 }
 
 td:nth-child(1) {
@@ -174,9 +176,17 @@ th {
 }
 
 h1 {
+    display: inline-block;
+    margin: 0 auto 20px;
+    padding: 1rem;
+    border: 0.25rem solid var(--aqua-light);
+    border-top-width: 0;
+    border-radius: 0 0 0.75rem 0.75rem;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    color: var(--white);
+    background: var(--aqua-dark);
+    font-weight: 900;
+    font-stretch: 75%;
 }
 
 img {
