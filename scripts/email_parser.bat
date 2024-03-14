@@ -1,1 +1,1 @@
-python .\email_parser.py .\mail ..\app\src\main\res\xml\appfilter.xml ..\generated\extracted_png ..\generated\requests.txt
+python .\email_parser.py .\mail ..\app\src\main\res\xml\appfilter.xml ..\docs\extracted_png ..\generated\requests.txt
