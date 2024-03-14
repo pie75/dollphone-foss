@@ -84,6 +84,8 @@ body {
 
     border: 0.25rem solid var(--pink-light);
     background: var(--pink-dark);
+    max-width: 720px;
+    margin: 0 auto 4rem;
 }
 
 .table-container thead th {
