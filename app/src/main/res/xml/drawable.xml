@@ -21,6 +21,7 @@
 <item drawable="too_good_to_go" />
 <item drawable="torservices" />
 <item drawable="vivaldi" />
+<item drawable="voyager" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -294,6 +295,7 @@
 <item drawable="streamlabs" />
 <item drawable="vendetta" />
 <item drawable="vendetta_manager" />
+<item drawable="voyager" />
 <item drawable="x_twitter" />
 <item drawable="zoom" />
 

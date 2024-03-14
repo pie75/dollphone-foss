@@ -2384,7 +2384,11 @@
     <item component="ComponentInfo{com.android.VideoPlayer/com.android.VideoPlayer.VideoPlayer}" drawable="video" />
 
     <!-- Vivaldi -->
-	<item component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}" drawable="vivaldi" />
+    <item component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}" drawable="vivaldi" />
+
+
+    <!-- Voyager -->
+    <item component="ComponentInfo{app.vger.voyager/app.vger.voyager.MainActivity}" drawable="voyager" />
 
     <!-- Waifu2x -->
     <item component="ComponentInfo{com.kaede_software.superresolutionwaifu2x/com.kaede_software.superresolutionwaifu2x.SdFileListActivity}" drawable="waifu2x" />
