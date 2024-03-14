@@ -5,6 +5,7 @@
 <category title="Recent" />
 <item drawable="bilibili" />
 <item drawable="izzyondroid" />
+<item drawable="just_eat" />
 <item drawable="niconico" />
 <item drawable="ola_party" />
 <item drawable="ometv" />
@@ -404,6 +405,7 @@
 <item drawable="commbank" />
 <item drawable="ebay" />
 <item drawable="hdfc_bank" />
+<item drawable="just_eat" />
 <item drawable="kentucky_fried_chicken" />
 <item drawable="maadhaar" />
 <item drawable="mada_pay" />
