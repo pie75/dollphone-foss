@@ -6,7 +6,7 @@
 - Added a requests list and reopened requests
 - Removed the edges of reference images appearing on Aurora Shop’s icon
 - Fixed Eternity for Lemmy not appearing the icon list
-- Added alias for `MainBrandDark` activity on Discord (Did the requester change the app icon in the app? I wouldn't know because I don't want Nitro)
+- Added alias for `MainBrandDark` activity on Discord (Did the requester change the app icon in the app? I wouldn’t know because I don’t want Nitro)
 - Added multiple Telegram icon aliases; why are there so many?!
 - Added several more aliases
 
