@@ -1042,6 +1042,9 @@
     <!-- Kleine Wettervorschau Deutschland -->
     <item component="ComponentInfo{de.kaffeemitkoffein.tinyweatherforecastgermany/de.kaffeemitkoffein.tinyweatherforecastgermany.WelcomeActivity}" drawable="weather" />
 
+    <!-- Kotatsu -->
+    <item component="ComponentInfo{org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity}" drawable="kotatsu"/>
+
     <!-- KWeather -->
     <item component="ComponentInfo{org.kde.kweather/org.qtproject.qt5.android.bindings.QtActivity}" drawable="weather" />
 
@@ -2408,7 +2411,6 @@
 
     <!-- Vivaldi -->
     <item component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}" drawable="vivaldi" />
-
 
     <!-- Voyager -->
     <item component="ComponentInfo{app.vger.voyager/app.vger.voyager.MainActivity}" drawable="voyager" />
