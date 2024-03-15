@@ -5,6 +5,10 @@
 <category title="Recent" />
 <item drawable="bilibili" />
 <item drawable="bitmoji" />
+<item drawable="five_nights_at_freddys" />
+<item drawable="five_nights_at_freddys_2" />
+<item drawable="five_nights_at_freddys_3" />
+<item drawable="five_nights_at_freddys_4" />
 <item drawable="google_authenticator" />
 <item drawable="izzyondroid" />
 <item drawable="just_eat" />
@@ -19,10 +23,14 @@
 <item drawable="reckoning_skills" />
 <item drawable="reset_system" />
 <item drawable="save_locally" />
+<item drawable="scientific_calculator_plus_991" />
 <item drawable="simplelogin" />
 <item drawable="suntimes" />
+<item drawable="tata_1mg" />
+<item drawable="tips" />
 <item drawable="too_good_to_go" />
 <item drawable="torservices" />
+<item drawable="truecaller" />
 <item drawable="vivaldi" />
 <item drawable="voyager" />
 <item drawable="waze" />
@@ -328,6 +336,10 @@
 <item drawable="chess" />
 <item drawable="clash_royale" />
 <item drawable="facebook_gaming" />
+<item drawable="five_nights_at_freddys" />
+<item drawable="five_nights_at_freddys_2" />
+<item drawable="five_nights_at_freddys_3" />
+<item drawable="five_nights_at_freddys_4" />
 <item drawable="gacha_life" />
 <item drawable="hovercraft" />
 <item drawable="jackbox" />
@@ -493,6 +505,7 @@
 <item drawable="hypatia" />
 <item drawable="internet_speed_meter" />
 <item drawable="inure" />
+<item drawable="izzyondroid" />
 <item drawable="kde_connect" />
 <item drawable="keepassdx" />
 <item drawable="kfz_kennzeichen" />
@@ -528,6 +541,7 @@
 <item drawable="reckoning_skills" />
 <item drawable="reset_system" />
 <item drawable="save_locally" />
+<item drawable="scientific_calculator_plus_991" />
 <item drawable="screen_master" />
 <item drawable="secscanqr" />
 <item drawable="shelter" />
@@ -538,10 +552,13 @@
 <item drawable="squawker" />
 <item drawable="streetcomplete" />
 <item drawable="suntimes" />
+<item drawable="tata_1mg" />
 <item drawable="tiny_weather_forecast" />
+<item drawable="tips" />
 <item drawable="torservices" />
 <item drawable="trackercontrol" />
 <item drawable="translate" />
+<item drawable="truecaller" />
 <item drawable="tunnelbear" />
 <item drawable="unicode" />
 <item drawable="victron_connect" />
