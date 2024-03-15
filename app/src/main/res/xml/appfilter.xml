@@ -109,6 +109,9 @@
     <!-- AnimeZone -->
     <item component="ComponentInfo{com.bksapps.animezone/com.bksapps.animezone.MainActivity}" drawable="cosplay" />
 
+    <!-- Antimine -->
+    <item component="ComponentInfo{dev.lucanlm.antimine/dev.lucasnlm.antimine.main.MainActivity}" drawable="minesweeper" />
+
     <!-- AnySoftKeyboard -->
     <item component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}" drawable="anysoftkeyboard" />
 
@@ -210,6 +213,7 @@
     <item component="ComponentInfo{com.sirma.mobile.bible.android/com.youversion.ui.MainActivity}" drawable="bible" />
     <item component="ComponentInfo{com.pmp.biblia/com.pmp.biblia.views.activities.SplashScreenActivity_}" drawable="bible" />
     <item component="ComponentInfo{yuku.alkitab.kjv/yuku.alkitab.base.IsiActivity}" drawable="bible" />
+    <item component="ComponentInfo{com.sirma.mobile.bible.android/youversion.bible.app.MainActivity}" drawable="bible" />
 
     <!-- Bilibili -->
     <item component="ComponentInfo{com.bstar.intl/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili"/>
@@ -531,6 +535,8 @@
     <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
     <item component="ComponentInfo{com.discord/com.discord.main.MainBrandDark}" drawable="discord" />
+    <item component="ComponentInfo{com.discord/com.discord.main.MainActivity}" drawable="discord" />
+    <item component="ComponentInfo{com.discord/com.discord.main.MainAngry}" drawable="discord" />
 
     <!-- DMSS -->
     <item component="ComponentInfo{com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity}" drawable="dmss" />
@@ -585,6 +591,8 @@
 
     <!-- Duolingo -->
     <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo" />
+    <item component="ComponentInfo{com.duolingo/com.duolingo.app.StreakSocietyLauncher}" drawable="duolingo" />
+
 
     <!-- Easy Pose -->
     <item component="ComponentInfo{com.madcat.easyposer/com.unity3d.player.UnityPlayerActivity}" drawable="easy_pose" />
@@ -1259,7 +1267,6 @@
     <!-- My Files (Samsung) -->
     <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity}" drawable="files" />
 
-
     <!-- MyFRITZ! -->
     <item component="ComponentInfo{de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity}" drawable="my_fritz" />
 
@@ -1271,6 +1278,7 @@
 
     <!-- My OldBoy! -->
     <item component="ComponentInfo{com.fastemulator.gbc/com.fastemulator.gbc.MainActivity}" drawable="gb" />
+    <item component="ComponentInfo{com.fastemulator.gbc/com.fastemulator.gbc.RomListActivity}" drawable="gb" />
     <item component="ComponentInfo{com.fastemulator.gbcfree/com.fastemulator.gbcfree.MainActivity}" drawable="gb" />
 
     <!-- mystc -->
@@ -1466,9 +1474,13 @@
     <item component="ComponentInfo{com.asus.dialer/com.android.contacts.activities.DialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.orange.phone/com.orange.phone.DialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.android.contacts/com.android.dialer.TwelveKeyDialer}" drawable="phone" />
 
     <!-- Photo Editor -->
     <item component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}" drawable="photo_edit" />
+
+    <!-- Photos (OnePlus Gallery) -->
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.app.MainActivity}" drawable="gallery" />
 
     <!-- Pinterest -->
     <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest" />
@@ -1577,6 +1589,7 @@
     <item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.AsusRecorder}" drawable="record" />
     <item component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile}" drawable="record" />
     <item component="ComponentInfo{com.oneplus.soundrecorder/com.soundrecorder.browsefile.BrowseFile}" drawable="record" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.StartActivity}" drawable="record" />
 
     <!-- Redditoria -->
     <item component="ComponentInfo{com.kirkbushman.redditoria/com.kirkbushman.redditoria.app.activity.SplashActivity}" drawable="reddit" />
@@ -1656,7 +1669,7 @@
     <!-- Signal -->
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltDarkVariant}" drawable="signal" />
-
+    <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltDark}" drawable="signal" />
 
     <!-- Simple Calculator -->
     <item component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Pink}" drawable="calculator" />
@@ -2199,6 +2212,7 @@
     <item component="ComponentInfo{com.danielkim.soundrecorder/com.danielkim.soundrecorder.activities.MainActivity}" drawable="record" />
     <item component="ComponentInfo{com.tct.soundrecorder.bb/com.tct.soundrecorder.SoundRecorder}" drawable="record" />
     <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="record" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.sprd.soundrecorder.RecorderActivity}" drawable="record" />
 
     <!-- Spacedesk -->
     <item component="ComponentInfo{ph.spacedesk.beta/ph.spacedesk.httpwww.spacedesk.SAActivityConnect}" drawable="spacedesk" />
@@ -2389,6 +2403,7 @@
 
     <!-- Vendetta -->
     <item component="ComponentInfo{dev.beefers.vendetta/com.discord.main.MainDefault}" drawable="vendetta" />
+    <item component="ComponentInfo{dev.beefers.vendetta/com.discord.main.MainPirate}" drawable="vendetta" />
 
     <!-- Vendetta Manager -->
     <item component="ComponentInfo{dev.beefers.vendetta.manager/dev.beefers.vendetta.manager.ui.activity.MainActivity}" drawable="vendetta_manager" />
