@@ -1,5 +1,1 @@
-<!-- Google TV -->
-<item component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}" drawable="google_tv" />
-
-
 
