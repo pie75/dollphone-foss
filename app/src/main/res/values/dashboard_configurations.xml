@@ -73,23 +73,24 @@
         If you don't want to show any description, just leave this empty
         ex: <string name="home_description"></string>
         -->
-    <string name="home_description">
-        <![CDATA[
-            <b>Dollphone</b> is a cute, pastel icon pack with rounded edges,
+    <string name="home_description">"\n        <![CDATA[
+            <p><b>Dollphone</b> is a cute, pastel icon pack with rounded edges,
             gently bulging “straight” sides, and a doll-like aesthetic.
             It is inspired by cute stationery and lightly retro tech.
-            <br>
-            Join the <a href="https://discord.gg/G4KBHz8ux6">Discord community server</a>!
-            <br>
-            If you like this icon pack and want to support my ventures financially,
+            </p>
+            <h3>An icon I want is missing!</h3>
+            <p>If you want to request an icon that’s missing, please use the integrated “Request icons” feature to request up to 12 icons per version.
+            However, please also note that this does not guarantee that your requested icons will be adapted.
+            </p>
+            <h3>An icon I have doesn't look right!</h3>
+            <p>If you want to request changes to an icon that exists, please <a href="https://github.com/JapanYoshi/dollphone-foss/issues/new">file an Issue on GitHub</a>.</p>
+            <h3>How can I get involved?</h3>
+            <p>Join the <a href="https://discord.gg/G4KBHz8ux6">Discord community server</a>!
+            </p>
+            <p>If you like this icon pack and want to support my ventures financially,
             please consider <a href="https://ko-fi.com/itsspelledhaley">tipping me on Ko-fi.</a>
-            (The units are in yen, but it will automatically convert for you.)
-            <br>
-            <!--If you want to request an icon that’s missing,
-            please use the integrated “Request icons” feature.
-            I’ll update the icon pack in batches.-->
-        ]]>
-    </string>
+            (The units are in yen, but it will automatically convert for you.)</p>
+        ]]>\n    "</string>
 
     <!-- Link to your app's Rate and Review page.
         Leave this empty to disable the "Rate and Review" button.
@@ -162,7 +163,7 @@
         CONFIG: ICON REQUEST
     -->
     <!-- Enable or disable regular icon request -->
-    <bool name="enable_icon_request">false</bool>
+    <bool name="enable_icon_request">true</bool>
 
     <!-- Enable regular icon request limit
         When enabled users will be able to request only the specified number of icons.
@@ -216,7 +217,7 @@
     <!-- Email to use when sending icon requests.
         Regular request email address will be used to send bug reports.
         You can leave "premium_request_email" empty to use the regular request's email to send premium icon requests. -->
-    <string name="regular_request_email" translatable="false">haleyhalcyon+dollphone@gmail.com</string>
+    <string name="regular_request_email" translatable="false">dollphone@outlook.jp</string>
     <string name="premium_request_email" translatable="false"></string>
 
     <!-- Icon request email subjects. Leave empty to use default Subject. -->
