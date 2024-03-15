@@ -1,13 +1,16 @@
-# 2024-03-??
+# 2024-03-15 (v1.1.0)
+- Added icons: 10bis/Grubhub/Let's Eat/Lieferando, Bilibili, Bitmoji, Five Nights at Freddy's 1~4, Google Authenticator, IzzyOnDroid, Kotatsu, Merriam-Webster Dictionary, Niconico, Ola Party, OmeTV, Open Stable Diffusion, Open Video Editor, RAR, Reckoning Skills, Reset System, Samsung Tips, Save Locally, SimpleLogin, Slack, Squawker, Suntimes, Tata 1mg, Too Good to Go, TorServices, TrueCaller, Vivaldi, Waze, Wikipedia
+- Adjusted link color so that it's more visible in both Light and Dark themes
+- Revised home screen text
+- Changed request email address to a dedicated one
+- Added a requests list and reopened requests
 - Removed the edges of reference images appearing on Aurora Shop’s icon
 - Fixed Eternity for Lemmy not appearing the icon list
 - Added alias for `MainBrandDark` activity on Discord (Did the requester change the app icon in the app? I wouldn't know because I don't want Nitro)
 - Added multiple Telegram icon aliases; why are there so many?!
-- Added KDE Connect alias
-- Added Google Classroom alias
-- Added Tiktok alias
+- Added several more aliases
 
-# 2024-03-08
+# 2024-03-08 (v1.0.8)
 - Temporarily paused requests due to massive backlog
 - Added Discord link
 - Added Japanese translation
@@ -20,11 +23,11 @@
 - Added drop shadow to Metronome
 - Temporarily changed app icon
 
-# 2024-02-28
+# 2024-02-28 (v1.0.7)
 - Added Murtada Sahwan’s requests: 21 new icons, new aliases for existing icons
 - Modified KFZ Kennzeichen and Outlook
 
-# 2024-02-26
+# 2024-02-26 (v1.0.6)
 - Added Guy B’s requests: 34 new icons, new aliases for 3 existing icons
 - Limited icon count to 12 per request
 
