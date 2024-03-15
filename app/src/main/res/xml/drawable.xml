@@ -26,6 +26,8 @@
 <item drawable="vivaldi" />
 <item drawable="voyager" />
 <item drawable="waze" />
+<item drawable="wikipedia" />
+<item drawable="wikipedia_1" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -117,6 +119,8 @@
 <item drawable="youtube_vanced" />
 <item drawable="youtube_music" />
 <item drawable="vanced_music" />
+<item drawable="wikipedia" />
+<item drawable="wikipedia_1" />
 
 <category title="Google" />
 <item drawable="googleapp" />

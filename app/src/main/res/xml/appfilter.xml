@@ -2443,6 +2443,9 @@
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.0}" drawable="whatsapp" />
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Icon0}" drawable="whatsapp" />
 
+    <!-- Wikipédia -->
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia"/>
+
     <!-- Winlator -->
     <item component="ComponentInfo{com.winlator/com.winlator.MainActivity}" drawable="winlator" />
 
