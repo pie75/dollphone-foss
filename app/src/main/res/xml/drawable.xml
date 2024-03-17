@@ -9,22 +9,27 @@
 <item drawable="five_nights_at_freddys_2" />
 <item drawable="five_nights_at_freddys_3" />
 <item drawable="five_nights_at_freddys_4" />
+<item drawable="foss_warn" />
 <item drawable="google_authenticator" />
 <item drawable="izzyondroid" />
 <item drawable="just_eat" />
 <item drawable="merriam_webster_dictionary" />
 <item drawable="niconico" />
+<item drawable="obtainium" />
 <item drawable="ola_party" />
 <item drawable="ometv" />
 <item drawable="open_stable_diffusion" />
 <item drawable="open_video_editor" />
 <item drawable="opencalc" />
+<item drawable="organic_maps" />
 <item drawable="rar" />
 <item drawable="reckoning_skills" />
 <item drawable="reset_system" />
 <item drawable="save_locally" />
 <item drawable="scientific_calculator_plus_991" />
+<item drawable="scoop" />
 <item drawable="simplelogin" />
+<item drawable="stremio" />
 <item drawable="suntimes" />
 <item drawable="tata_1mg" />
 <item drawable="tips" />
@@ -65,7 +70,6 @@
 <item drawable="files_3" />
 <item drawable="gallery" />
 <item drawable="health" />
-<item drawable="internet" />
 <item drawable="map" />
 <item drawable="message" />
 <item drawable="message_1" />
@@ -111,7 +115,7 @@
 <item drawable="instagram" />
 <item drawable="instagram_1" />
 <item drawable="kfz_kennzeichen" />
-<item drawable="kfz_kennzeichen_alt" />
+<item drawable="kfz_kennzeichen_1" />
 <item drawable="message" />
 <item drawable="message_1" />
 <item drawable="message_2" />
@@ -141,7 +145,7 @@
 <item drawable="google_docs" />
 <item drawable="google_family_link" />
 <item drawable="google_find" />
-<item drawable="gemini" />
+<item drawable="google_gemini" />
 <item drawable="google_lens" />
 <item drawable="google_news" />
 <item drawable="google_one" />
@@ -225,13 +229,14 @@
 <item drawable="newpipe" />
 <item drawable="next_player" />
 <item drawable="niconico" />
+<item drawable="revanced_extended" />
+<item drawable="revanced_manager" />
+<item drawable="stremio" />
 <item drawable="vlc" />
 <item drawable="youtube" />
 <item drawable="youtube_kids" />
 <item drawable="youtube_studio" />
 <item drawable="youtube_vanced" />
-<item drawable="revanced_extended" />
-<item drawable="revanced_manager" />
 <item drawable="zapp" />
 
 <category title="Browsers" />
@@ -335,12 +340,14 @@
 <item drawable="brawl_stars" />
 <item drawable="chess" />
 <item drawable="clash_royale" />
+<item drawable="dejeweled" />
 <item drawable="facebook_gaming" />
 <item drawable="five_nights_at_freddys" />
 <item drawable="five_nights_at_freddys_2" />
 <item drawable="five_nights_at_freddys_3" />
 <item drawable="five_nights_at_freddys_4" />
 <item drawable="gacha_life" />
+<item drawable="gamergate" />
 <item drawable="hovercraft" />
 <item drawable="jackbox" />
 <item drawable="just_dance_now" />
@@ -368,11 +375,11 @@
 <category title="Non-App Games" />
 <item drawable="wordle" />
 <item drawable="dordle" />
-<item drawable="quardle" />
 <item drawable="octordle" />
+<item drawable="quordle" />
 <item drawable="sedecordle" />
+<item drawable="squardle" />
 <item drawable="squarewords" />
-<item drawable="aquardle" />
 
 <category title="Emulators" />
 <item drawable="a__3ds" />
@@ -387,6 +394,7 @@
 <item drawable="psp" />
 <item drawable="psx" />
 <item drawable="retroarch" />
+<item drawable="retroarch_plus" />
 <item drawable="sfc" />
 <item drawable="winlator" />
 
@@ -395,7 +403,7 @@
 <item drawable="files_1" />
 <item drawable="files_2" />
 <item drawable="files_3" />
-<item drawable="7zipper" />
+<item drawable="a__7zipper" />
 <item drawable="a__1dm_plus" />
 <item drawable="davx_5" />
 <item drawable="documents" />
@@ -458,8 +466,9 @@
 <item drawable="app_cloner" />
 <item drawable="app_cloner_premium_and_add_ons" />
 <item drawable="apps_packages_info" />
-<item drawable="aurora_shop" />
+<item drawable="aurora_store" />
 <item drawable="authy" />
+<item drawable="avast" />
 <item drawable="avg_antivirus" />
 <item drawable="azar" />
 <item drawable="barcode" />
@@ -496,6 +505,7 @@
 <item drawable="files_2" />
 <item drawable="files_3" />
 <item drawable="fluid_navigation_gestures" />
+<item drawable="foss_warn" />
 <item drawable="free_download_manager" />
 <item drawable="freeotp" />
 <item drawable="good_lock" />
@@ -525,11 +535,13 @@
 <item drawable="notes" />
 <item drawable="notificationlog" />
 <item drawable="nova_launcher" />
+<item drawable="obtainium" />
 <item drawable="oneplus_clone_phone" />
-<item drawable="opencalc" />
+<item drawable="open_note_scanner" />
 <item drawable="open_stable_diffusion" />
 <item drawable="open_video_editor" />
-<item drawable="open_note_scanner" />
+<item drawable="opencalc" />
+<item drawable="organic_maps" />
 <item drawable="osmand" />
 <item drawable="osmand_plus" />
 <item drawable="protonvpn" />
@@ -596,7 +608,7 @@
 <item drawable="delta_iconpack" />
 <item drawable="cosplay" />
 <item drawable="cuscon" />
-<item drawable="myjio" />
+<item drawable="jio" />
 <item drawable="optus" />
 
 <category title="Numbers" />
