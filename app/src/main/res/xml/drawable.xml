@@ -3,44 +3,7 @@
 <version>1</version>
 
 <category title="Recent" />
-<item drawable="bilibili" />
-<item drawable="bitmoji" />
-<item drawable="five_nights_at_freddys" />
-<item drawable="five_nights_at_freddys_2" />
-<item drawable="five_nights_at_freddys_3" />
-<item drawable="five_nights_at_freddys_4" />
-<item drawable="foss_warn" />
-<item drawable="google_authenticator" />
-<item drawable="izzyondroid" />
-<item drawable="just_eat" />
-<item drawable="merriam_webster_dictionary" />
-<item drawable="niconico" />
-<item drawable="obtainium" />
-<item drawable="ola_party" />
-<item drawable="ometv" />
-<item drawable="open_stable_diffusion" />
-<item drawable="open_video_editor" />
-<item drawable="opencalc" />
-<item drawable="organic_maps" />
-<item drawable="rar" />
-<item drawable="reckoning_skills" />
-<item drawable="reset_system" />
-<item drawable="save_locally" />
-<item drawable="scientific_calculator_plus_991" />
-<item drawable="scoop" />
-<item drawable="simplelogin" />
-<item drawable="stremio" />
-<item drawable="suntimes" />
-<item drawable="tata_1mg" />
-<item drawable="tips" />
-<item drawable="too_good_to_go" />
-<item drawable="torservices" />
-<item drawable="truecaller" />
-<item drawable="vivaldi" />
-<item drawable="voyager" />
-<item drawable="waze" />
-<item drawable="wikipedia" />
-<item drawable="wikipedia_1" />
+<item drawable="terminal" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -565,6 +528,7 @@
 <item drawable="streetcomplete" />
 <item drawable="suntimes" />
 <item drawable="tata_1mg" />
+<item drawable="terminal" />
 <item drawable="tiny_weather_forecast" />
 <item drawable="tips" />
 <item drawable="torservices" />

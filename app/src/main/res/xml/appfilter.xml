@@ -2449,11 +2449,14 @@
     <item component="ComponentInfo{jwa.or.jp.tenkijp3/jwa.or.jp.tenkijp3.SplashActivity}" drawable="weather" />
 
     <!-- Terminal -->
-    <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="code_editor" />
+    <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal" />
 
     <!-- Terminal Emulator -->
-    <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="code_editor" />
-    <item component="ComponentInfo{com.termoneplus/com.termoneplus.TermActivity}" drawable="code_editor" />
+    <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="terminal" />
+    <item component="ComponentInfo{com.termoneplus/com.termoneplus.TermActivity}" drawable="terminal" />
+
+    <!-- Termux -->
+    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="terminal"/>
 
     <!-- Tetris (N3TWORK) -->
     <item component="ComponentInfo{com.n3twork.tetris/com.n3twork.NWUnityPlayerActivity}" drawable="tetris" />
