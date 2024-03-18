@@ -2478,8 +2478,11 @@
     <!-- Theme Store (OPPO) -->
     <item component="ComponentInfo{com.heytap.themestore/com.nearme.themespace.activities.ThemeActivity}" drawable="shop" />
 
+    <!-- Threema -->
+    <item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema"/>
+
     <!-- Threema Libre -->
-    <item component="ComponentInfo{ch.threema.app.libre/ch.threema.app.activities.MainActivity}" drawable="threema_libre" />
+    <item component="ComponentInfo{ch.threema.app.libre/ch.threema.app.activities.MainActivity}" drawable="threema" />
 
     <!-- TikTok -->
     <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
