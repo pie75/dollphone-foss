@@ -3,6 +3,7 @@
 <version>1</version>
 
 <category title="Recent" />
+<item drawable="pixiv" />
 <item drawable="terminal" />
 
 <category title="Faces" />
@@ -265,6 +266,7 @@
 <item drawable="ometv" />
 <item drawable="oneplus_community" />
 <item drawable="pinterest" />
+<item drawable="pixiv" />
 <item drawable="quora" />
 <item drawable="reddit" />
 <item drawable="snapchat" />

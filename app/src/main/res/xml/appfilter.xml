@@ -1637,6 +1637,9 @@
     <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest" />
     <item component="ComponentInfo{com.pinterest.twa/com.pinterest.twa.LauncherActivity}" drawable="pinterest" />
 
+    <!-- pixiv -->
+    <item component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}" drawable="pixiv"/>
+
     <!-- Pluvia -->
     <item component="ComponentInfo{com.spicychair.weather/com.spicychair.flutter_weather.MainActivity}" drawable="weather" />
 
@@ -2391,8 +2394,8 @@
     <!-- Squarepic -->
     <item component="ComponentInfo{nocrop.photoeditor.squarepic/com.shamble.instafit.SplashActivity}" drawable="squarepic" />
 
-	<!-- Squawker -->
-	<item component="ComponentInfo{org.ca.squawker/org.ca.squawker.MainActivity}" drawable="squawker" />
+    <!-- Squawker -->
+    <item component="ComponentInfo{org.ca.squawker/org.ca.squawker.MainActivity}" drawable="squawker" />
 
     <!-- Starbucks (Japan) -->
     <item component="ComponentInfo{com.starbucks.jp/com.appunite.sbj.splash.SplashActivity}" drawable="starbucks"/>
