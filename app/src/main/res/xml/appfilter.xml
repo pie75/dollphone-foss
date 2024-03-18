@@ -819,8 +819,8 @@
     <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.MainActivity}" drawable="weather" />
     <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" drawable="weather" />
 
-	<!-- FOSS Warn -->
-	<item component="ComponentInfo{de.nucleus.foss_warn/de.nucleus.foss_warn.MainActivity}" drawable="foss_warn"/>
+    <!-- FOSS Warn -->
+    <item component="ComponentInfo{de.nucleus.foss_warn/de.nucleus.foss_warn.MainActivity}" drawable="foss_warn"/>
 
     <!-- FreeOTP+ -->
     <item component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}" drawable="freeotp" />
@@ -881,6 +881,9 @@
 
     <!-- Gboard -->
     <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}" drawable="gboard" />
+
+    <!-- Gemini -->
+    <item component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}" drawable="google_gemini"/>
 
     <!-- Geometric Weather -->
     <item component="ComponentInfo{com.mbestavros.geometricweather/com.mbestavros.geometricweather.main.MainActivity}" drawable="weather" />
