@@ -890,6 +890,9 @@
     <!-- Glitch Lab -->
     <item component="ComponentInfo{com.ilixa.glitch/com.ilixa.glitch.GlitchActivity}" drawable="glitch_lab" />
 
+    <!-- Good Lock -->
+    <item component="ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity}" drawable="good_lock"/>
+
     <!-- Good Weather -->
     <item component="ComponentInfo{org.asdtm.goodweather/org.asdtm.goodweather.MainActivity}" drawable="weather" />
 
