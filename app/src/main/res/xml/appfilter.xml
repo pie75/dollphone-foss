@@ -801,7 +801,7 @@
 
     <!-- FlorisBoard -->
     <item component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard" />
-	<item component="ComponentInfo{dev.patrickgold.florisboard.beta/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard"/>
+    <item component="ComponentInfo{dev.patrickgold.florisboard.beta/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard"/>
 
     <!-- FM Radio -->
     <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio" />
@@ -894,6 +894,9 @@
 
     <!-- GIFShop -->
     <item component="ComponentInfo{com.gif.gifmaker/com.gif.gifmaker.ui.splash.SplashScreen}" drawable="gifshop" />
+
+    <!-- GitHub -->
+    <item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github"/>
 
     <!-- Glitch Lab -->
     <item component="ComponentInfo{com.ilixa.glitch/com.ilixa.glitch.GlitchActivity}" drawable="glitch_lab" />
