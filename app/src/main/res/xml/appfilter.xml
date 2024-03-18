@@ -179,6 +179,7 @@
 
     <!-- Barcode Scanner -->
     <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcode" />
+    <item component="ComponentInfo{com.atharok.barcodescanner/com.atharok.barcodescanner.presentation.views.activities.MainActivity}" drawable="qr"/>
 
     <!-- Beats -->
     <item component="ComponentInfo{com.apple.bnd/com.apple.vienna.v4.interaction.presentation.screens.welcome.WelcomeActivity}" drawable="beats" />
