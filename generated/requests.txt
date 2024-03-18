@@ -1,37 +1,7 @@
 -------------------------------------------------------
-1428 Requested Apps Pending (Updated 17 March 2024)
+1418 Requested Apps Pending (Updated 18 March 2024)
 -------------------------------------------------------
 
-<!-- Droid-ify -->
-<item component="ComponentInfo{com.looker.droidify/com.looker.droidify.MainActivity}" drawable="droid_ify"/>
-https://play.google.com/store/apps/details?id=com.looker.droidify
-https://f-droid.org/en/packages/com.looker.droidify/
-https://apt.izzysoft.de/fdroid/index/apk/com.looker.droidify
-https://galaxystore.samsung.com/detail/com.looker.droidify
-https://www.ecosia.org/search?q=com.looker.droidify
-Requested 15 times
-Last requested 1710564640.0
-    
-<!-- Termux -->
-<item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
-https://play.google.com/store/apps/details?id=com.termux
-https://f-droid.org/en/packages/com.termux/
-https://apt.izzysoft.de/fdroid/index/apk/com.termux
-https://galaxystore.samsung.com/detail/com.termux
-https://www.ecosia.org/search?q=com.termux
-Requested 13 times
-Last requested 1710561592.0
-    
-<!-- GitHub -->
-<item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github"/>
-https://play.google.com/store/apps/details?id=com.github.android
-https://f-droid.org/en/packages/com.github.android/
-https://apt.izzysoft.de/fdroid/index/apk/com.github.android
-https://galaxystore.samsung.com/detail/com.github.android
-https://www.ecosia.org/search?q=com.github.android
-Requested 10 times
-Last requested 1710426662.0
-    
 <!-- FluffyChat -->
 <item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat"/>
 https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat
@@ -322,16 +292,6 @@ https://www.ecosia.org/search?q=de.hafas.android.db
 Requested 5 times
 Last requested 1709966305.0
     
-<!-- pixiv -->
-<item component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}" drawable="pixiv"/>
-https://play.google.com/store/apps/details?id=jp.pxv.android
-https://f-droid.org/en/packages/jp.pxv.android/
-https://apt.izzysoft.de/fdroid/index/apk/jp.pxv.android
-https://galaxystore.samsung.com/detail/jp.pxv.android
-https://www.ecosia.org/search?q=jp.pxv.android
-Requested 5 times
-Last requested 1710504034.0
-    
 <!-- Jellyfin -->
 <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin"/>
 https://play.google.com/store/apps/details?id=org.jellyfin.mobile
@@ -349,8 +309,8 @@ https://f-droid.org/en/packages/com.cxinventor.file.explorer/
 https://apt.izzysoft.de/fdroid/index/apk/com.cxinventor.file.explorer
 https://galaxystore.samsung.com/detail/com.cxinventor.file.explorer
 https://www.ecosia.org/search?q=com.cxinventor.file.explorer
-Requested 4 times
-Last requested 1710040085.0
+Requested 5 times
+Last requested 1710688277.0
     
 <!-- Orbot -->
 <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotActivity}" drawable="orbot"/>
@@ -421,16 +381,6 @@ https://galaxystore.samsung.com/detail/org.fdroid.basic
 https://www.ecosia.org/search?q=org.fdroid.basic
 Requested 4 times
 Last requested 1710341452.0
-    
-<!-- Good Lock -->
-<item component="ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity}" drawable="good_lock"/>
-https://play.google.com/store/apps/details?id=com.samsung.android.goodlock
-https://f-droid.org/en/packages/com.samsung.android.goodlock/
-https://apt.izzysoft.de/fdroid/index/apk/com.samsung.android.goodlock
-https://galaxystore.samsung.com/detail/com.samsung.android.goodlock
-https://www.ecosia.org/search?q=com.samsung.android.goodlock
-Requested 4 times
-Last requested 1710040085.0
     
 <!-- Iceraven -->
 <item component="ComponentInfo{io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App}" drawable="iceraven"/>
@@ -621,16 +571,6 @@ https://galaxystore.samsung.com/detail/com.miui.videoplayer
 https://www.ecosia.org/search?q=com.miui.videoplayer
 Requested 4 times
 Last requested 1710369860.0
-    
-<!-- Gemini -->
-<item component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}" drawable="gemini"/>
-https://play.google.com/store/apps/details?id=com.google.android.apps.bard
-https://f-droid.org/en/packages/com.google.android.apps.bard/
-https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.bard
-https://galaxystore.samsung.com/detail/com.google.android.apps.bard
-https://www.ecosia.org/search?q=com.google.android.apps.bard
-Requested 4 times
-Last requested 1710564640.0
     
 <!-- Notes -->
 <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.main.MainActivity}" drawable="notes"/>
@@ -982,26 +922,6 @@ https://www.ecosia.org/search?q=name.boyle.chris.sgtpuzzles
 Requested 3 times
 Last requested 1709811266.0
     
-<!-- Arcticons Material You -->
-<item component="ComponentInfo{com.donnnno.arcticons.you/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_material_you"/>
-https://play.google.com/store/apps/details?id=com.donnnno.arcticons.you
-https://f-droid.org/en/packages/com.donnnno.arcticons.you/
-https://apt.izzysoft.de/fdroid/index/apk/com.donnnno.arcticons.you
-https://galaxystore.samsung.com/detail/com.donnnno.arcticons.you
-https://www.ecosia.org/search?q=com.donnnno.arcticons.you
-Requested 3 times
-Last requested 1709256692.0
-    
-<!-- Barcode Scanner -->
-<item component="ComponentInfo{com.atharok.barcodescanner/com.atharok.barcodescanner.presentation.views.activities.MainActivity}" drawable="barcode_scanner"/>
-https://play.google.com/store/apps/details?id=com.atharok.barcodescanner
-https://f-droid.org/en/packages/com.atharok.barcodescanner/
-https://apt.izzysoft.de/fdroid/index/apk/com.atharok.barcodescanner
-https://galaxystore.samsung.com/detail/com.atharok.barcodescanner
-https://www.ecosia.org/search?q=com.atharok.barcodescanner
-Requested 3 times
-Last requested 1709265095.0
-    
 <!-- Image Toolbox -->
 <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity}" drawable="image_toolbox"/>
 https://play.google.com/store/apps/details?id=ru.tech.imageresizershrinker
@@ -1151,16 +1071,6 @@ https://galaxystore.samsung.com/detail/com.touchtype.swiftkey
 https://www.ecosia.org/search?q=com.touchtype.swiftkey
 Requested 3 times
 Last requested 1709966305.0
-    
-<!-- TikTok -->
-<item component="ComponentInfo{com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok_1"/>
-https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill
-https://f-droid.org/en/packages/com.ss.android.ugc.trill/
-https://apt.izzysoft.de/fdroid/index/apk/com.ss.android.ugc.trill
-https://galaxystore.samsung.com/detail/com.ss.android.ugc.trill
-https://www.ecosia.org/search?q=com.ss.android.ugc.trill
-Requested 3 times
-Last requested 1710385876.0
     
 <!-- Boorusphere -->
 <item component="ComponentInfo{io.chaldeaprjkt.boorusphere/io.chaldeaprjkt.boorusphere.MainActivity}" drawable="boorusphere"/>
@@ -1952,16 +1862,6 @@ https://www.ecosia.org/search?q=com.kaanelloed.iconeration
 Requested 2 times
 Last requested 1709262397.0
     
-<!-- SuperTuxKart -->
-<item component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}" drawable="supertuxkart"/>
-https://play.google.com/store/apps/details?id=org.supertuxkart.stk
-https://f-droid.org/en/packages/org.supertuxkart.stk/
-https://apt.izzysoft.de/fdroid/index/apk/org.supertuxkart.stk
-https://galaxystore.samsung.com/detail/org.supertuxkart.stk
-https://www.ecosia.org/search?q=org.supertuxkart.stk
-Requested 2 times
-Last requested 1709276823.0
-    
 <!-- Syncthing-Fork -->
 <item component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing_fork"/>
 https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid
@@ -2252,16 +2152,6 @@ https://www.ecosia.org/search?q=com.oceanwing.soundcore
 Requested 2 times
 Last requested 1709708419.0
     
-<!-- Threema -->
-<item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema"/>
-https://play.google.com/store/apps/details?id=ch.threema.app
-https://f-droid.org/en/packages/ch.threema.app/
-https://apt.izzysoft.de/fdroid/index/apk/ch.threema.app
-https://galaxystore.samsung.com/detail/ch.threema.app
-https://www.ecosia.org/search?q=ch.threema.app
-Requested 2 times
-Last requested 1709164335.0
-    
 <!-- Total Commander -->
 <item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="total_commander"/>
 https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander
@@ -2289,16 +2179,6 @@ https://f-droid.org/en/packages/com.alibaba.wireless/
 https://apt.izzysoft.de/fdroid/index/apk/com.alibaba.wireless
 https://galaxystore.samsung.com/detail/com.alibaba.wireless
 https://www.ecosia.org/search?q=com.alibaba.wireless
-Requested 2 times
-Last requested 1709690107.0
-    
-<!-- 抖音 -->
-<item component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="抖音"/>
-https://play.google.com/store/apps/details?id=com.ss.android.ugc.aweme
-https://f-droid.org/en/packages/com.ss.android.ugc.aweme/
-https://apt.izzysoft.de/fdroid/index/apk/com.ss.android.ugc.aweme
-https://galaxystore.samsung.com/detail/com.ss.android.ugc.aweme
-https://www.ecosia.org/search?q=com.ss.android.ugc.aweme
 Requested 2 times
 Last requested 1709690107.0
     
@@ -2871,6 +2751,16 @@ https://galaxystore.samsung.com/detail/com.urbandroid.sleep
 https://www.ecosia.org/search?q=com.urbandroid.sleep
 Requested 2 times
 Last requested 1710561592.0
+    
+<!-- ColorNote -->
+<item component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main}" drawable="colornote"/>
+https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note
+https://f-droid.org/en/packages/com.socialnmobile.dictapps.notepad.color.note/
+https://apt.izzysoft.de/fdroid/index/apk/com.socialnmobile.dictapps.notepad.color.note
+https://galaxystore.samsung.com/detail/com.socialnmobile.dictapps.notepad.color.note
+https://www.ecosia.org/search?q=com.socialnmobile.dictapps.notepad.color.note
+Requested 2 times
+Last requested 1710688277.0
     
 <!-- Monzo -->
 <item component="ComponentInfo{co.uk.getmondo/co.uk.getmondo.splash.SplashActivity}" drawable="monzo"/>
@@ -8509,16 +8399,6 @@ https://f-droid.org/en/packages/com.narvii.amino.master/
 https://apt.izzysoft.de/fdroid/index/apk/com.narvii.amino.master
 https://galaxystore.samsung.com/detail/com.narvii.amino.master
 https://www.ecosia.org/search?q=com.narvii.amino.master
-Requested 1 times
-Last requested 1708843882.0
-    
-<!-- ColorNote -->
-<item component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main}" drawable="colornote"/>
-https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note
-https://f-droid.org/en/packages/com.socialnmobile.dictapps.notepad.color.note/
-https://apt.izzysoft.de/fdroid/index/apk/com.socialnmobile.dictapps.notepad.color.note
-https://galaxystore.samsung.com/detail/com.socialnmobile.dictapps.notepad.color.note
-https://www.ecosia.org/search?q=com.socialnmobile.dictapps.notepad.color.note
 Requested 1 times
 Last requested 1708843882.0
     
@@ -14281,4 +14161,24 @@ https://galaxystore.samsung.com/detail/th.co.truemoney.wallet
 https://www.ecosia.org/search?q=th.co.truemoney.wallet
 Requested 1 times
 Last requested 1710504034.0
+    
+<!-- HSBC UK -->
+<item component="ComponentInfo{uk.co.hsbc.hsbcukmobilebanking/com.hsbc.mobilebanking.splash.SplashActivity}" drawable="hsbc_uk"/>
+https://play.google.com/store/apps/details?id=uk.co.hsbc.hsbcukmobilebanking
+https://f-droid.org/en/packages/uk.co.hsbc.hsbcukmobilebanking/
+https://apt.izzysoft.de/fdroid/index/apk/uk.co.hsbc.hsbcukmobilebanking
+https://galaxystore.samsung.com/detail/uk.co.hsbc.hsbcukmobilebanking
+https://www.ecosia.org/search?q=uk.co.hsbc.hsbcukmobilebanking
+Requested 1 times
+Last requested 1710404958.0
+    
+<!-- Alarmy -->
+<item component="ComponentInfo{droom.sleepIfUCan/droom.sleepIfUCan.activity.MainActivity}" drawable="alarmy"/>
+https://play.google.com/store/apps/details?id=droom.sleepIfUCan
+https://f-droid.org/en/packages/droom.sleepIfUCan/
+https://apt.izzysoft.de/fdroid/index/apk/droom.sleepIfUCan
+https://galaxystore.samsung.com/detail/droom.sleepIfUCan
+https://www.ecosia.org/search?q=droom.sleepIfUCan
+Requested 1 times
+Last requested 1710688277.0
     
