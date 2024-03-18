@@ -614,6 +614,9 @@
     <!-- DraStic -->
     <item component="ComponentInfo{com.dsemu.drastic/com.dsemu.drastic.DraSticActivity}" drawable="nds"/>
 
+    <!-- Droid-ify -->
+    <item component="ComponentInfo{com.looker.droidify/com.looker.droidify.MainActivity}" drawable="droidify"/>
+
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DbxMainActivity}" drawable="dropbox" />
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="dropbox" />
