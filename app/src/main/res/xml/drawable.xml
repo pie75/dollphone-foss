@@ -4,6 +4,7 @@
 
 <category title="Recent" />
 <item drawable="pixiv" />
+<item drawable="super_tux_kart" />
 <item drawable="terminal" />
 
 <category title="Faces" />
@@ -331,6 +332,7 @@
 <item drawable="steam" />
 <item drawable="stepmaniax" />
 <item drawable="sudoku" />
+<item drawable="super_tux_kart" />
 <item drawable="tetris" />
 <item drawable="uno" />
 <item drawable="wordfeud" />
