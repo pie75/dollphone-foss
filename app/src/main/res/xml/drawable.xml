@@ -3,10 +3,13 @@
 <version>1</version>
 
 <category title="Recent" />
+<item drawable="droidify" />
+<item drawable="github" />
 <item drawable="pixiv" />
 <item drawable="super_tux_kart" />
 <item drawable="tamagotchi" />
 <item drawable="terminal" />
+<item drawable="wx" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -334,6 +337,7 @@
 <item drawable="stepmaniax" />
 <item drawable="sudoku" />
 <item drawable="super_tux_kart" />
+<item drawable="tamagotchi" />
 <item drawable="tetris" />
 <item drawable="uno" />
 <item drawable="wordfeud" />
