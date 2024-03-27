@@ -1835,6 +1835,9 @@
     <item component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" drawable="settings" />
     <item component="ComponentInfo{m.sefc/e.s}" drawable="settings" />
 
+    <!-- Shazam -->
+    <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam"/>
+
     <!-- Shelter -->
     <item component="ComponentInfo{net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity}" drawable="shelter" />
 

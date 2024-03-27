@@ -9,6 +9,7 @@
 <item drawable="github" />
 <item drawable="mull" />
 <item drawable="pixiv" />
+<item drawable="shazam" />
 <item drawable="super_tux_kart" />
 <item drawable="tamagotchi" />
 <item drawable="terminal" />
@@ -186,6 +187,7 @@
 <item drawable="karaoke_kan" />
 <item drawable="metronome" />
 <item drawable="pandora" />
+<item drawable="shazam" />
 <item drawable="soundcloud" />
 <item drawable="spotify" />
 <item drawable="vlc" />
