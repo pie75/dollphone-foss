@@ -1841,6 +1841,9 @@
     <!-- Shelter -->
     <item component="ComponentInfo{net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity}" drawable="shelter" />
 
+    <!-- Shizuku -->
+    <item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku"/>
+
     <!-- Signal -->
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltDarkVariant}" drawable="signal" />
