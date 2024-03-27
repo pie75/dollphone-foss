@@ -3,6 +3,7 @@
 <version>1</version>
 
 <category title="Recent" />
+<item drawable="app_manager" />
 <item drawable="droidify" />
 <item drawable="fluffychat" />
 <item drawable="github" />
@@ -441,6 +442,7 @@
 <item drawable="apkupdater" />
 <item drawable="app_cloner" />
 <item drawable="app_cloner_premium_and_add_ons" />
+<item drawable="app_manager" />
 <item drawable="apps_packages_info" />
 <item drawable="aurora_store" />
 <item drawable="authy" />
