@@ -875,6 +875,7 @@
     <item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Red}" drawable="gallery" />
     <item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Teal}" drawable="gallery" />
     <item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Yellow}" drawable="gallery" />
+    <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery"/>
 
     <!-- Games -->
     <item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="games" />
