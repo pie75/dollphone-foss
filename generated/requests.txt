@@ -1,47 +1,7 @@
 -------------------------------------------------------
-1458 Requested Apps Pending (Updated 25 March 2024)
+1448 Requested Apps Pending (Updated 27 March 2024)
 -------------------------------------------------------
 
-<!-- FluffyChat -->
-<item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat"/>
-https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat
-https://f-droid.org/en/packages/chat.fluffy.fluffychat/
-https://apt.izzysoft.de/fdroid/index/apk/chat.fluffy.fluffychat
-https://galaxystore.samsung.com/detail/chat.fluffy.fluffychat
-https://www.ecosia.org/search?q=chat.fluffy.fluffychat
-Requested 8 times
-Last requested 1710426662.0
-    
-<!-- Mull -->
-<item component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}" drawable="mull"/>
-https://play.google.com/store/apps/details?id=us.spotco.fennec_dos
-https://f-droid.org/en/packages/us.spotco.fennec_dos/
-https://apt.izzysoft.de/fdroid/index/apk/us.spotco.fennec_dos
-https://galaxystore.samsung.com/detail/us.spotco.fennec_dos
-https://www.ecosia.org/search?q=us.spotco.fennec_dos
-Requested 8 times
-Last requested 1709976271.0
-    
-<!-- App Manager -->
-<item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.SplashActivity}" drawable="app_manager"/>
-https://play.google.com/store/apps/details?id=io.github.muntashirakon.AppManager
-https://f-droid.org/en/packages/io.github.muntashirakon.AppManager/
-https://apt.izzysoft.de/fdroid/index/apk/io.github.muntashirakon.AppManager
-https://galaxystore.samsung.com/detail/io.github.muntashirakon.AppManager
-https://www.ecosia.org/search?q=io.github.muntashirakon.AppManager
-Requested 8 times
-Last requested 1709889205.0
-    
-<!-- Shazam -->
-<item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam"/>
-https://play.google.com/store/apps/details?id=com.shazam.android
-https://f-droid.org/en/packages/com.shazam.android/
-https://apt.izzysoft.de/fdroid/index/apk/com.shazam.android
-https://galaxystore.samsung.com/detail/com.shazam.android
-https://www.ecosia.org/search?q=com.shazam.android
-Requested 8 times
-Last requested 1709764542.0
-    
 <!-- AntennaPod -->
 <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod"/>
 https://play.google.com/store/apps/details?id=de.danoeh.antennapod
@@ -51,16 +11,6 @@ https://galaxystore.samsung.com/detail/de.danoeh.antennapod
 https://www.ecosia.org/search?q=de.danoeh.antennapod
 Requested 8 times
 Last requested 1711252931.0
-    
-<!-- Shizuku -->
-<item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku"/>
-https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api
-https://f-droid.org/en/packages/moe.shizuku.privileged.api/
-https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api
-https://galaxystore.samsung.com/detail/moe.shizuku.privileged.api
-https://www.ecosia.org/search?q=moe.shizuku.privileged.api
-Requested 7 times
-Last requested 1710040085.0
     
 <!-- Obsidian -->
 <item component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}" drawable="obsidian"/>
@@ -242,16 +192,6 @@ https://www.ecosia.org/search?q=nodomain.freeyourgadget.gadgetbridge
 Requested 5 times
 Last requested 1710216305.0
     
-<!-- Galería -->
-<item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="galeria"/>
-https://play.google.com/store/apps/details?id=com.miui.gallery
-https://f-droid.org/en/packages/com.miui.gallery/
-https://apt.izzysoft.de/fdroid/index/apk/com.miui.gallery
-https://galaxystore.samsung.com/detail/com.miui.gallery
-https://www.ecosia.org/search?q=com.miui.gallery
-Requested 5 times
-Last requested 1710369860.0
-    
 <!-- Neo Store -->
 <item component="ComponentInfo{com.machiav3lli.fdroid/com.machiav3lli.fdroid.ui.activities.MainActivityX}" drawable="neo_store"/>
 https://play.google.com/store/apps/details?id=com.machiav3lli.fdroid
@@ -321,16 +261,6 @@ https://galaxystore.samsung.com/detail/com.nutomic.syncthingandroid
 https://www.ecosia.org/search?q=com.nutomic.syncthingandroid
 Requested 5 times
 Last requested 1711142490.0
-    
-<!-- Pokémon GO -->
-<item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemon_go"/>
-https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo
-https://f-droid.org/en/packages/com.nianticlabs.pokemongo/
-https://apt.izzysoft.de/fdroid/index/apk/com.nianticlabs.pokemongo
-https://galaxystore.samsung.com/detail/com.nianticlabs.pokemongo
-https://www.ecosia.org/search?q=com.nianticlabs.pokemongo
-Requested 5 times
-Last requested 1711191905.0
     
 <!-- Orbot -->
 <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotActivity}" drawable="orbot"/>
@@ -1211,16 +1141,6 @@ https://galaxystore.samsung.com/detail/com.amazon.kindle
 https://www.ecosia.org/search?q=com.amazon.kindle
 Requested 3 times
 Last requested 1711246267.0
-    
-<!-- Flow Free -->
-<item component="ComponentInfo{com.bigduckgames.flow/com.bigduckgames.flow.flow}" drawable="flow_free"/>
-https://play.google.com/store/apps/details?id=com.bigduckgames.flow
-https://f-droid.org/en/packages/com.bigduckgames.flow/
-https://apt.izzysoft.de/fdroid/index/apk/com.bigduckgames.flow
-https://galaxystore.samsung.com/detail/com.bigduckgames.flow
-https://www.ecosia.org/search?q=com.bigduckgames.flow
-Requested 3 times
-Last requested 1711285559.0
     
 <!-- soundcore -->
 <item component="ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity}" drawable="soundcore"/>
@@ -2141,16 +2061,6 @@ https://galaxystore.samsung.com/detail/de.dwins.financeguru
 https://www.ecosia.org/search?q=de.dwins.financeguru
 Requested 2 times
 Last requested 1709262397.0
-    
-<!-- Flow Free -->
-<item component="ComponentInfo{com.bigduckgames.flowbridges/com.bigduckgames.flow.flow}" drawable="flow_free_1"/>
-https://play.google.com/store/apps/details?id=com.bigduckgames.flowbridges
-https://f-droid.org/en/packages/com.bigduckgames.flowbridges/
-https://apt.izzysoft.de/fdroid/index/apk/com.bigduckgames.flowbridges
-https://galaxystore.samsung.com/detail/com.bigduckgames.flowbridges
-https://www.ecosia.org/search?q=com.bigduckgames.flowbridges
-Requested 2 times
-Last requested 1709693575.0
     
 <!-- Post & DHL -->
 <item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.main.MainActivity}" drawable="post_and_dhl"/>
@@ -6769,16 +6679,6 @@ https://f-droid.org/en/packages/dev.corruptedark.diditakemymeds/
 https://apt.izzysoft.de/fdroid/index/apk/dev.corruptedark.diditakemymeds
 https://galaxystore.samsung.com/detail/dev.corruptedark.diditakemymeds
 https://www.ecosia.org/search?q=dev.corruptedark.diditakemymeds
-Requested 1 times
-Last requested 1709164335.0
-    
-<!-- Flow Free -->
-<item component="ComponentInfo{com.bigduckgames.flowhexes/com.bigduckgames.flow.flow}" drawable="flow_free_2"/>
-https://play.google.com/store/apps/details?id=com.bigduckgames.flowhexes
-https://f-droid.org/en/packages/com.bigduckgames.flowhexes/
-https://apt.izzysoft.de/fdroid/index/apk/com.bigduckgames.flowhexes
-https://galaxystore.samsung.com/detail/com.bigduckgames.flowhexes
-https://www.ecosia.org/search?q=com.bigduckgames.flowhexes
 Requested 1 times
 Last requested 1709164335.0
     

@@ -3,9 +3,19 @@
 <version>1</version>
 
 <category title="Recent" />
+<item drawable="app_manager" />
 <item drawable="droidify" />
+<item drawable="flow_bridges" />
+<item drawable="flow_free" />
+<item drawable="flow_hexes" />
+<item drawable="flow_warps" />
+<item drawable="fluffychat" />
 <item drawable="github" />
+<item drawable="mull" />
 <item drawable="pixiv" />
+<item drawable="pokemon_go" />
+<item drawable="shazam" />
+<item drawable="shizuku" />
 <item drawable="super_tux_kart" />
 <item drawable="tamagotchi" />
 <item drawable="terminal" />
@@ -183,6 +193,7 @@
 <item drawable="karaoke_kan" />
 <item drawable="metronome" />
 <item drawable="pandora" />
+<item drawable="shazam" />
 <item drawable="soundcloud" />
 <item drawable="spotify" />
 <item drawable="vlc" />
@@ -219,6 +230,7 @@
 <item drawable="firefox_nightly" />
 <item drawable="firefox_focus" />
 <item drawable="kiwi" />
+<item drawable="mull" />
 <item drawable="opera" />
 <item drawable="opera_mini" />
 <item drawable="opera_gx" />
@@ -232,6 +244,7 @@
 <item drawable="element" />
 <item drawable="email" />
 <item drawable="fairemail" />
+<item drawable="fluffychat" />
 <item drawable="gmail" />
 <item drawable="k9mail" />
 <item drawable="line" />
@@ -316,6 +329,10 @@
 <item drawable="five_nights_at_freddys_2" />
 <item drawable="five_nights_at_freddys_3" />
 <item drawable="five_nights_at_freddys_4" />
+<item drawable="flow" />
+<item drawable="flow_bridges" />
+<item drawable="flow_hexes" />
+<item drawable="flow_warps" />
 <item drawable="gacha_life" />
 <item drawable="gamergate" />
 <item drawable="hovercraft" />
@@ -330,6 +347,7 @@
 <item drawable="neko_atsume" />
 <item drawable="phase_10" />
 <item drawable="playing_cards" />
+<item drawable="pokemon_go" />
 <item drawable="project_sekai" />
 <item drawable="pump_it_up_m" />
 <item drawable="smule" />
@@ -437,6 +455,7 @@
 <item drawable="apkupdater" />
 <item drawable="app_cloner" />
 <item drawable="app_cloner_premium_and_add_ons" />
+<item drawable="app_manager" />
 <item drawable="apps_packages_info" />
 <item drawable="aurora_store" />
 <item drawable="authy" />
@@ -531,6 +550,7 @@
 <item drawable="screen_master" />
 <item drawable="secscanqr" />
 <item drawable="shelter" />
+<item drawable="shizuku" />
 <item drawable="simplelogin" />
 <item drawable="smartnews" />
 <item drawable="spacedesk" />
