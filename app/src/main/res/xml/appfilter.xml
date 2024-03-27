@@ -803,6 +803,9 @@
     <item component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard" />
     <item component="ComponentInfo{dev.patrickgold.florisboard.beta/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard"/>
 
+    <!-- FluffyChat -->
+    <item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat"/>
+
     <!-- FM Radio -->
     <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio" />
     <item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="radio" />
@@ -1332,6 +1335,9 @@
 
     <!-- Motorola Game Mode -->
     <item component="ComponentInfo{com.motorola.gamemode/com.motorola.gamemode.ui.launcher.main.GameCenterActivity}" drawable="games" />
+
+    <!-- Mull -->
+    <item component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}" drawable="mull"/>
 
     <!-- Multiling O Keyboard -->
     <item component="ComponentInfo{kl.ime.oh/kl.ime.oh.M}" drawable="multiling_o_keyboard" />

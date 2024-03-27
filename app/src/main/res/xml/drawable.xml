@@ -6,6 +6,7 @@
 <item drawable="droidify" />
 <item drawable="fluffychat" />
 <item drawable="github" />
+<item drawable="mull" />
 <item drawable="pixiv" />
 <item drawable="super_tux_kart" />
 <item drawable="tamagotchi" />
@@ -220,6 +221,7 @@
 <item drawable="firefox_nightly" />
 <item drawable="firefox_focus" />
 <item drawable="kiwi" />
+<item drawable="mull" />
 <item drawable="opera" />
 <item drawable="opera_mini" />
 <item drawable="opera_gx" />
@@ -233,6 +235,7 @@
 <item drawable="element" />
 <item drawable="email" />
 <item drawable="fairemail" />
+<item drawable="fluffychat" />
 <item drawable="gmail" />
 <item drawable="k9mail" />
 <item drawable="line" />
