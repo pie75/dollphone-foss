@@ -1,47 +1,7 @@
 -------------------------------------------------------
-1458 Requested Apps Pending (Updated 25 March 2024)
+1453 Requested Apps Pending (Updated 27 March 2024)
 -------------------------------------------------------
 
-<!-- FluffyChat -->
-<item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat"/>
-https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat
-https://f-droid.org/en/packages/chat.fluffy.fluffychat/
-https://apt.izzysoft.de/fdroid/index/apk/chat.fluffy.fluffychat
-https://galaxystore.samsung.com/detail/chat.fluffy.fluffychat
-https://www.ecosia.org/search?q=chat.fluffy.fluffychat
-Requested 8 times
-Last requested 1710426662.0
-    
-<!-- Mull -->
-<item component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}" drawable="mull"/>
-https://play.google.com/store/apps/details?id=us.spotco.fennec_dos
-https://f-droid.org/en/packages/us.spotco.fennec_dos/
-https://apt.izzysoft.de/fdroid/index/apk/us.spotco.fennec_dos
-https://galaxystore.samsung.com/detail/us.spotco.fennec_dos
-https://www.ecosia.org/search?q=us.spotco.fennec_dos
-Requested 8 times
-Last requested 1709976271.0
-    
-<!-- App Manager -->
-<item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.SplashActivity}" drawable="app_manager"/>
-https://play.google.com/store/apps/details?id=io.github.muntashirakon.AppManager
-https://f-droid.org/en/packages/io.github.muntashirakon.AppManager/
-https://apt.izzysoft.de/fdroid/index/apk/io.github.muntashirakon.AppManager
-https://galaxystore.samsung.com/detail/io.github.muntashirakon.AppManager
-https://www.ecosia.org/search?q=io.github.muntashirakon.AppManager
-Requested 8 times
-Last requested 1709889205.0
-    
-<!-- Shazam -->
-<item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam"/>
-https://play.google.com/store/apps/details?id=com.shazam.android
-https://f-droid.org/en/packages/com.shazam.android/
-https://apt.izzysoft.de/fdroid/index/apk/com.shazam.android
-https://galaxystore.samsung.com/detail/com.shazam.android
-https://www.ecosia.org/search?q=com.shazam.android
-Requested 8 times
-Last requested 1709764542.0
-    
 <!-- AntennaPod -->
 <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod"/>
 https://play.google.com/store/apps/details?id=de.danoeh.antennapod
@@ -51,16 +11,6 @@ https://galaxystore.samsung.com/detail/de.danoeh.antennapod
 https://www.ecosia.org/search?q=de.danoeh.antennapod
 Requested 8 times
 Last requested 1711252931.0
-    
-<!-- Shizuku -->
-<item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku"/>
-https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api
-https://f-droid.org/en/packages/moe.shizuku.privileged.api/
-https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api
-https://galaxystore.samsung.com/detail/moe.shizuku.privileged.api
-https://www.ecosia.org/search?q=moe.shizuku.privileged.api
-Requested 7 times
-Last requested 1710040085.0
     
 <!-- Obsidian -->
 <item component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}" drawable="obsidian"/>
