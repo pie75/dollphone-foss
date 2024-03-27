@@ -5,6 +5,10 @@
 <category title="Recent" />
 <item drawable="app_manager" />
 <item drawable="droidify" />
+<item drawable="flow_bridges" />
+<item drawable="flow_free" />
+<item drawable="flow_hexes" />
+<item drawable="flow_warps" />
 <item drawable="fluffychat" />
 <item drawable="github" />
 <item drawable="mull" />
@@ -324,6 +328,10 @@
 <item drawable="five_nights_at_freddys_2" />
 <item drawable="five_nights_at_freddys_3" />
 <item drawable="five_nights_at_freddys_4" />
+<item drawable="flow" />
+<item drawable="flow_bridges" />
+<item drawable="flow_hexes" />
+<item drawable="flow_warps" />
 <item drawable="gacha_life" />
 <item drawable="gamergate" />
 <item drawable="hovercraft" />
@@ -338,6 +346,7 @@
 <item drawable="neko_atsume" />
 <item drawable="phase_10" />
 <item drawable="playing_cards" />
+<item drawable="pokemon_go" />
 <item drawable="project_sekai" />
 <item drawable="pump_it_up_m" />
 <item drawable="smule" />

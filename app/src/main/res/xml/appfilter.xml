@@ -806,6 +806,19 @@
     <item component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard" />
     <item component="ComponentInfo{dev.patrickgold.florisboard.beta/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard"/>
 
+    <!-- Flow Free -->
+    <item component="ComponentInfo{com.bigduckgames.flow/com.bigduckgames.flow.flow}" drawable="flow_free"/>
+
+    <!-- Flow Bridges -->
+    <item component="ComponentInfo{com.bigduckgames.flowbridges/com.bigduckgames.flow.flow}" drawable="flow_bridges"/>
+
+    <!-- Flow Hexes -->
+    <item component="ComponentInfo{com.bigduckgames.flowhexes/com.bigduckgames.flow.flow}" drawable="flow_hexes"/>
+
+    <!-- Flow Warps -->
+    <item component="ComponentInfo{com.bigduckgames.flowwarps/com.bigduckgames.flow.flow}" drawable="flow_warps"/>
+
+
     <!-- FluffyChat -->
     <item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat"/>
 
