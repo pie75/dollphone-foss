@@ -15,7 +15,7 @@ config = {
     "request_limit": 50,
     "months_limit": 6,
     "min_requests": 5,
-    "date_format": "X%d %B %Y",
+    "date_format": "%Y/%m/%d", # prepend X to remove leading zeroes
 }
 
 def parse_args():
