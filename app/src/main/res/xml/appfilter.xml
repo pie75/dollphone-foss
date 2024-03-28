@@ -1240,6 +1240,9 @@
     <!-- NextCloud Cookbook -->
     <item component="ComponentInfo{de.micmun.android.nextcloudcookbook/de.micmun.android.nextcloudcookbook.ui.LoginActivity}" drawable="nextcloud_cookbook" />
 
+	<!-- NFC Reader -->
+	<item component="ComponentInfo{com.github.muellerma.nfcreader/com.github.muellerma.nfcreader.MainActivity}" drawable="nfc_reader" />
+
     <!-- Night Filter -->
     <item component="ComponentInfo{com.digipom.nightfilter/com.digipom.nightfilter.activity.StartActivity}" drawable="night_mode" />
 

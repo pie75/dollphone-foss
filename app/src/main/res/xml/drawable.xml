@@ -41,6 +41,7 @@
 <item drawable="nedbank_auth" />
 <item drawable="nedbank_black" />
 <item drawable="nedbank_green" />
+<item drawable="nfc_reader" />
 <item drawable="nihonoari" />
 <item drawable="obsidian" />
 <item drawable="opencalc" />
@@ -479,6 +480,7 @@
 <item drawable="neo_backup" />
 <item drawable="news" />
 <item drawable="nextcloud_cookbook" />
+<item drawable="nfc_reader" />
 <item drawable="night_mode" />
 <item drawable="notes" />
 <item drawable="notificationlog" />
