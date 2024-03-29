@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Requested Apps - Dollphone Icon Pack</title>
+        <link rel="icon" type="image/png" href="img/dollphone/icon.png" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12,75,800;12,100,500;12,100,800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://japanyoshi.github.io/haley.css">
+        <link rel="stylesheet" href="css/requests.css" />
+    </head>
+
+    <body>
+
+        <!-- Header -->
+        <h1 id="header">リクエストされたアプリ</h1>
+        
+        <div id="body" style="text-align:left;">
+            <div class="section">
+                <h3>待てない？</h3>
+                <p><b>有料リクエスト</b>で速攻制作依頼を考えてみてください！ 価格設定は<a href="https://2gd4.me/dollphone_ja">メインページ</a>でご覧になれます。</p>
+            </div>
+        </div>
+
+        <!-- Search Container -->
+        <div id="search-container">
+            <input type="text" id="search-input" oninput="filterAppEntries()" placeholder="検索（違う言語での名前かも？）">
+        </div>
+
+        <!-- App Entries -->
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th class="sortable-header" onclick="sortTable(0)">名前</th>
+                        <th>アイコン</th>
+                        <th>リンク</th>
+                        <th class="sortable-header"
+                            onclick="sortTable(3)">リク回数</th>
+                        <th class="sortable-header" onclick="sortTable(4)">最新リク日時</th>
+                        <th>App Filter</th>
+                    </tr>
+                </thead>
+                <tbody id="app-entries"></tbody>
+            </table>
+        </div>
+
+        <!-- Copy Notification -->
+        <div id="copy-notification"></div>
+
+        <!-- Search Notification -->
+        <div id="search-notification"></div>
+
+        <script src="js/requests.js"></script>
+    </body>
+
+</html>
