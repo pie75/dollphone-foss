@@ -59,6 +59,7 @@
 <item drawable="vanadium_browser" />
 <item drawable="who_here" />
 <item drawable="google_voice_search"/>
+<item drawable="zee_archiver" />
 
 <category title="System" />
 <item drawable="alarm_clock" />
@@ -391,6 +392,7 @@
 <item drawable="mediafire" />
 <item drawable="microsoft_365" />
 <item drawable="nextcloud" />
+<item drawable="zee_archiver" />
 
 <category title="Keyboards" />
 <item drawable="a__8vim" />
