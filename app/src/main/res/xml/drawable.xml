@@ -50,6 +50,7 @@
 <item drawable="ruffle" />
 <item drawable="sgt_puzzles" />
 <item drawable="starbucks" />
+<item drawable="steam_link" />
 <item drawable="suntimes" />
 <item drawable="suntimes_alarms" />
 <item drawable="syncthing" />
@@ -342,6 +343,7 @@
 <item drawable="sgt_puzzles" />
 <item drawable="smule" />
 <item drawable="steam" />
+<item drawable="steam_link" />
 <item drawable="stepmaniax" />
 <item drawable="sudoku" />
 <item drawable="tetris" />

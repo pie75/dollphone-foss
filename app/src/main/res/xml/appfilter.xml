@@ -2152,6 +2152,9 @@
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam" />
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}" drawable="steam" />
 
+	<!-- Steam Link -->
+	<item component="ComponentInfo{com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity}" drawable="steam_link" />
+
     <!-- StepManiaX Tracker -->
     <item component="ComponentInfo{com.steprevolution.smxmobile/com.steprevolution.smxmobile.MainActivity}" drawable="stepmaniax" />
     <item component="ComponentInfo{com.steprevolution.smxmobile/com.steprevolution.smxmobile.SplashActivity}" drawable="stepmaniax" />
