@@ -818,7 +818,6 @@
     <!-- Flow Warps -->
     <item component="ComponentInfo{com.bigduckgames.flowwarps/com.bigduckgames.flow.flow}" drawable="flow_warps"/>
 
-
     <!-- FluffyChat -->
     <item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat"/>
 
@@ -2397,6 +2396,9 @@
 
     <!-- Solitaire (Microsoft Solitaire Collection) -->
     <item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="playing_cards"/>
+
+    <!-- Solitaire: the Clean One -->
+    <item component="ComponentInfo{ee.dustland.android.solitaire/ee.dustland.android.solitaire.SolitaireHostActivity}" drawable="playing_cards"/>
 
     <!-- Soundcloud -->
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.MainActivity}" drawable="soundcloud" />
