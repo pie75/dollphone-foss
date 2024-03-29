@@ -9,7 +9,7 @@
         <item name="cb_navigationBar">@android:color/system_accent1_10</item>
 
         <!-- Splash Screen -->
-        <item name="cb_splashColor">@android:color/system_accent1_10</item>
+        <item name="cb_splashColor">#40b0ff</item>
 
         <!-- Navigation View -->
         <item name="cb_navigationViewHeaderBackground">#00000000</item>
