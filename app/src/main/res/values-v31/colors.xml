@@ -35,7 +35,7 @@
     <color name="navigationBarDark">@android:color/system_accent1_10</color>
 
     <!-- Splash Screen -->
-    <color name="splashColor">@android:color/system_accent1_50</color>
+    <color name="splashColor">#40b0ff</color>
 
     <!-- Navigation View -->
     <color name="navigationViewHeaderBackground">#00FFFFFF</color>

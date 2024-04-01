@@ -32,6 +32,10 @@ Dollphone is built with the [Candybar-FOSS Dashboard](https://github.com/Donnnno
 
 The app has an in-built feature to request missing icons. Simply follow the on-screen instructions: select the icons you want to request, then send me the resulting e-mail.
 
+## I can’t wait! Can I pay you to make an icon faster?
+
+Certainly! Please check the pricing in [the Dollphone webpage](https://2gd4.me/dollphone).
+
 # How can I make an icon for you to include?
 
 First of all, thank you for your interest in this project! Making and maintaining an icon pack is hard work, so I need all the help you can get.

@@ -82,8 +82,8 @@ body {
     overflow-y: auto;
     /* Enable vertical scrolling */
 
-    border: 0.25rem solid var(--pink-light);
-    background: var(--pink-dark);
+    border: 0.25rem solid var(--pink-dark);
+    background: var(--pink-light);
     max-width: 720px;
     margin: 0 auto 4rem;
 }

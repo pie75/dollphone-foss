@@ -142,8 +142,17 @@ function parseAppfilter(appfilterContent) {
 
 // Update header text
 function updateHeaderText(newHeader) {
-    header = newHeader;
-    document.getElementById('header').innerText = newHeader;
+    const pattern = /(\d+) Requested Apps Pending \(Updated (\d{4}\/\d{2}\/\d{2})\)/;
+    let lang = document.getElementsByTagName("html")[0].lang;
+    switch (lang) {
+        case "ja":
+            const found = pattern.exec(newHeader);
+            header = `未解決のアプリリクエスト${found[1]}件（最終更新日 ${found[2]}）`
+            break;
+        default:
+            header = newHeader;
+    }
+    document.getElementById('header').innerText = header;
 }
 
 function lazyLoadAndRender() {
