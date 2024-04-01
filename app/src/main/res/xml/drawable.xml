@@ -3,6 +3,7 @@
 <version>1</version>
 
 <category title="Recent" />
+<item drawable="a__1dm" />
 <item drawable="app_manager" />
 <item drawable="droidify" />
 <item drawable="flow_bridges" />

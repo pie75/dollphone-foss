@@ -1,6 +1,3 @@
-<!-- OpenWeather -->
-<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.MainActivity}" drawable="openweather" />
-
-<!-- Gaming Hub -->
-<item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.app.MainActivity}" drawable="gaming_hub" />
+<!-- componi -->
+<item component="ComponentInfo{cn.nubia.contacts/cn.nubia.contacts.DialerActivity}" drawable="componi" />
 
