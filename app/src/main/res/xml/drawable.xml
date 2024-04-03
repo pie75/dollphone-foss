@@ -20,6 +20,7 @@
 <item drawable="pixiv" />
 <item drawable="pokemon_go" />
 <item drawable="sd_maid_se" />
+<item drawable="seal" />
 <item drawable="shazam" />
 <item drawable="shizuku" />
 <item drawable="super_tux_kart" />
@@ -223,6 +224,7 @@
 <item drawable="niconico" />
 <item drawable="revanced_extended" />
 <item drawable="revanced_manager" />
+<item drawable="seal" />
 <item drawable="stremio" />
 <item drawable="vlc" />
 <item drawable="youtube" />
