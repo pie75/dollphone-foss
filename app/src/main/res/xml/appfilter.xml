@@ -456,6 +456,7 @@
     <item component="ComponentInfo{com.chen.deskclock/com.chen.deskclock.DeskClock}" drawable="clock" />
     <item component="ComponentInfo{com.android.BBKClock/com.android.BBKClock.Timer}" drawable="clock" />
     <item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="alarm_clock" />
+    <item component="ComponentInfo{com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock}" drawable="alarm_clock" />
     <item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" drawable="clock" />
     <item component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" drawable="clock" />
     <item component="ComponentInfo{com.best.deskclock/com.best.deskclock.DeskClock}" drawable="clock" />
@@ -1389,6 +1390,7 @@
     <!-- Minecraft -->
     <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft" />
     <item component="ComponentInfo{com.mojang.minecraftpe_Beta/com.mojang.minecraftpe.MainActivity}" drawable="minecraft"/>
+    <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.Minecraft_Market}" drawable="minecraft" />
 
     <!-- Minesweeper -->
     <item component="ComponentInfo{org.secuso.privacyfriendlyminesweeper/org.secuso.privacyfriendlyminesweeper.activities.SplashActivity}" drawable="minesweeper" />
@@ -1520,6 +1522,7 @@
 
     <!-- Neo Backup -->
     <item component="ComponentInfo{com.machiav3lli.backup/com.machiav3lli.backup.activities.MainActivityX}" drawable="neo_backup" />
+    <item component="ComponentInfo{com.machiav3lli.backup/com.machiav3lli.backup.activities.SplashActivity}" drawable="neo_backup" />
 
     <!-- Netflix -->
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
@@ -1728,6 +1731,7 @@
     <item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Red}" drawable="phone" />
     <item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Teal}" drawable="phone" />
     <item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Yellow}" drawable="phone" />
+    <item component="ComponentInfo{cn.nubia.contacts/cn.nubia.contacts.DialerActivity}" drawable="phone" />
 
     <!-- Photo Editor -->
     <item component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}" drawable="photo_edit" />
@@ -2578,6 +2582,7 @@
     <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
     <item component="ComponentInfo{org.telegram.messenger.beta/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.VintageIcon}" drawable="telegram" />
 
     <!-- Telegram Plus -->
     <item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.DarkIcon}" drawable="telegram" />
