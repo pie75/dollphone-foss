@@ -15,6 +15,7 @@
 <item drawable="ftp" />
 <item drawable="github" />
 <item drawable="google_home" />
+<item drawable="jellyfin" />
 <item drawable="keepass2android" />
 <item drawable="mega" />
 <item drawable="mull" />
@@ -218,6 +219,7 @@
 <item drawable="video" />
 <item drawable="bendystraw" />
 <item drawable="bilibili" />
+<item drawable="jellyfin" />
 <item drawable="mx_player_pro" />
 <item drawable="netflix" />
 <item drawable="newpipe" />

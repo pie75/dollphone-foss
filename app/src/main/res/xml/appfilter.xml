@@ -1174,6 +1174,9 @@
     <!-- JBL Headphones -->
     <item component="ComponentInfo{jbl.stc.com/jbl.stc.com.activity.SplashActivity}" drawable="headphones_1" />
 
+    <!-- Jellyfin -->
+    <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin"/>
+
     <!-- Jiten -->
     <item component="ComponentInfo{dev.obfusk.jiten/org.kivy.android.PythonActivity}" drawable="dictionary_ja_jisho" />
     <item component="ComponentInfo{dev.obfusk.jiten_webview/dev.obfusk.jiten_webview.MainActivity}" drawable="dictionary_ja_jisho"/>
