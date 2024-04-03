@@ -1,7 +1,17 @@
 -------------------------------------------------------
-1413 Requested Apps Pending (Updated 2024/04/01)
+1573 Requested Apps Pending (Updated 2024/04/03)
 -------------------------------------------------------
 
+<!-- MEGA -->
+<item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity}" drawable="mega"/>
+https://play.google.com/store/apps/details?id=mega.privacy.android.app
+https://f-droid.org/en/packages/mega.privacy.android.app/
+https://apt.izzysoft.de/fdroid/index/apk/mega.privacy.android.app
+https://galaxystore.samsung.com/detail/mega.privacy.android.app
+https://www.ecosia.org/search?q=mega.privacy.android.app
+Requested 10 times
+Last requested 1711857216.0
+    
 <!-- Obsidian -->
 <item component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}" drawable="obsidian"/>
 https://play.google.com/store/apps/details?id=md.obsidian
@@ -11,16 +21,6 @@ https://galaxystore.samsung.com/detail/md.obsidian
 https://www.ecosia.org/search?q=md.obsidian
 Requested 9 times
 Last requested 1711640870.0
-    
-<!-- MEGA -->
-<item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity}" drawable="mega"/>
-https://play.google.com/store/apps/details?id=mega.privacy.android.app
-https://f-droid.org/en/packages/mega.privacy.android.app/
-https://apt.izzysoft.de/fdroid/index/apk/mega.privacy.android.app
-https://galaxystore.samsung.com/detail/mega.privacy.android.app
-https://www.ecosia.org/search?q=mega.privacy.android.app
-Requested 9 times
-Last requested 1711857216.0
     
 <!-- AntennaPod -->
 <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod"/>
@@ -161,6 +161,16 @@ https://galaxystore.samsung.com/detail/com.nutomic.syncthingandroid
 https://www.ecosia.org/search?q=com.nutomic.syncthingandroid
 Requested 6 times
 Last requested 1711398570.0
+    
+<!-- Auxio -->
+<item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio"/>
+https://play.google.com/store/apps/details?id=org.oxycblt.auxio
+https://f-droid.org/en/packages/org.oxycblt.auxio/
+https://apt.izzysoft.de/fdroid/index/apk/org.oxycblt.auxio
+https://galaxystore.samsung.com/detail/org.oxycblt.auxio
+https://www.ecosia.org/search?q=org.oxycblt.auxio
+Requested 6 times
+Last requested 1711895711.0
     
 <!-- KurobaEx-fdroid -->
 <item component="ComponentInfo{com.github.k1rakishou.chan.fdroid/com.github.k1rakishou.chan.activity.StartActivity}" drawable="kurobaex_fdroid"/>
@@ -331,16 +341,6 @@ https://galaxystore.samsung.com/detail/de.mm20.launcher2.release
 https://www.ecosia.org/search?q=de.mm20.launcher2.release
 Requested 5 times
 Last requested 1711440161.0
-    
-<!-- Auxio -->
-<item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio"/>
-https://play.google.com/store/apps/details?id=org.oxycblt.auxio
-https://f-droid.org/en/packages/org.oxycblt.auxio/
-https://apt.izzysoft.de/fdroid/index/apk/org.oxycblt.auxio
-https://galaxystore.samsung.com/detail/org.oxycblt.auxio
-https://www.ecosia.org/search?q=org.oxycblt.auxio
-Requested 5 times
-Last requested 1711895711.0
     
 <!-- OneDrive -->
 <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
@@ -642,26 +642,6 @@ https://www.ecosia.org/search?q=jp.pokemon.pokemonhome
 Requested 4 times
 Last requested 1711453785.0
     
-<!-- Image Toolbox -->
-<item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity}" drawable="image_toolbox"/>
-https://play.google.com/store/apps/details?id=ru.tech.imageresizershrinker
-https://f-droid.org/en/packages/ru.tech.imageresizershrinker/
-https://apt.izzysoft.de/fdroid/index/apk/ru.tech.imageresizershrinker
-https://galaxystore.samsung.com/detail/ru.tech.imageresizershrinker
-https://www.ecosia.org/search?q=ru.tech.imageresizershrinker
-Requested 4 times
-Last requested 1711503245.0
-    
-<!-- Kindle -->
-<item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="kindle"/>
-https://play.google.com/store/apps/details?id=com.amazon.kindle
-https://f-droid.org/en/packages/com.amazon.kindle/
-https://apt.izzysoft.de/fdroid/index/apk/com.amazon.kindle
-https://galaxystore.samsung.com/detail/com.amazon.kindle
-https://www.ecosia.org/search?q=com.amazon.kindle
-Requested 4 times
-Last requested 1711423482.0
-    
 <!-- PipePipe -->
 <item component="ComponentInfo{InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity}" drawable="pipepipe"/>
 https://play.google.com/store/apps/details?id=InfinityLoop1309.NewPipeEnhanced
@@ -702,15 +682,45 @@ https://www.ecosia.org/search?q=eu.kanade.tachiyomi
 Requested 4 times
 Last requested 1711675779.0
     
-<!-- Notes -->
-<item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.main.MainActivity}" drawable="notes"/>
-https://play.google.com/store/apps/details?id=it.niedermann.owncloud.notes
-https://f-droid.org/en/packages/it.niedermann.owncloud.notes/
-https://apt.izzysoft.de/fdroid/index/apk/it.niedermann.owncloud.notes
-https://galaxystore.samsung.com/detail/it.niedermann.owncloud.notes
-https://www.ecosia.org/search?q=it.niedermann.owncloud.notes
-Requested 3 times
-Last requested 1710341452.0
+<!-- Vector Pinball -->
+<item component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}" drawable="vector_pinball"/>
+https://play.google.com/store/apps/details?id=com.dozingcatsoftware.bouncy
+https://f-droid.org/en/packages/com.dozingcatsoftware.bouncy/
+https://apt.izzysoft.de/fdroid/index/apk/com.dozingcatsoftware.bouncy
+https://galaxystore.samsung.com/detail/com.dozingcatsoftware.bouncy
+https://www.ecosia.org/search?q=com.dozingcatsoftware.bouncy
+Requested 4 times
+Last requested 1711895711.0
+    
+<!-- Shopee -->
+<item component="ComponentInfo{com.shopee.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee_1"/>
+https://play.google.com/store/apps/details?id=com.shopee.id
+https://f-droid.org/en/packages/com.shopee.id/
+https://apt.izzysoft.de/fdroid/index/apk/com.shopee.id
+https://galaxystore.samsung.com/detail/com.shopee.id
+https://www.ecosia.org/search?q=com.shopee.id
+Requested 4 times
+Last requested 1711919765.0
+    
+<!-- Lazada -->
+<item component="ComponentInfo{com.lazada.android/com.lazada.activities.EnterActivity}" drawable="lazada"/>
+https://play.google.com/store/apps/details?id=com.lazada.android
+https://f-droid.org/en/packages/com.lazada.android/
+https://apt.izzysoft.de/fdroid/index/apk/com.lazada.android
+https://galaxystore.samsung.com/detail/com.lazada.android
+https://www.ecosia.org/search?q=com.lazada.android
+Requested 4 times
+Last requested 1711919765.0
+    
+<!-- Infinity -->
+<item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity"/>
+https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit
+https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/
+https://apt.izzysoft.de/fdroid/index/apk/ml.docilealligator.infinityforreddit
+https://galaxystore.samsung.com/detail/ml.docilealligator.infinityforreddit
+https://www.ecosia.org/search?q=ml.docilealligator.infinityforreddit
+Requested 4 times
+Last requested 1711884061.0
     
 <!-- HappyCow -->
 <item component="ComponentInfo{com.hcceg.veg.compassionfree/com.sisow.hcvg.healthydiningguide.app.splash.ui.SplashScreenActivity}" drawable="happycow"/>
@@ -1242,16 +1252,6 @@ https://www.ecosia.org/search?q=com.microsoft.office.word
 Requested 3 times
 Last requested 1711675779.0
     
-<!-- Vector Pinball -->
-<item component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}" drawable="vector_pinball"/>
-https://play.google.com/store/apps/details?id=com.dozingcatsoftware.bouncy
-https://f-droid.org/en/packages/com.dozingcatsoftware.bouncy/
-https://apt.izzysoft.de/fdroid/index/apk/com.dozingcatsoftware.bouncy
-https://galaxystore.samsung.com/detail/com.dozingcatsoftware.bouncy
-https://www.ecosia.org/search?q=com.dozingcatsoftware.bouncy
-Requested 3 times
-Last requested 1711895711.0
-    
 <!-- Voice -->
 <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="voice"/>
 https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice
@@ -1322,16 +1322,6 @@ https://www.ecosia.org/search?q=com.sec.android.app.music
 Requested 3 times
 Last requested 1711453785.0
     
-<!-- Shopee -->
-<item component="ComponentInfo{com.shopee.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee_1"/>
-https://play.google.com/store/apps/details?id=com.shopee.id
-https://f-droid.org/en/packages/com.shopee.id/
-https://apt.izzysoft.de/fdroid/index/apk/com.shopee.id
-https://galaxystore.samsung.com/detail/com.shopee.id
-https://www.ecosia.org/search?q=com.shopee.id
-Requested 3 times
-Last requested 1711919765.0
-    
 <!-- CapCut -->
 <item component="ComponentInfo{com.lemon.lvoverseas/com.vega.main.MainActivity}" drawable="capcut"/>
 https://play.google.com/store/apps/details?id=com.lemon.lvoverseas
@@ -1371,16 +1361,6 @@ https://galaxystore.samsung.com/detail/proton.android.pass
 https://www.ecosia.org/search?q=proton.android.pass
 Requested 3 times
 Last requested 1711438563.0
-    
-<!-- Lazada -->
-<item component="ComponentInfo{com.lazada.android/com.lazada.activities.EnterActivity}" drawable="lazada"/>
-https://play.google.com/store/apps/details?id=com.lazada.android
-https://f-droid.org/en/packages/com.lazada.android/
-https://apt.izzysoft.de/fdroid/index/apk/com.lazada.android
-https://galaxystore.samsung.com/detail/com.lazada.android
-https://www.ecosia.org/search?q=com.lazada.android
-Requested 3 times
-Last requested 1711919765.0
     
 <!-- Aniyomi -->
 <item component="ComponentInfo{xyz.jmir.tachiyomi.mi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="aniyomi"/>
@@ -1432,16 +1412,6 @@ https://www.ecosia.org/search?q=net.waterfox.android.release
 Requested 3 times
 Last requested 1711398570.0
     
-<!-- Infinity -->
-<item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity"/>
-https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit
-https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/
-https://apt.izzysoft.de/fdroid/index/apk/ml.docilealligator.infinityforreddit
-https://galaxystore.samsung.com/detail/ml.docilealligator.infinityforreddit
-https://www.ecosia.org/search?q=ml.docilealligator.infinityforreddit
-Requested 3 times
-Last requested 1711884061.0
-    
 <!-- Xtra -->
 <item component="ComponentInfo{com.github.andreyasadchy.xtra/com.github.andreyasadchy.xtra.ui.main.MainActivity}" drawable="xtra"/>
 https://play.google.com/store/apps/details?id=com.github.andreyasadchy.xtra
@@ -1452,15 +1422,55 @@ https://www.ecosia.org/search?q=com.github.andreyasadchy.xtra
 Requested 3 times
 Last requested 1711535940.0
     
-<!-- KeePassDX -->
-<item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx"/>
-https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free
-https://f-droid.org/en/packages/com.kunzisoft.keepass.free/
-https://apt.izzysoft.de/fdroid/index/apk/com.kunzisoft.keepass.free
-https://galaxystore.samsung.com/detail/com.kunzisoft.keepass.free
-https://www.ecosia.org/search?q=com.kunzisoft.keepass.free
-Requested 2 times
-Last requested 1709764542.0
+<!-- Kitsune Mask -->
+<item component="ComponentInfo{io.github.huskydg.magisk/com.topjohnwu.magisk.ui.MainActivity}" drawable="kitsune_mask"/>
+https://play.google.com/store/apps/details?id=io.github.huskydg.magisk
+https://f-droid.org/en/packages/io.github.huskydg.magisk/
+https://apt.izzysoft.de/fdroid/index/apk/io.github.huskydg.magisk
+https://galaxystore.samsung.com/detail/io.github.huskydg.magisk
+https://www.ecosia.org/search?q=io.github.huskydg.magisk
+Requested 3 times
+Last requested 1712059919.0
+    
+<!-- FX -->
+<item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.ExplorerActivity}" drawable="fx"/>
+https://play.google.com/store/apps/details?id=nextapp.fx
+https://f-droid.org/en/packages/nextapp.fx/
+https://apt.izzysoft.de/fdroid/index/apk/nextapp.fx
+https://galaxystore.samsung.com/detail/nextapp.fx
+https://www.ecosia.org/search?q=nextapp.fx
+Requested 3 times
+Last requested 1711884061.0
+    
+<!-- DANA -->
+<item component="ComponentInfo{id.dana/id.dana.onboarding.splash.LauncherActivity}" drawable="dana"/>
+https://play.google.com/store/apps/details?id=id.dana
+https://f-droid.org/en/packages/id.dana/
+https://apt.izzysoft.de/fdroid/index/apk/id.dana
+https://galaxystore.samsung.com/detail/id.dana
+https://www.ecosia.org/search?q=id.dana
+Requested 3 times
+Last requested 1711919765.0
+    
+<!-- myXL -->
+<item component="ComponentInfo{com.apps.MyXL/com.myxlultimate.app.ui.view.SplashActivity}" drawable="myxl"/>
+https://play.google.com/store/apps/details?id=com.apps.MyXL
+https://f-droid.org/en/packages/com.apps.MyXL/
+https://apt.izzysoft.de/fdroid/index/apk/com.apps.MyXL
+https://galaxystore.samsung.com/detail/com.apps.MyXL
+https://www.ecosia.org/search?q=com.apps.MyXL
+Requested 3 times
+Last requested 1711919765.0
+    
+<!-- MX Player -->
+<item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" drawable="mx_player"/>
+https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad
+https://f-droid.org/en/packages/com.mxtech.videoplayer.ad/
+https://apt.izzysoft.de/fdroid/index/apk/com.mxtech.videoplayer.ad
+https://galaxystore.samsung.com/detail/com.mxtech.videoplayer.ad
+https://www.ecosia.org/search?q=com.mxtech.videoplayer.ad
+Requested 3 times
+Last requested 1711919765.0
     
 <!-- Viber -->
 <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber"/>
@@ -2472,16 +2482,6 @@ https://www.ecosia.org/search?q=ru.maximoff.apktool
 Requested 2 times
 Last requested 1709265095.0
     
-<!-- Kitsune Mask -->
-<item component="ComponentInfo{io.github.huskydg.magisk/com.topjohnwu.magisk.ui.MainActivity}" drawable="kitsune_mask"/>
-https://play.google.com/store/apps/details?id=io.github.huskydg.magisk
-https://f-droid.org/en/packages/io.github.huskydg.magisk/
-https://apt.izzysoft.de/fdroid/index/apk/io.github.huskydg.magisk
-https://galaxystore.samsung.com/detail/io.github.huskydg.magisk
-https://www.ecosia.org/search?q=io.github.huskydg.magisk
-Requested 2 times
-Last requested 1710426662.0
-    
 <!-- KWGT -->
 <item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kwgt"/>
 https://play.google.com/store/apps/details?id=org.kustom.widget
@@ -2521,16 +2521,6 @@ https://galaxystore.samsung.com/detail/ru.yandex.yandexmaps
 https://www.ecosia.org/search?q=ru.yandex.yandexmaps
 Requested 2 times
 Last requested 1709472445.0
-    
-<!-- Pusat Permainan -->
-<item component="ComponentInfo{com.xiaomi.glgm/com.xiaomi.glgm.home.ui.SplashActivity}" drawable="pusat_permainan"/>
-https://play.google.com/store/apps/details?id=com.xiaomi.glgm
-https://f-droid.org/en/packages/com.xiaomi.glgm/
-https://apt.izzysoft.de/fdroid/index/apk/com.xiaomi.glgm
-https://galaxystore.samsung.com/detail/com.xiaomi.glgm
-https://www.ecosia.org/search?q=com.xiaomi.glgm
-Requested 2 times
-Last requested 1710369860.0
     
 <!-- Ola -->
 <item component="ComponentInfo{com.olacabs.customer/com.olacabs.customer.ui.SplashActivity}" drawable="ola"/>
@@ -2972,16 +2962,6 @@ https://www.ecosia.org/search?q=com.supercell.clashofclans
 Requested 2 times
 Last requested 1711674036.0
     
-<!-- FX -->
-<item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.ExplorerActivity}" drawable="fx"/>
-https://play.google.com/store/apps/details?id=nextapp.fx
-https://f-droid.org/en/packages/nextapp.fx/
-https://apt.izzysoft.de/fdroid/index/apk/nextapp.fx
-https://galaxystore.samsung.com/detail/nextapp.fx
-https://www.ecosia.org/search?q=nextapp.fx
-Requested 2 times
-Last requested 1711884061.0
-    
 <!-- 币安 -->
 <item component="ComponentInfo{com.binance.dev/com.eaas.launcher.activities.main.MainActivity}" drawable="币安"/>
 https://play.google.com/store/apps/details?id=com.binance.dev
@@ -3041,26 +3021,6 @@ https://galaxystore.samsung.com/detail/com.doordash.driverapp
 https://www.ecosia.org/search?q=com.doordash.driverapp
 Requested 2 times
 Last requested 1711537986.0
-    
-<!-- DANA -->
-<item component="ComponentInfo{id.dana/id.dana.onboarding.splash.LauncherActivity}" drawable="dana"/>
-https://play.google.com/store/apps/details?id=id.dana
-https://f-droid.org/en/packages/id.dana/
-https://apt.izzysoft.de/fdroid/index/apk/id.dana
-https://galaxystore.samsung.com/detail/id.dana
-https://www.ecosia.org/search?q=id.dana
-Requested 2 times
-Last requested 1711919765.0
-    
-<!-- myXL -->
-<item component="ComponentInfo{com.apps.MyXL/com.myxlultimate.app.ui.view.SplashActivity}" drawable="myxl"/>
-https://play.google.com/store/apps/details?id=com.apps.MyXL
-https://f-droid.org/en/packages/com.apps.MyXL/
-https://apt.izzysoft.de/fdroid/index/apk/com.apps.MyXL
-https://galaxystore.samsung.com/detail/com.apps.MyXL
-https://www.ecosia.org/search?q=com.apps.MyXL
-Requested 2 times
-Last requested 1711919765.0
     
 <!-- Record You -->
 <item component="ComponentInfo{com.bnyro.recorder/com.bnyro.recorder.ui.MainActivity}" drawable="record_you"/>
@@ -3152,16 +3112,6 @@ https://www.ecosia.org/search?q=com.baidu.tieba
 Requested 2 times
 Last requested 1711679396.0
     
-<!-- MX Player -->
-<item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" drawable="mx_player"/>
-https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad
-https://f-droid.org/en/packages/com.mxtech.videoplayer.ad/
-https://apt.izzysoft.de/fdroid/index/apk/com.mxtech.videoplayer.ad
-https://galaxystore.samsung.com/detail/com.mxtech.videoplayer.ad
-https://www.ecosia.org/search?q=com.mxtech.videoplayer.ad
-Requested 2 times
-Last requested 1711919765.0
-    
 <!-- Floatplane -->
 <item component="ComponentInfo{com.floatplane.floatplane/com.floatplane.floatplane.MainActivity}" drawable="floatplane"/>
 https://play.google.com/store/apps/details?id=com.floatplane.floatplane
@@ -3221,6 +3171,176 @@ https://galaxystore.samsung.com/detail/io.wallpaperengine.weclient
 https://www.ecosia.org/search?q=io.wallpaperengine.weclient
 Requested 2 times
 Last requested 1711675779.0
+    
+<!-- GoPay -->
+<item component="ComponentInfo{com.gojek.gopay/com.gojek.gopay.MainActivity}" drawable="gopay"/>
+https://play.google.com/store/apps/details?id=com.gojek.gopay
+https://f-droid.org/en/packages/com.gojek.gopay/
+https://apt.izzysoft.de/fdroid/index/apk/com.gojek.gopay
+https://galaxystore.samsung.com/detail/com.gojek.gopay
+https://www.ecosia.org/search?q=com.gojek.gopay
+Requested 2 times
+Last requested 1711919765.0
+    
+<!-- Order Kuota -->
+<item component="ComponentInfo{com.orderkuota.app/com.w38s.StartupActivity}" drawable="order_kuota"/>
+https://play.google.com/store/apps/details?id=com.orderkuota.app
+https://f-droid.org/en/packages/com.orderkuota.app/
+https://apt.izzysoft.de/fdroid/index/apk/com.orderkuota.app
+https://galaxystore.samsung.com/detail/com.orderkuota.app
+https://www.ecosia.org/search?q=com.orderkuota.app
+Requested 2 times
+Last requested 1711919765.0
+    
+<!-- OVO -->
+<item component="ComponentInfo{ovo.id/ovo.id.common.activity.StartingActivity}" drawable="ovo"/>
+https://play.google.com/store/apps/details?id=ovo.id
+https://f-droid.org/en/packages/ovo.id/
+https://apt.izzysoft.de/fdroid/index/apk/ovo.id
+https://galaxystore.samsung.com/detail/ovo.id
+https://www.ecosia.org/search?q=ovo.id
+Requested 2 times
+Last requested 1711919765.0
+    
+<!-- PicSay Pro -->
+<item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay_pro"/>
+https://play.google.com/store/apps/details?id=com.shinycore.picsaypro
+https://f-droid.org/en/packages/com.shinycore.picsaypro/
+https://apt.izzysoft.de/fdroid/index/apk/com.shinycore.picsaypro
+https://galaxystore.samsung.com/detail/com.shinycore.picsaypro
+https://www.ecosia.org/search?q=com.shinycore.picsaypro
+Requested 2 times
+Last requested 1711919765.0
+    
+<!-- ProShot -->
+<item component="ComponentInfo{com.riseupgames.proshot2/com.riseupgames.proshot2.activities.PermissionsActivity}" drawable="proshot"/>
+https://play.google.com/store/apps/details?id=com.riseupgames.proshot2
+https://f-droid.org/en/packages/com.riseupgames.proshot2/
+https://apt.izzysoft.de/fdroid/index/apk/com.riseupgames.proshot2
+https://galaxystore.samsung.com/detail/com.riseupgames.proshot2
+https://www.ecosia.org/search?q=com.riseupgames.proshot2
+Requested 2 times
+Last requested 1711919765.0
+    
+<!-- Salaam -->
+<item component="ComponentInfo{com.samsung.msci.aceh/com.samsung.msci.aceh.view.TCActivity}" drawable="salaam"/>
+https://play.google.com/store/apps/details?id=com.samsung.msci.aceh
+https://f-droid.org/en/packages/com.samsung.msci.aceh/
+https://apt.izzysoft.de/fdroid/index/apk/com.samsung.msci.aceh
+https://galaxystore.samsung.com/detail/com.samsung.msci.aceh
+https://www.ecosia.org/search?q=com.samsung.msci.aceh
+Requested 2 times
+Last requested 1711919765.0
+    
+<!-- ShopeePay -->
+<item component="ComponentInfo{com.shopeepay.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopeepay"/>
+https://play.google.com/store/apps/details?id=com.shopeepay.id
+https://f-droid.org/en/packages/com.shopeepay.id/
+https://apt.izzysoft.de/fdroid/index/apk/com.shopeepay.id
+https://galaxystore.samsung.com/detail/com.shopeepay.id
+https://www.ecosia.org/search?q=com.shopeepay.id
+Requested 2 times
+Last requested 1711919765.0
+    
+<!-- Banco Azteca -->
+<item component="ComponentInfo{mx.com.bancoazteca.bazdigitalmovil/mx.com.bancoazteca.bancadigital.landing.presentation.view.LandingActivity}" drawable="banco_azteca"/>
+https://play.google.com/store/apps/details?id=mx.com.bancoazteca.bazdigitalmovil
+https://f-droid.org/en/packages/mx.com.bancoazteca.bazdigitalmovil/
+https://apt.izzysoft.de/fdroid/index/apk/mx.com.bancoazteca.bazdigitalmovil
+https://galaxystore.samsung.com/detail/mx.com.bancoazteca.bazdigitalmovil
+https://www.ecosia.org/search?q=mx.com.bancoazteca.bazdigitalmovil
+Requested 2 times
+Last requested 1711857216.0
+    
+<!-- MAME4droid (0.139u1) -->
+<item component="ComponentInfo{com.seleuco.mame4droid/com.seleuco.mame4droid.MAME4droid}" drawable="mame4droid_0139u1_"/>
+https://play.google.com/store/apps/details?id=com.seleuco.mame4droid
+https://f-droid.org/en/packages/com.seleuco.mame4droid/
+https://apt.izzysoft.de/fdroid/index/apk/com.seleuco.mame4droid
+https://galaxystore.samsung.com/detail/com.seleuco.mame4droid
+https://www.ecosia.org/search?q=com.seleuco.mame4droid
+Requested 2 times
+Last requested 1711857216.0
+    
+<!-- ZipXtract FD -->
+<item component="ComponentInfo{com.wirelessalien.zipxtract/com.wirelessalien.zipxtract.FragmentActivity}" drawable="zipxtract_fd"/>
+https://play.google.com/store/apps/details?id=com.wirelessalien.zipxtract
+https://f-droid.org/en/packages/com.wirelessalien.zipxtract/
+https://apt.izzysoft.de/fdroid/index/apk/com.wirelessalien.zipxtract
+https://galaxystore.samsung.com/detail/com.wirelessalien.zipxtract
+https://www.ecosia.org/search?q=com.wirelessalien.zipxtract
+Requested 2 times
+Last requested 1711857216.0
+    
+<!-- APatch -->
+<item component="ComponentInfo{me.bmax.apatch/me.bmax.apatch.ui.MainActivity}" drawable="apatch"/>
+https://play.google.com/store/apps/details?id=me.bmax.apatch
+https://f-droid.org/en/packages/me.bmax.apatch/
+https://apt.izzysoft.de/fdroid/index/apk/me.bmax.apatch
+https://galaxystore.samsung.com/detail/me.bmax.apatch
+https://www.ecosia.org/search?q=me.bmax.apatch
+Requested 2 times
+Last requested 1712059919.0
+    
+<!-- BB -->
+<item component="ComponentInfo{br.com.bb.android/br.com.bb.android.reactnative.ReactLoginActivity}" drawable="bb"/>
+https://play.google.com/store/apps/details?id=br.com.bb.android
+https://f-droid.org/en/packages/br.com.bb.android/
+https://apt.izzysoft.de/fdroid/index/apk/br.com.bb.android
+https://galaxystore.samsung.com/detail/br.com.bb.android
+https://www.ecosia.org/search?q=br.com.bb.android
+Requested 2 times
+Last requested 1711884061.0
+    
+<!-- Calm -->
+<item component="ComponentInfo{com.calm.android/com.calm.android.ui.splash.SplashActivity}" drawable="calm"/>
+https://play.google.com/store/apps/details?id=com.calm.android
+https://f-droid.org/en/packages/com.calm.android/
+https://apt.izzysoft.de/fdroid/index/apk/com.calm.android
+https://galaxystore.samsung.com/detail/com.calm.android
+https://www.ecosia.org/search?q=com.calm.android
+Requested 2 times
+Last requested 1711884061.0
+    
+<!-- iFood -->
+<item component="ComponentInfo{br.com.brainweb.ifood/br.com.ifood.activity.HomeActivity}" drawable="ifood"/>
+https://play.google.com/store/apps/details?id=br.com.brainweb.ifood
+https://f-droid.org/en/packages/br.com.brainweb.ifood/
+https://apt.izzysoft.de/fdroid/index/apk/br.com.brainweb.ifood
+https://galaxystore.samsung.com/detail/br.com.brainweb.ifood
+https://www.ecosia.org/search?q=br.com.brainweb.ifood
+Requested 2 times
+Last requested 1711884061.0
+    
+<!-- Oinkoin -->
+<item component="ComponentInfo{com.github.emavgl.piggybankpro/com.example.piggybank.MainActivity}" drawable="oinkoin"/>
+https://play.google.com/store/apps/details?id=com.github.emavgl.piggybankpro
+https://f-droid.org/en/packages/com.github.emavgl.piggybankpro/
+https://apt.izzysoft.de/fdroid/index/apk/com.github.emavgl.piggybankpro
+https://galaxystore.samsung.com/detail/com.github.emavgl.piggybankpro
+https://www.ecosia.org/search?q=com.github.emavgl.piggybankpro
+Requested 2 times
+Last requested 1711895711.0
+    
+<!-- SCEE -->
+<item component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}" drawable="scee"/>
+https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete.expert
+https://f-droid.org/en/packages/de.westnordost.streetcomplete.expert/
+https://apt.izzysoft.de/fdroid/index/apk/de.westnordost.streetcomplete.expert
+https://galaxystore.samsung.com/detail/de.westnordost.streetcomplete.expert
+https://www.ecosia.org/search?q=de.westnordost.streetcomplete.expert
+Requested 2 times
+Last requested 1711895711.0
+    
+<!-- Wilma -->
+<item component="ComponentInfo{fi.starsoft.wilma/crc6404bcd1e8d3e7ba74.MainActivity}" drawable="wilma"/>
+https://play.google.com/store/apps/details?id=fi.starsoft.wilma
+https://f-droid.org/en/packages/fi.starsoft.wilma/
+https://apt.izzysoft.de/fdroid/index/apk/fi.starsoft.wilma
+https://galaxystore.samsung.com/detail/fi.starsoft.wilma
+https://www.ecosia.org/search?q=fi.starsoft.wilma
+Requested 2 times
+Last requested 1711895711.0
     
 <!-- Monzo -->
 <item component="ComponentInfo{co.uk.getmondo/co.uk.getmondo.splash.SplashActivity}" drawable="monzo"/>
@@ -14292,76 +14412,6 @@ https://www.ecosia.org/search?q=org.y20k.escapepod
 Requested 1 times
 Last requested 1711561875.0
     
-<!-- GoPay -->
-<item component="ComponentInfo{com.gojek.gopay/com.gojek.gopay.MainActivity}" drawable="gopay"/>
-https://play.google.com/store/apps/details?id=com.gojek.gopay
-https://f-droid.org/en/packages/com.gojek.gopay/
-https://apt.izzysoft.de/fdroid/index/apk/com.gojek.gopay
-https://galaxystore.samsung.com/detail/com.gojek.gopay
-https://www.ecosia.org/search?q=com.gojek.gopay
-Requested 1 times
-Last requested 1711919765.0
-    
-<!-- Order Kuota -->
-<item component="ComponentInfo{com.orderkuota.app/com.w38s.StartupActivity}" drawable="order_kuota"/>
-https://play.google.com/store/apps/details?id=com.orderkuota.app
-https://f-droid.org/en/packages/com.orderkuota.app/
-https://apt.izzysoft.de/fdroid/index/apk/com.orderkuota.app
-https://galaxystore.samsung.com/detail/com.orderkuota.app
-https://www.ecosia.org/search?q=com.orderkuota.app
-Requested 1 times
-Last requested 1711919765.0
-    
-<!-- OVO -->
-<item component="ComponentInfo{ovo.id/ovo.id.common.activity.StartingActivity}" drawable="ovo"/>
-https://play.google.com/store/apps/details?id=ovo.id
-https://f-droid.org/en/packages/ovo.id/
-https://apt.izzysoft.de/fdroid/index/apk/ovo.id
-https://galaxystore.samsung.com/detail/ovo.id
-https://www.ecosia.org/search?q=ovo.id
-Requested 1 times
-Last requested 1711919765.0
-    
-<!-- PicSay Pro -->
-<item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay_pro"/>
-https://play.google.com/store/apps/details?id=com.shinycore.picsaypro
-https://f-droid.org/en/packages/com.shinycore.picsaypro/
-https://apt.izzysoft.de/fdroid/index/apk/com.shinycore.picsaypro
-https://galaxystore.samsung.com/detail/com.shinycore.picsaypro
-https://www.ecosia.org/search?q=com.shinycore.picsaypro
-Requested 1 times
-Last requested 1711919765.0
-    
-<!-- ProShot -->
-<item component="ComponentInfo{com.riseupgames.proshot2/com.riseupgames.proshot2.activities.PermissionsActivity}" drawable="proshot"/>
-https://play.google.com/store/apps/details?id=com.riseupgames.proshot2
-https://f-droid.org/en/packages/com.riseupgames.proshot2/
-https://apt.izzysoft.de/fdroid/index/apk/com.riseupgames.proshot2
-https://galaxystore.samsung.com/detail/com.riseupgames.proshot2
-https://www.ecosia.org/search?q=com.riseupgames.proshot2
-Requested 1 times
-Last requested 1711919765.0
-    
-<!-- Salaam -->
-<item component="ComponentInfo{com.samsung.msci.aceh/com.samsung.msci.aceh.view.TCActivity}" drawable="salaam"/>
-https://play.google.com/store/apps/details?id=com.samsung.msci.aceh
-https://f-droid.org/en/packages/com.samsung.msci.aceh/
-https://apt.izzysoft.de/fdroid/index/apk/com.samsung.msci.aceh
-https://galaxystore.samsung.com/detail/com.samsung.msci.aceh
-https://www.ecosia.org/search?q=com.samsung.msci.aceh
-Requested 1 times
-Last requested 1711919765.0
-    
-<!-- ShopeePay -->
-<item component="ComponentInfo{com.shopeepay.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopeepay"/>
-https://play.google.com/store/apps/details?id=com.shopeepay.id
-https://f-droid.org/en/packages/com.shopeepay.id/
-https://apt.izzysoft.de/fdroid/index/apk/com.shopeepay.id
-https://galaxystore.samsung.com/detail/com.shopeepay.id
-https://www.ecosia.org/search?q=com.shopeepay.id
-Requested 1 times
-Last requested 1711919765.0
-    
 <!-- BBC News -->
 <item component="ComponentInfo{bbc.mobile.news.uk/uk.co.bbc.chrysalis.discovery.ui.signin.SplashActivity}" drawable="bbc_news_1"/>
 https://play.google.com/store/apps/details?id=bbc.mobile.news.uk
@@ -14742,46 +14792,6 @@ https://www.ecosia.org/search?q=com.qudelix.qudelix
 Requested 1 times
 Last requested 1711609861.0
     
-<!-- Banco Azteca -->
-<item component="ComponentInfo{mx.com.bancoazteca.bazdigitalmovil/mx.com.bancoazteca.bancadigital.landing.presentation.view.LandingActivity}" drawable="banco_azteca"/>
-https://play.google.com/store/apps/details?id=mx.com.bancoazteca.bazdigitalmovil
-https://f-droid.org/en/packages/mx.com.bancoazteca.bazdigitalmovil/
-https://apt.izzysoft.de/fdroid/index/apk/mx.com.bancoazteca.bazdigitalmovil
-https://galaxystore.samsung.com/detail/mx.com.bancoazteca.bazdigitalmovil
-https://www.ecosia.org/search?q=mx.com.bancoazteca.bazdigitalmovil
-Requested 1 times
-Last requested 1711857216.0
-    
-<!-- MAME4droid (0.139u1) -->
-<item component="ComponentInfo{com.seleuco.mame4droid/com.seleuco.mame4droid.MAME4droid}" drawable="mame4droid_0139u1_"/>
-https://play.google.com/store/apps/details?id=com.seleuco.mame4droid
-https://f-droid.org/en/packages/com.seleuco.mame4droid/
-https://apt.izzysoft.de/fdroid/index/apk/com.seleuco.mame4droid
-https://galaxystore.samsung.com/detail/com.seleuco.mame4droid
-https://www.ecosia.org/search?q=com.seleuco.mame4droid
-Requested 1 times
-Last requested 1711857216.0
-    
-<!-- Snes9x EX+ -->
-<item component="ComponentInfo{com.explusalpha.Snes9xPlus/com.imagine.BaseActivity}" drawable="snes9x_ex_"/>
-https://play.google.com/store/apps/details?id=com.explusalpha.Snes9xPlus
-https://f-droid.org/en/packages/com.explusalpha.Snes9xPlus/
-https://apt.izzysoft.de/fdroid/index/apk/com.explusalpha.Snes9xPlus
-https://galaxystore.samsung.com/detail/com.explusalpha.Snes9xPlus
-https://www.ecosia.org/search?q=com.explusalpha.Snes9xPlus
-Requested 1 times
-Last requested 1711857216.0
-    
-<!-- ZipXtract FD -->
-<item component="ComponentInfo{com.wirelessalien.zipxtract/com.wirelessalien.zipxtract.FragmentActivity}" drawable="zipxtract_fd"/>
-https://play.google.com/store/apps/details?id=com.wirelessalien.zipxtract
-https://f-droid.org/en/packages/com.wirelessalien.zipxtract/
-https://apt.izzysoft.de/fdroid/index/apk/com.wirelessalien.zipxtract
-https://galaxystore.samsung.com/detail/com.wirelessalien.zipxtract
-https://www.ecosia.org/search?q=com.wirelessalien.zipxtract
-Requested 1 times
-Last requested 1711857216.0
-    
 <!-- AniDub Pro -->
 <item component="ComponentInfo{com.anihome.anime/com.anihome.anime.ui.activity.cg9fh}" drawable="anidub_pro"/>
 https://play.google.com/store/apps/details?id=com.anihome.anime
@@ -14981,16 +14991,6 @@ https://galaxystore.samsung.com/detail/cn.ticktick.task
 https://www.ecosia.org/search?q=cn.ticktick.task
 Requested 1 times
 Last requested 1711679396.0
-    
-<!-- Bistro.sk -->
-<item component="ComponentInfo{sk.azet.bistro/ui.Onboarding}" drawable="bistrosk"/>
-https://play.google.com/store/apps/details?id=sk.azet.bistro
-https://f-droid.org/en/packages/sk.azet.bistro/
-https://apt.izzysoft.de/fdroid/index/apk/sk.azet.bistro
-https://galaxystore.samsung.com/detail/sk.azet.bistro
-https://www.ecosia.org/search?q=sk.azet.bistro
-Requested 1 times
-Last requested 1711810016.0
     
 <!-- Clubcard Tesco -->
 <item component="ComponentInfo{sk.tesco.clubcard/com.tesco.clubcard.activity.main.MainActivity}" drawable="clubcard_tesco"/>
@@ -15392,16 +15392,6 @@ https://www.ecosia.org/search?q=com.valvesoftware.android.steam.friendsui
 Requested 1 times
 Last requested 1711675779.0
     
-<!-- APatch -->
-<item component="ComponentInfo{me.bmax.apatch/me.bmax.apatch.ui.MainActivity}" drawable="apatch"/>
-https://play.google.com/store/apps/details?id=me.bmax.apatch
-https://f-droid.org/en/packages/me.bmax.apatch/
-https://apt.izzysoft.de/fdroid/index/apk/me.bmax.apatch
-https://galaxystore.samsung.com/detail/me.bmax.apatch
-https://www.ecosia.org/search?q=me.bmax.apatch
-Requested 1 times
-Last requested 1711537986.0
-    
 <!-- Canada Post -->
 <item component="ComponentInfo{com.canadapost.android/ca.canadapost.SplashActivity}" drawable="canada_post"/>
 https://play.google.com/store/apps/details?id=com.canadapost.android
@@ -15491,36 +15481,6 @@ https://galaxystore.samsung.com/detail/com.lbrc.PeriodCalendar
 https://www.ecosia.org/search?q=com.lbrc.PeriodCalendar
 Requested 1 times
 Last requested 1711537986.0
-    
-<!-- BB -->
-<item component="ComponentInfo{br.com.bb.android/br.com.bb.android.reactnative.ReactLoginActivity}" drawable="bb"/>
-https://play.google.com/store/apps/details?id=br.com.bb.android
-https://f-droid.org/en/packages/br.com.bb.android/
-https://apt.izzysoft.de/fdroid/index/apk/br.com.bb.android
-https://galaxystore.samsung.com/detail/br.com.bb.android
-https://www.ecosia.org/search?q=br.com.bb.android
-Requested 1 times
-Last requested 1711884061.0
-    
-<!-- Calm -->
-<item component="ComponentInfo{com.calm.android/com.calm.android.ui.splash.SplashActivity}" drawable="calm"/>
-https://play.google.com/store/apps/details?id=com.calm.android
-https://f-droid.org/en/packages/com.calm.android/
-https://apt.izzysoft.de/fdroid/index/apk/com.calm.android
-https://galaxystore.samsung.com/detail/com.calm.android
-https://www.ecosia.org/search?q=com.calm.android
-Requested 1 times
-Last requested 1711884061.0
-    
-<!-- iFood -->
-<item component="ComponentInfo{br.com.brainweb.ifood/br.com.ifood.activity.HomeActivity}" drawable="ifood"/>
-https://play.google.com/store/apps/details?id=br.com.brainweb.ifood
-https://f-droid.org/en/packages/br.com.brainweb.ifood/
-https://apt.izzysoft.de/fdroid/index/apk/br.com.brainweb.ifood
-https://galaxystore.samsung.com/detail/br.com.brainweb.ifood
-https://www.ecosia.org/search?q=br.com.brainweb.ifood
-Requested 1 times
-Last requested 1711884061.0
     
 <!-- MRepo -->
 <item component="ComponentInfo{com.sanmer.mrepo/com.sanmer.mrepo.ui.activity.MainActivity}" drawable="mrepo"/>
@@ -15621,36 +15581,6 @@ https://galaxystore.samsung.com/detail/org.breezyweather
 https://www.ecosia.org/search?q=org.breezyweather
 Requested 1 times
 Last requested 1711585119.0
-    
-<!-- Oinkoin -->
-<item component="ComponentInfo{com.github.emavgl.piggybankpro/com.example.piggybank.MainActivity}" drawable="oinkoin"/>
-https://play.google.com/store/apps/details?id=com.github.emavgl.piggybankpro
-https://f-droid.org/en/packages/com.github.emavgl.piggybankpro/
-https://apt.izzysoft.de/fdroid/index/apk/com.github.emavgl.piggybankpro
-https://galaxystore.samsung.com/detail/com.github.emavgl.piggybankpro
-https://www.ecosia.org/search?q=com.github.emavgl.piggybankpro
-Requested 1 times
-Last requested 1711895711.0
-    
-<!-- SCEE -->
-<item component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}" drawable="scee"/>
-https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete.expert
-https://f-droid.org/en/packages/de.westnordost.streetcomplete.expert/
-https://apt.izzysoft.de/fdroid/index/apk/de.westnordost.streetcomplete.expert
-https://galaxystore.samsung.com/detail/de.westnordost.streetcomplete.expert
-https://www.ecosia.org/search?q=de.westnordost.streetcomplete.expert
-Requested 1 times
-Last requested 1711895711.0
-    
-<!-- Wilma -->
-<item component="ComponentInfo{fi.starsoft.wilma/crc6404bcd1e8d3e7ba74.MainActivity}" drawable="wilma"/>
-https://play.google.com/store/apps/details?id=fi.starsoft.wilma
-https://f-droid.org/en/packages/fi.starsoft.wilma/
-https://apt.izzysoft.de/fdroid/index/apk/fi.starsoft.wilma
-https://galaxystore.samsung.com/detail/fi.starsoft.wilma
-https://www.ecosia.org/search?q=fi.starsoft.wilma
-Requested 1 times
-Last requested 1711895711.0
     
 <!-- Calculator-inator -->
 <item component="ComponentInfo{com.inator.calculator/com.inator.calculator.activities.MainActivity}" drawable="calculator_inator"/>
@@ -15791,4 +15721,14 @@ https://galaxystore.samsung.com/detail/jp.co.omronsoft.wnnlab
 https://www.ecosia.org/search?q=jp.co.omronsoft.wnnlab
 Requested 1 times
 Last requested 1711631322.0
+    
+<!-- Clash -->
+<item component="ComponentInfo{com.github.kr328.clash.foss/com.github.kr328.clash.MainActivity}" drawable="clash"/>
+https://play.google.com/store/apps/details?id=com.github.kr328.clash.foss
+https://f-droid.org/en/packages/com.github.kr328.clash.foss/
+https://apt.izzysoft.de/fdroid/index/apk/com.github.kr328.clash.foss
+https://galaxystore.samsung.com/detail/com.github.kr328.clash.foss
+https://www.ecosia.org/search?q=com.github.kr328.clash.foss
+Requested 1 times
+Last requested 1712059919.0
     
