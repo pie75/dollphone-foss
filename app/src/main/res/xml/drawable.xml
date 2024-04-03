@@ -12,6 +12,7 @@
 <item drawable="flow_warps" />
 <item drawable="fluffychat" />
 <item drawable="github" />
+<item drawable="mega" />
 <item drawable="mull" />
 <item drawable="pixiv" />
 <item drawable="pokemon_go" />
@@ -407,6 +408,7 @@
 <item drawable="dropbox" />
 <item drawable="libreoffice_viewer" />
 <item drawable="mediafire" />
+<item drawable="mega" />
 <item drawable="microsoft_365" />
 <item drawable="nextcloud" />
 <item drawable="notally" />
