@@ -481,7 +481,6 @@
     <item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="compass" />
     <item component="ComponentInfo{apps.r.compass/apps.r.compass.StartTheme.Charcoal}" drawable="compass" />
 
-
     <!-- Contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
@@ -541,6 +540,9 @@
 
     <!-- Cool text and symbols -->
     <item component="ComponentInfo{com.dricodes.simboloseletrasdiferentesfree/com.dricodes.simboloseletrasdiferentesfree.HomeActivity}" drawable="cool_text_and_symbols" />
+
+    <!-- Copilot -->
+    <item component="ComponentInfo{com.microsoft.copilot/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="copilot"/>
 
     <!-- Cromite -->
     <item component="ComponentInfo{org.cromite.cromite/com.google.android.apps.chrome.Main}" drawable="cromite" />

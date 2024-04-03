@@ -150,6 +150,7 @@
 <item drawable="google_translate" />
 
 <category title="Microsoft" />
+<item drawable="copilot" />
 <item drawable="microsoft_365" />
 <item drawable="outlook" />
 <item drawable="teams" />
