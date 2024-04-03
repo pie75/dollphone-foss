@@ -15,6 +15,7 @@
 <item drawable="ftp" />
 <item drawable="github" />
 <item drawable="google_home" />
+<item drawable="keepass2android" />
 <item drawable="mega" />
 <item drawable="mull" />
 <item drawable="pixiv" />
@@ -528,6 +529,7 @@
 <item drawable="inure" />
 <item drawable="izzyondroid" />
 <item drawable="kde_connect" />
+<item drawable="keepass2android" />
 <item drawable="keepassdx" />
 <item drawable="kfz_kennzeichen" />
 <item drawable="kotatsu" />

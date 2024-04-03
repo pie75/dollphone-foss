@@ -1205,6 +1205,9 @@
     <!-- Keep Notes -->
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="notes" />
 
+    <!-- Keepass2Android -->
+    <item component="ComponentInfo{keepass2android.keepass2android/crc64dd09b2a2e58bb27d.KeePass}" drawable="keepass2android"/>
+
     <!-- KeePassDX -->
     <item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx" />
     <item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx"/>
