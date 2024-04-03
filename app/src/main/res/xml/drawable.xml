@@ -6,6 +6,7 @@
 <item drawable="a__1dm" />
 <item drawable="antennapod" />
 <item drawable="app_manager" />
+<item drawable="auxio" />
 <item drawable="droidify" />
 <item drawable="flow_bridges" />
 <item drawable="flow_free" />
@@ -199,6 +200,7 @@
 <item drawable="apple_music" />
 <item drawable="audio_technica_connect" />
 <item drawable="autotagger" />
+<item drawable="auxio" />
 <item drawable="bandcamp" />
 <item drawable="bandcamp_for_artists" />
 <item drawable="beats" />
