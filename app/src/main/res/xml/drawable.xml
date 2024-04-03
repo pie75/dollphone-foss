@@ -14,6 +14,7 @@
 <item drawable="fluffychat" />
 <item drawable="ftp" />
 <item drawable="github" />
+<item drawable="google_home" />
 <item drawable="mega" />
 <item drawable="mull" />
 <item drawable="pixiv" />
@@ -133,6 +134,7 @@
 <item drawable="google_family_link" />
 <item drawable="google_find" />
 <item drawable="google_gemini" />
+<item drawable="google_home" />
 <item drawable="google_lens" />
 <item drawable="google_news" />
 <item drawable="google_one" />
