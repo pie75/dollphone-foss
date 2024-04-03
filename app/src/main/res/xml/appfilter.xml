@@ -1516,6 +1516,9 @@
     <item component="ComponentInfo{de.micmun.android.nextcloudcookbook/de.micmun.android.nextcloudcookbook.ui.LoginActivity}" drawable="nextcloud_cookbook" />
     <item component="ComponentInfo{de.lukasneugebauer.nextcloudcookbook/de.lukasneugebauer.nextcloudcookbook.core.presentation.MainActivity}" drawable="nextcloud_cookbook"/>
 
+    <!-- Notes -->
+    <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.main.MainActivity}" drawable="nextcloud_notes"/>
+
     <!-- Next Player -->
     <item component="ComponentInfo{dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity}" drawable="next_player" />
 
