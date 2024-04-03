@@ -113,6 +113,9 @@
     <!-- AnimeZone -->
     <item component="ComponentInfo{com.bksapps.animezone/com.bksapps.animezone.MainActivity}" drawable="cosplay" />
 
+    <!-- AntennaPod -->
+    <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod"/>
+
     <!-- Antimine -->
     <item component="ComponentInfo{dev.lucanlm.antimine/dev.lucasnlm.antimine.main.MainActivity}" drawable="minesweeper" />
 

@@ -4,6 +4,7 @@
 
 <category title="Recent" />
 <item drawable="a__1dm" />
+<item drawable="antennapod" />
 <item drawable="app_manager" />
 <item drawable="droidify" />
 <item drawable="flow_bridges" />
@@ -186,6 +187,7 @@
 <item drawable="headphones_2" />
 <item drawable="headphones_3" />
 <item drawable="headphones_4" />
+<item drawable="antennapod" />
 <item drawable="apple_music" />
 <item drawable="audio_technica_connect" />
 <item drawable="autotagger" />
