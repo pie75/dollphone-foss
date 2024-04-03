@@ -1913,6 +1913,9 @@
     <!-- Scoop -->
     <item component="ComponentInfo{taco.scoop/taco.scoop.ui.activity.MainActivity}" drawable="scoop"/>
 
+    <!-- SD Maid SE -->
+    <item component="ComponentInfo{eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity}" drawable="sd_maid_se"/>
+
     <!-- SecScanQR -->
     <item component="ComponentInfo{de.t_dankworth.secscanqr/de.t_dankworth.secscanqr.activities.MainActivity}" drawable="secscanqr" />
 

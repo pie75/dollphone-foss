@@ -19,6 +19,7 @@
 <item drawable="mull" />
 <item drawable="pixiv" />
 <item drawable="pokemon_go" />
+<item drawable="sd_maid_se" />
 <item drawable="shazam" />
 <item drawable="shizuku" />
 <item drawable="super_tux_kart" />
@@ -562,6 +563,7 @@
 <item drawable="save_locally" />
 <item drawable="scientific_calculator_plus_991" />
 <item drawable="screen_master" />
+<item drawable="sd_maid_se" />
 <item drawable="secscanqr" />
 <item drawable="shelter" />
 <item drawable="shizuku" />
