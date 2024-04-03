@@ -233,6 +233,9 @@
     <!-- Binary Eye -->
     <item component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" drawable="qr" />
 
+    <!-- Bistro.sk -->
+    <item component="ComponentInfo{sk.azet.bistro/ui.Onboarding}" drawable="just_eat"/>
+
     <!-- Bitmoji -->
     <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.activities.LandingActivity}" drawable="bitmoji"/>
 
@@ -1138,6 +1141,9 @@
     <!-- Imagepipe -->
     <item component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}" drawable="imagepipe"/>
 
+    <!-- Image Toolbox -->
+    <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity}" drawable="image_toolbox"/>
+
     <!-- InShot -->
     <item component="ComponentInfo{com.camerasideas.instashot/com.camerasideas.instashot.MainActivity}" drawable="inshot" />
 
@@ -1189,6 +1195,7 @@
 
     <!-- KeePassDX -->
     <item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx" />
+    <item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx"/>
 
     <!-- Keyman -->
     <item component="ComponentInfo{com.tavultesoft.kmapro/com.tavultesoft.kmapro.SplashScreenActivity}" drawable="keyman" />
