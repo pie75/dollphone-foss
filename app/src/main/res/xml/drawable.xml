@@ -21,6 +21,10 @@
 <item drawable="tamagotchi" />
 <item drawable="terminal" />
 <item drawable="wx" />
+<item drawable="yle" />
+<item drawable="yle_areena" />
+<item drawable="yle_lasten_areena" />
+<item drawable="yle_kielikoulu" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -218,6 +222,8 @@
 <item drawable="youtube_studio" />
 <item drawable="youtube_vanced" />
 <item drawable="zapp" />
+<item drawable="yle_areena" />
+<item drawable="yle_lasten_areena" />
 
 <category title="Browsers" />
 <item drawable="browser" />
@@ -572,6 +578,8 @@
 <item drawable="waze" />
 <item drawable="weight_tracker" />
 <item drawable="wx" />
+<item drawable="yle" />
+<item drawable="yle_kielikoulu" />
 
 <category title="Dictionary" />
 <item drawable="dictionary_generic" />

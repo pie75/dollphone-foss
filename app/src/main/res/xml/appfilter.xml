@@ -2785,6 +2785,18 @@
     <!-- Yahoo News -->
     <item component="ComponentInfo{jp.co.yahoo.android.news/jp.co.yahoo.android.news.activity.SplashActivity}" drawable="news" />
 
+    <!-- Yle Areena -->
+    <item component="ComponentInfo{com.yle.webtv/fi.yle.areena.ui.LaunchActivity}" drawable="yle_areena"/>
+
+    <!-- Lasten Areena -->
+    <item component="ComponentInfo{com.yle.lastenareena/fi.yle.areena.ui.activity.LaunchActivity}" drawable="yle_lasten_areena"/>
+
+    <!-- Yle Kielikoulu -->
+    <item component="ComponentInfo{fi.yle.languageplay/com.brainglass.lingoalcoach.PlayBestActivity}" drawable="yle_kielikoulu"/>
+
+    <!-- Yle -->
+    <item component="ComponentInfo{fi.yle.ylefiapp/fi.yle.ylefiapp.MainActivity}" drawable="yle"/>
+    
     <!-- YMusic -->
     <item component="ComponentInfo{com.kapp.youtube.final/com.kapp.youtube.ui.MainActivity}" drawable="ymusic" />
 
