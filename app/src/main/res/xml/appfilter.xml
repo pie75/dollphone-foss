@@ -915,6 +915,9 @@
     <!-- Games -->
     <item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="games" />
 
+    <!-- Game Center - Xiaomi -->
+    <item component="ComponentInfo{com.xiaomi.glgm/com.xiaomi.glgm.home.ui.SplashActivity}" drawable="games_4"/>
+
     <!-- Game Space -->
     <item component="ComponentInfo{io.chaldeaprjkt.gamespace/io.chaldeaprjkt.gamespace.settings.SettingsActivity}" drawable="games"/>
 
