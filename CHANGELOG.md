@@ -1,3 +1,10 @@
+# 2024-04-03 (v1.1.1)
+- Added icons: 1DM, AnntennaPod, App Manager, Auxio, Droidify, Flow, Flow Bridges, Flow Hexes, Flow Warps, FluffyChat, FTP, GitHub, Google Home, Jellyfin, Keepass2Android, MEGA, Mull, My Tamagotchi Forever, Pixiv, Pokémon GO, SD Maid SE, Seal, Shazam, Shizuku, Super Tux Kart, Terminal, wX
+- Added contributor icons by quantenzitrone: FOSS Warn, Obtainium, Organic Maps, Scoop, Stremio
+- Added contributor icons by Latzze: Yle, Yle Areena, Yle Kielikoulu, Yle Lasten Areena
+- Added lots of aliases
+- Removed Google Podcasts because they discontinued the app
+
 # 2024-03-15 (v1.1.0)
 - Added icons: 10bis/Grubhub/Let's Eat/Lieferando, Bilibili, Bitmoji, Five Nights at Freddy's 1~4, Google Authenticator, IzzyOnDroid, Kotatsu, Merriam-Webster Dictionary, Niconico, Ola Party, OmeTV, Open Stable Diffusion, Open Video Editor, RAR, Reckoning Skills, Reset System, Samsung Tips, Save Locally, SimpleLogin, Slack, Squawker, Suntimes, Tata 1mg, Too Good to Go, TorServices, TrueCaller, Vivaldi, Waze, Wikipedia
 - Adjusted link color so that it's more visible in both Light and Dark themes
