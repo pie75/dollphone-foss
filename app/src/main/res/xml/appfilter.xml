@@ -108,7 +108,7 @@
     <item component="ComponentInfo{com.anb.mobile.prod/com.anb.mobile.prod.launcher_a6ddb73340946d2268639aee7b9f1f69ec008acffe6ed6baebde055bdc1844fd}" drawable="anb" />
 
     <!-- AndFTP -->
-    <!-- <item component="ComponentInfo{lysesoft.andftp/lysesoft.andftp.SplashActivity}" drawable="ftp"/> -->
+    <item component="ComponentInfo{lysesoft.andftp/lysesoft.andftp.SplashActivity}" drawable="ftp"/>
 
     <!-- AnimeZone -->
     <item component="ComponentInfo{com.bksapps.animezone/com.bksapps.animezone.MainActivity}" drawable="cosplay" />

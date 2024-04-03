@@ -12,6 +12,7 @@
 <item drawable="flow_hexes" />
 <item drawable="flow_warps" />
 <item drawable="fluffychat" />
+<item drawable="ftp" />
 <item drawable="github" />
 <item drawable="mega" />
 <item drawable="mull" />
@@ -408,6 +409,7 @@
 <item drawable="documents" />
 <item drawable="drive" />
 <item drawable="dropbox" />
+<item drawable="ftp" />
 <item drawable="libreoffice_viewer" />
 <item drawable="mediafire" />
 <item drawable="mega" />
