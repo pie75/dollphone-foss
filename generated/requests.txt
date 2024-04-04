@@ -1,5 +1,5 @@
 -------------------------------------------------------
-1586 Requested Apps Pending (Updated 2024/04/04)
+1580 Requested Apps Pending (Updated 2024/04/04)
 -------------------------------------------------------
 
 <!-- Obsidian -->
@@ -11,66 +11,6 @@ https://galaxystore.samsung.com/detail/md.obsidian
 https://www.ecosia.org/search?q=md.obsidian
 Requested 10 times
 Last requested 1712166898.0
-    
-<!-- SD Maid SE -->
-<item component="ComponentInfo{eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity}" drawable="sd_maid_se"/>
-https://play.google.com/store/apps/details?id=eu.darken.sdmse
-https://f-droid.org/en/packages/eu.darken.sdmse/
-https://apt.izzysoft.de/fdroid/index/apk/eu.darken.sdmse
-https://galaxystore.samsung.com/detail/eu.darken.sdmse
-https://www.ecosia.org/search?q=eu.darken.sdmse
-Requested 8 times
-Last requested 1711343863.0
-    
-<!-- Copilot -->
-<item component="ComponentInfo{com.microsoft.copilot/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="copilot"/>
-https://play.google.com/store/apps/details?id=com.microsoft.copilot
-https://f-droid.org/en/packages/com.microsoft.copilot/
-https://apt.izzysoft.de/fdroid/index/apk/com.microsoft.copilot
-https://galaxystore.samsung.com/detail/com.microsoft.copilot
-https://www.ecosia.org/search?q=com.microsoft.copilot
-Requested 7 times
-Last requested 1709665688.0
-    
-<!-- Seal -->
-<item component="ComponentInfo{com.junkfood.seal/com.junkfood.seal.MainActivity}" drawable="seal"/>
-https://play.google.com/store/apps/details?id=com.junkfood.seal
-https://f-droid.org/en/packages/com.junkfood.seal/
-https://apt.izzysoft.de/fdroid/index/apk/com.junkfood.seal
-https://galaxystore.samsung.com/detail/com.junkfood.seal
-https://www.ecosia.org/search?q=com.junkfood.seal
-Requested 7 times
-Last requested 1711256031.0
-    
-<!-- Keepass2Android -->
-<item component="ComponentInfo{keepass2android.keepass2android/crc64dd09b2a2e58bb27d.KeePass}" drawable="keepass2android"/>
-https://play.google.com/store/apps/details?id=keepass2android.keepass2android
-https://f-droid.org/en/packages/keepass2android.keepass2android/
-https://apt.izzysoft.de/fdroid/index/apk/keepass2android.keepass2android
-https://galaxystore.samsung.com/detail/keepass2android.keepass2android
-https://www.ecosia.org/search?q=keepass2android.keepass2android
-Requested 7 times
-Last requested 1711343863.0
-    
-<!-- Jellyfin -->
-<item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin"/>
-https://play.google.com/store/apps/details?id=org.jellyfin.mobile
-https://f-droid.org/en/packages/org.jellyfin.mobile/
-https://apt.izzysoft.de/fdroid/index/apk/org.jellyfin.mobile
-https://galaxystore.samsung.com/detail/org.jellyfin.mobile
-https://www.ecosia.org/search?q=org.jellyfin.mobile
-Requested 7 times
-Last requested 1711595696.0
-    
-<!-- Auxio -->
-<item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio"/>
-https://play.google.com/store/apps/details?id=org.oxycblt.auxio
-https://f-droid.org/en/packages/org.oxycblt.auxio/
-https://apt.izzysoft.de/fdroid/index/apk/org.oxycblt.auxio
-https://galaxystore.samsung.com/detail/org.oxycblt.auxio
-https://www.ecosia.org/search?q=org.oxycblt.auxio
-Requested 7 times
-Last requested 1711895711.0
     
 <!-- Briar -->
 <item component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" drawable="briar"/>
