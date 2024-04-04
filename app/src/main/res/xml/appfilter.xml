@@ -174,6 +174,9 @@
     <!-- Avast -->
     <item component="ComponentInfo{com.avast.android.mobilesecurity/com.avast.android.one.base.ui.main.MainActivity}" drawable="avast" />
 
+    <!-- Auxio -->
+    <item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio"/>
+
     <!-- Azar -->
     <item component="ComponentInfo{com.azarlive.android/com.azarlive.android.presentation.login.LoginActivity}" drawable="azar" />
 
@@ -481,7 +484,6 @@
     <item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="compass" />
     <item component="ComponentInfo{apps.r.compass/apps.r.compass.StartTheme.Charcoal}" drawable="compass" />
 
-
     <!-- Contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
@@ -541,6 +543,9 @@
 
     <!-- Cool text and symbols -->
     <item component="ComponentInfo{com.dricodes.simboloseletrasdiferentesfree/com.dricodes.simboloseletrasdiferentesfree.HomeActivity}" drawable="cool_text_and_symbols" />
+
+    <!-- Copilot -->
+    <item component="ComponentInfo{com.microsoft.copilot/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="copilot"/>
 
     <!-- Cromite -->
     <item component="ComponentInfo{org.cromite.cromite/com.google.android.apps.chrome.Main}" drawable="cromite" />
@@ -1172,6 +1177,9 @@
     <!-- JBL Headphones -->
     <item component="ComponentInfo{jbl.stc.com/jbl.stc.com.activity.SplashActivity}" drawable="headphones_1" />
 
+    <!-- Jellyfin -->
+    <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin"/>
+
     <!-- Jiten -->
     <item component="ComponentInfo{dev.obfusk.jiten/org.kivy.android.PythonActivity}" drawable="dictionary_ja_jisho" />
     <item component="ComponentInfo{dev.obfusk.jiten_webview/dev.obfusk.jiten_webview.MainActivity}" drawable="dictionary_ja_jisho"/>
@@ -1202,6 +1210,9 @@
 
     <!-- Keep Notes -->
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="notes" />
+
+    <!-- Keepass2Android -->
+    <item component="ComponentInfo{keepass2android.keepass2android/crc64dd09b2a2e58bb27d.KeePass}" drawable="keepass2android"/>
 
     <!-- KeePassDX -->
     <item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx" />
@@ -1912,6 +1923,12 @@
 
     <!-- Scoop -->
     <item component="ComponentInfo{taco.scoop/taco.scoop.ui.activity.MainActivity}" drawable="scoop"/>
+
+    <!-- SD Maid SE -->
+    <item component="ComponentInfo{eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity}" drawable="sd_maid_se"/>
+
+    <!-- Seal -->
+    <item component="ComponentInfo{com.junkfood.seal/com.junkfood.seal.MainActivity}" drawable="seal"/>
 
     <!-- SecScanQR -->
     <item component="ComponentInfo{de.t_dankworth.secscanqr/de.t_dankworth.secscanqr.activities.MainActivity}" drawable="secscanqr" />

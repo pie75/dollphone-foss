@@ -6,6 +6,7 @@
 <item drawable="a__1dm" />
 <item drawable="antennapod" />
 <item drawable="app_manager" />
+<item drawable="auxio" />
 <item drawable="droidify" />
 <item drawable="flow_bridges" />
 <item drawable="flow_free" />
@@ -15,10 +16,14 @@
 <item drawable="ftp" />
 <item drawable="github" />
 <item drawable="google_home" />
+<item drawable="jellyfin" />
+<item drawable="keepass2android" />
 <item drawable="mega" />
 <item drawable="mull" />
 <item drawable="pixiv" />
 <item drawable="pokemon_go" />
+<item drawable="sd_maid_se" />
+<item drawable="seal" />
 <item drawable="shazam" />
 <item drawable="shizuku" />
 <item drawable="super_tux_kart" />
@@ -149,6 +154,7 @@
 <item drawable="google_translate" />
 
 <category title="Microsoft" />
+<item drawable="copilot" />
 <item drawable="microsoft_365" />
 <item drawable="outlook" />
 <item drawable="teams" />
@@ -194,6 +200,7 @@
 <item drawable="apple_music" />
 <item drawable="audio_technica_connect" />
 <item drawable="autotagger" />
+<item drawable="auxio" />
 <item drawable="bandcamp" />
 <item drawable="bandcamp_for_artists" />
 <item drawable="beats" />
@@ -214,6 +221,7 @@
 <item drawable="video" />
 <item drawable="bendystraw" />
 <item drawable="bilibili" />
+<item drawable="jellyfin" />
 <item drawable="mx_player_pro" />
 <item drawable="netflix" />
 <item drawable="newpipe" />
@@ -221,6 +229,7 @@
 <item drawable="niconico" />
 <item drawable="revanced_extended" />
 <item drawable="revanced_manager" />
+<item drawable="seal" />
 <item drawable="stremio" />
 <item drawable="vlc" />
 <item drawable="youtube" />
@@ -524,6 +533,7 @@
 <item drawable="inure" />
 <item drawable="izzyondroid" />
 <item drawable="kde_connect" />
+<item drawable="keepass2android" />
 <item drawable="keepassdx" />
 <item drawable="kfz_kennzeichen" />
 <item drawable="kotatsu" />
@@ -562,6 +572,7 @@
 <item drawable="save_locally" />
 <item drawable="scientific_calculator_plus_991" />
 <item drawable="screen_master" />
+<item drawable="sd_maid_se" />
 <item drawable="secscanqr" />
 <item drawable="shelter" />
 <item drawable="shizuku" />
