@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date" translatable="false">2024-03-15</string>
+    <string name="changelog_date" translatable="false">2024-04-03</string>
 
     <string-array name="changelog">
-        <item>Added icons: 10bis/Grubhub/Let’s Eat/Lieferando, Bilibili, Bitmoji, Five Nights at Freddy’s 1~4, Google Authenticator, IzzyOnDroid, Kotatsu, Merriam-Webster Dictionary, Niconico, Ola Party, OmeTV, Open Stable Diffusion, Open Video Editor, RAR, Reckoning Skills, Reset System, Samsung Tips, Save Locally, SimpleLogin, Slack, Squawker, Suntimes, Tata 1mg, Too Good to Go, TorServices, TrueCaller, Vivaldi, Waze, Wikipedia</item>
-        <item>Adjusted link color so that it’s more visible in both Light and Dark themes</item>
-        <item>Revised home screen text</item>
-        <item>Changed request email address to a dedicated one</item>
-        <item>Added a requests list and reopened requests</item>
-        <item>Removed the edges of reference images appearing on Aurora Shop’s icon</item>
-        <item>Fixed Eternity for Lemmy not appearing the icon list</item>
-        <item>Added alias for `MainBrandDark` activity on Discord (Did the requester change the app icon in the app? I wouldn’t know because I don’t want Nitro)</item>
-        <item>Added multiple Telegram icon aliases; why are there so many?!</item>
-        <item>Added several more aliases</item>
+        <item>Added icons: 1DM, AnntennaPod, App Manager, Auxio, Droidify, Flow, Flow Bridges, Flow Hexes, Flow Warps, FluffyChat, FTP, GitHub, Google Home, Jellyfin, Keepass2Android, MEGA, Mull, My Tamagotchi Forever, Pixiv, Pokémon GO, SD Maid SE, Seal, Shazam, Shizuku, Super Tux Kart, Terminal, wX</item>
+        <item>Added contributor icons by quantenzitrone: FOSS Warn, Obtainium, Organic Maps, Scoop, Stremio</item>
+        <item>Added contributor icons by Latzze: Yle, Yle Areena, Yle Kielikoulu, Yle Lasten Areena</item>
+        <item>Added lots of aliases</item>
+        <item>Removed Google Podcasts because they discontinued the app</item>
     </string-array>
 
 </resources>
