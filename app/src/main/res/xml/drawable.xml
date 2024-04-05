@@ -21,6 +21,7 @@
 <item drawable="clash_royale" />
 <item drawable="collins_dictionary" />
 <item drawable="cool_text_and_symbols" />
+<item drawable="cpuz" />
 <item drawable="cryptomator" />
 <item drawable="cuscon" />
 <item drawable="digilocker" />
@@ -448,6 +449,7 @@
 <item drawable="character_ai" />
 <item drawable="chatgpt" />
 <item drawable="code_editor" />
+<item drawable="cpuz" />
 <item drawable="deepl" />
 <item drawable="desmos" />
 <item drawable="desmos_scientific" />
