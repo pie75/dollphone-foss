@@ -261,6 +261,9 @@
     <!-- Brawl Stars -->
     <item component="ComponentInfo{com.supercell.brawlstars/com.supercell.brawlstars.GameApp}" drawable="brawl_stars" />
 
+    <!-- Briar -->
+    <item component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" drawable="briar"/>
+
     <!-- Browser -->
     <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser" />
     <item component="ComponentInfo{com.mi.globalbrowser/com.mi.globalbrowser.Main}" drawable="browser" />

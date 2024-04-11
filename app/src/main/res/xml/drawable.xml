@@ -3,37 +3,7 @@
 <version>1</version>
 
 <category title="Recent" />
-<item drawable="a__1dm" />
-<item drawable="antennapod" />
-<item drawable="app_manager" />
-<item drawable="auxio" />
-<item drawable="droidify" />
-<item drawable="flow_bridges" />
-<item drawable="flow_free" />
-<item drawable="flow_hexes" />
-<item drawable="flow_warps" />
-<item drawable="fluffychat" />
-<item drawable="ftp" />
-<item drawable="github" />
-<item drawable="google_home" />
-<item drawable="jellyfin" />
-<item drawable="keepass2android" />
-<item drawable="mega" />
-<item drawable="mull" />
-<item drawable="pixiv" />
-<item drawable="pokemon_go" />
-<item drawable="sd_maid_se" />
-<item drawable="seal" />
-<item drawable="shazam" />
-<item drawable="shizuku" />
-<item drawable="super_tux_kart" />
-<item drawable="tamagotchi" />
-<item drawable="terminal" />
-<item drawable="wx" />
-<item drawable="yle" />
-<item drawable="yle_areena" />
-<item drawable="yle_lasten_areena" />
-<item drawable="yle_kielikoulu" />
+<item drawable="briar" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -262,6 +232,7 @@
 <item drawable="vivaldi" />
 
 <category title="SMS &amp; Email" />
+<item drawable="briar" />
 <item drawable="element" />
 <item drawable="email" />
 <item drawable="fairemail" />
