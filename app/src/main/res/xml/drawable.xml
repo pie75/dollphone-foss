@@ -4,6 +4,7 @@
 
 <category title="Recent" />
 <item drawable="briar" />
+<item drawable="ffupdater" />
 <item drawable="libretube" />
 
 <category title="Faces" />
@@ -219,6 +220,7 @@
 <item drawable="cromite" />
 <item drawable="duckduckgo" />
 <item drawable="fennec" />
+<item drawable="ffupdater" />
 <item drawable="firefox" />
 <item drawable="firefox_nightly" />
 <item drawable="firefox_focus" />

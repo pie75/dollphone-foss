@@ -768,6 +768,9 @@
     <!-- Fetlife -->
     <item component="ComponentInfo{com.bitlove.fetlife/com.bitlove.fetlife.StartActivity_Kinky}" drawable="fetlife" />
 
+    <!-- FFUpdater -->
+    <item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.activity.main.MainActivity}" drawable="ffupdater"/>
+
     <!-- Find Device -->
     <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="google_find" />
 
