@@ -2834,6 +2834,9 @@
     <!-- Xbox Game Pass -->
     <item component="ComponentInfo{com.gamepass/com.gamepass.MainActivity}" drawable="xbox_game_pass" />
 
+    <!-- Xiaomi Security Center -->
+    <item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="xiaomi_security_center"/>
+
     <!-- Yahoo! Mail (Japan) -->
     <item component="ComponentInfo{jp.co.yahoo.android.ymail/jp.co.yahoo.android.ymail.YMailStartActivity}" drawable="yahoo_mail" />
 

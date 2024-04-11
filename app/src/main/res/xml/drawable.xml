@@ -6,6 +6,7 @@
 <item drawable="briar" />
 <item drawable="ffupdater" />
 <item drawable="libretube" />
+<item drawable="xiaomi_security_center" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -572,6 +573,7 @@
 <item drawable="waze" />
 <item drawable="weight_tracker" />
 <item drawable="wx" />
+<item drawable="xiaomi_security_center" />
 <item drawable="yle" />
 <item drawable="yle_kielikoulu" />
 
