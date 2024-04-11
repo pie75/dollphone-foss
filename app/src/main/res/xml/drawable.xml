@@ -4,6 +4,7 @@
 
 <category title="Recent" />
 <item drawable="briar" />
+<item drawable="crunchyroll" />
 <item drawable="ffupdater" />
 <item drawable="libretube" />
 <item drawable="xiaomi_security_center" />
@@ -194,6 +195,7 @@
 <item drawable="video" />
 <item drawable="bendystraw" />
 <item drawable="bilibili" />
+<item drawable="crunchyroll" />
 <item drawable="jellyfin" />
 <item drawable="libretube" />
 <item drawable="mx_player_pro" />

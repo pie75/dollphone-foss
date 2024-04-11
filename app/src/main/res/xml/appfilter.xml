@@ -553,6 +553,9 @@
     <!-- Cromite -->
     <item component="ComponentInfo{org.cromite.cromite/com.google.android.apps.chrome.Main}" drawable="cromite" />
 
+    <!-- Crunchyroll -->
+    <item component="ComponentInfo{com.crunchyroll.crunchyroid/com.ellation.crunchyroll.presentation.startup.StartupActivity}" drawable="crunchyroll"/>
+
     <!-- Cryptomator -->
     <item component="ComponentInfo{org.cryptomator.lite/org.cryptomator.presentation.ui.activity.VaultListActivity}" drawable="cryptomator" />
 
