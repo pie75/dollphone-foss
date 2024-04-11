@@ -1,5 +1,5 @@
 -------------------------------------------------------
-1621 Requested Apps Pending (Updated 2024/04/11)
+1611 Requested Apps Pending (Updated 2024/04/11)
 -------------------------------------------------------
 
 <!-- Obsidian -->
@@ -21,76 +21,6 @@ https://galaxystore.samsung.com/detail/com.nutomic.syncthingandroid
 https://www.ecosia.org/search?q=com.nutomic.syncthingandroid
 Requested 7 times
 Last requested 1712298306.0
-    
-<!-- AIMP -->
-<item component="ComponentInfo{com.aimp.player/com.aimp.player.ui.activities.main.MainActivity}" drawable="aimp"/>
-https://play.google.com/store/apps/details?id=com.aimp.player
-https://f-droid.org/en/packages/com.aimp.player/
-https://apt.izzysoft.de/fdroid/index/apk/com.aimp.player
-https://galaxystore.samsung.com/detail/com.aimp.player
-https://www.ecosia.org/search?q=com.aimp.player
-Requested 7 times
-Last requested 1712220679.0
-    
-<!-- AnkiDroid -->
-<item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid"/>
-https://play.google.com/store/apps/details?id=com.ichi2.anki
-https://f-droid.org/en/packages/com.ichi2.anki/
-https://apt.izzysoft.de/fdroid/index/apk/com.ichi2.anki
-https://galaxystore.samsung.com/detail/com.ichi2.anki
-https://www.ecosia.org/search?q=com.ichi2.anki
-Requested 7 times
-Last requested 1712466797.0
-    
-<!-- Briar -->
-<item component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" drawable="briar"/>
-https://play.google.com/store/apps/details?id=org.briarproject.briar.android
-https://f-droid.org/en/packages/org.briarproject.briar.android/
-https://apt.izzysoft.de/fdroid/index/apk/org.briarproject.briar.android
-https://galaxystore.samsung.com/detail/org.briarproject.briar.android
-https://www.ecosia.org/search?q=org.briarproject.briar.android
-Requested 6 times
-Last requested 1709976271.0
-    
-<!-- LibreTube -->
-<item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="libretube_1"/>
-https://play.google.com/store/apps/details?id=com.github.libretube
-https://f-droid.org/en/packages/com.github.libretube/
-https://apt.izzysoft.de/fdroid/index/apk/com.github.libretube
-https://galaxystore.samsung.com/detail/com.github.libretube
-https://www.ecosia.org/search?q=com.github.libretube
-Requested 6 times
-Last requested 1710227888.0
-    
-<!-- FFUpdater -->
-<item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.activity.main.MainActivity}" drawable="ffupdater"/>
-https://play.google.com/store/apps/details?id=de.marmaro.krt.ffupdater
-https://f-droid.org/en/packages/de.marmaro.krt.ffupdater/
-https://apt.izzysoft.de/fdroid/index/apk/de.marmaro.krt.ffupdater
-https://galaxystore.samsung.com/detail/de.marmaro.krt.ffupdater
-https://www.ecosia.org/search?q=de.marmaro.krt.ffupdater
-Requested 6 times
-Last requested 1709472445.0
-    
-<!-- Security -->
-<item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="security"/>
-https://play.google.com/store/apps/details?id=com.miui.securitycenter
-https://f-droid.org/en/packages/com.miui.securitycenter/
-https://apt.izzysoft.de/fdroid/index/apk/com.miui.securitycenter
-https://galaxystore.samsung.com/detail/com.miui.securitycenter
-https://www.ecosia.org/search?q=com.miui.securitycenter
-Requested 6 times
-Last requested 1710369860.0
-    
-<!-- Crunchyroll -->
-<item component="ComponentInfo{com.crunchyroll.crunchyroid/com.ellation.crunchyroll.presentation.startup.StartupActivity}" drawable="crunchyroll"/>
-https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid
-https://f-droid.org/en/packages/com.crunchyroll.crunchyroid/
-https://apt.izzysoft.de/fdroid/index/apk/com.crunchyroll.crunchyroid
-https://galaxystore.samsung.com/detail/com.crunchyroll.crunchyroid
-https://www.ecosia.org/search?q=com.crunchyroll.crunchyroid
-Requested 6 times
-Last requested 1710564640.0
     
 <!-- Musicolet -->
 <item component="ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}" drawable="musicolet"/>
@@ -161,16 +91,6 @@ https://galaxystore.samsung.com/detail/nodomain.freeyourgadget.gadgetbridge
 https://www.ecosia.org/search?q=nodomain.freeyourgadget.gadgetbridge
 Requested 5 times
 Last requested 1710216305.0
-    
-<!-- Neo Store -->
-<item component="ComponentInfo{com.machiav3lli.fdroid/com.machiav3lli.fdroid.ui.activities.MainActivityX}" drawable="neo_store"/>
-https://play.google.com/store/apps/details?id=com.machiav3lli.fdroid
-https://f-droid.org/en/packages/com.machiav3lli.fdroid/
-https://apt.izzysoft.de/fdroid/index/apk/com.machiav3lli.fdroid
-https://galaxystore.samsung.com/detail/com.machiav3lli.fdroid
-https://www.ecosia.org/search?q=com.machiav3lli.fdroid
-Requested 5 times
-Last requested 1709954300.0
     
 <!-- Bromite -->
 <item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite"/>
@@ -2952,16 +2872,6 @@ https://www.ecosia.org/search?q=de.seemoo.at_tracking_detection
 Requested 2 times
 Last requested 1711503245.0
     
-<!-- LibreTube -->
-<item component="ComponentInfo{com.github.libretube/com.github.libretube.DefaultLight}" drawable="libretube_2"/>
-https://play.google.com/store/apps/details?id=com.github.libretube
-https://f-droid.org/en/packages/com.github.libretube/
-https://apt.izzysoft.de/fdroid/index/apk/com.github.libretube
-https://galaxystore.samsung.com/detail/com.github.libretube
-https://www.ecosia.org/search?q=com.github.libretube
-Requested 2 times
-Last requested 1711609861.0
-    
 <!-- AccuBattery -->
 <item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}" drawable="accubattery"/>
 https://play.google.com/store/apps/details?id=com.digibites.accubattery
@@ -4281,16 +4191,6 @@ https://galaxystore.samsung.com/detail/com.kidsbowlfree.mobile
 https://www.ecosia.org/search?q=com.kidsbowlfree.mobile
 Requested 1 times
 Last requested 1710255060.0
-    
-<!-- LibreTube -->
-<item component="ComponentInfo{com.github.libretube/com.github.libretube.IconFire}" drawable="libretube"/>
-https://play.google.com/store/apps/details?id=com.github.libretube
-https://f-droid.org/en/packages/com.github.libretube/
-https://apt.izzysoft.de/fdroid/index/apk/com.github.libretube
-https://galaxystore.samsung.com/detail/com.github.libretube
-https://www.ecosia.org/search?q=com.github.libretube
-Requested 1 times
-Last requested 1709893630.0
     
 <!-- My Renault -->
 <item component="ComponentInfo{com.renault.myrenault.one.fr/com.accenture.myrenault.activities.splashscreen.SplashScreenActivity}" drawable="my_renault"/>
