@@ -3,6 +3,7 @@
 <version>1</version>
 
 <category title="Recent" />
+<item drawable="aimp" />
 <item drawable="briar" />
 <item drawable="crunchyroll" />
 <item drawable="ffupdater" />
@@ -171,6 +172,7 @@
 <item drawable="headphones_2" />
 <item drawable="headphones_3" />
 <item drawable="headphones_4" />
+<item drawable="aimp" />
 <item drawable="antennapod" />
 <item drawable="apple_music" />
 <item drawable="audio_technica_connect" />

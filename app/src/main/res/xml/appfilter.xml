@@ -81,6 +81,9 @@
     <!-- AfterShip -->
     <item component="ComponentInfo{com.aftership.AfterShip/com.aftership.shopper.views.splash.SplashActivity}" drawable="aftership" />
 
+    <!-- AIMP -->
+    <item component="ComponentInfo{com.aimp.player/com.aimp.player.ui.activities.main.MainActivity}" drawable="aimp"/>
+
     <!-- AliExpress -->
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity}" drawable="aliexpress" />
 
