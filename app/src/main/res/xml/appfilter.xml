@@ -1254,8 +1254,13 @@
     <!-- Lexica -->
     <item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.MainMenuActivity}" drawable="lexica" />
 
-	<!-- Libre Camera -->
-	<item component="ComponentInfo{com.iakmds.librecamera/com.iakmds.librecamera.MainActivity}" drawable="camera_1"/>
+    <!-- Libre Camera -->
+    <item component="ComponentInfo{com.iakmds.librecamera/com.iakmds.librecamera.MainActivity}" drawable="camera_1"/>
+
+    <!-- LibreTube -->
+    <item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="libretube"/>
+    <item component="ComponentInfo{com.github.libretube/com.github.libretube.DefaultLight}" drawable="libretube"/>
+    <item component="ComponentInfo{com.github.libretube/com.github.libretube.IconFire}" drawable="libretube"/>
 
     <!-- LibreOffice Viewer -->
     <item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice_viewer" />

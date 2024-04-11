@@ -4,6 +4,7 @@
 
 <category title="Recent" />
 <item drawable="briar" />
+<item drawable="libretube" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -192,6 +193,7 @@
 <item drawable="bendystraw" />
 <item drawable="bilibili" />
 <item drawable="jellyfin" />
+<item drawable="libretube" />
 <item drawable="mx_player_pro" />
 <item drawable="netflix" />
 <item drawable="newpipe" />
