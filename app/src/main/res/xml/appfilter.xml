@@ -1549,6 +1549,9 @@
     <item component="ComponentInfo{com.machiav3lli.backup/com.machiav3lli.backup.activities.MainActivityX}" drawable="neo_backup" />
     <item component="ComponentInfo{com.machiav3lli.backup/com.machiav3lli.backup.activities.SplashActivity}" drawable="neo_backup" />
 
+    <!-- Neo Store -->
+    <item component="ComponentInfo{com.machiav3lli.fdroid/com.machiav3lli.fdroid.ui.activities.MainActivityX}" drawable="neo_store"/>
+
     <!-- Netflix -->
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
 

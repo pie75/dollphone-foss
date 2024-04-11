@@ -7,6 +7,7 @@
 <item drawable="crunchyroll" />
 <item drawable="ffupdater" />
 <item drawable="libretube" />
+<item drawable="neo_store" />
 <item drawable="xiaomi_security_center" />
 
 <category title="Faces" />
@@ -524,6 +525,7 @@
 <item drawable="mupdf_viewer" />
 <item drawable="my_fritz" />
 <item drawable="neo_backup" />
+<item drawable="neo_store" />
 <item drawable="news" />
 <item drawable="nextcloud_cookbook" />
 <item drawable="night_mode" />
