@@ -1,0 +1,3 @@
+<!-- Metro -->
+<item component="ComponentInfo{io.github.muntashirakon.Music/code.name.monkey.retromusic.activities.MainActivity}" drawable="metro_1" />
+
