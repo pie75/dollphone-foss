@@ -4,6 +4,7 @@
 
 <category title="Recent" />
 <item drawable="aimp" />
+<item drawable="ankidroid" />
 <item drawable="briar" />
 <item drawable="crunchyroll" />
 <item drawable="ffupdater" />
@@ -456,6 +457,7 @@
 <item drawable="activity_manager" />
 <item drawable="adaway" />
 <item drawable="aegis" />
+<item drawable="ankidroid" />
 <item drawable="apkupdater" />
 <item drawable="app_cloner" />
 <item drawable="app_cloner_premium_and_add_ons" />
