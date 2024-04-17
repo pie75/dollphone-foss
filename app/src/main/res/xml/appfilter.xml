@@ -54,7 +54,7 @@
     <!-- 7zipper -->
     <item component="ComponentInfo{org.joa.zipperplus7/org.test.flashtest.StartPageActivity}" drawable="a__7zipper" />
     <item component="ComponentInfo{org.joa.zipperplus7/org.joa.zipperplus7.StartPageActivity}" drawable="a__7zipper" />
-    <item component="ComponentInfo{org.joa.zipperplus/org.test.flashtest.StartPageActivity}" drawable="a__zipper"/>
+    <item component="ComponentInfo{org.joa.zipperplus/org.test.flashtest.StartPageActivity}" drawable="a__7zipper"/>
 
 
     <!-- 8vim -->
