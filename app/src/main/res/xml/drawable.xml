@@ -18,8 +18,11 @@
 <item drawable="libretube" />
 <item drawable="microg_settings" />
 <item drawable="neo_store" />
+<item drawable="nintendo_switch" />
+<item drawable="nintendo_switch_online" />
 <item drawable="pano_scrobbler" />
 <item drawable="pipepipe" />
+<item drawable="ps_vita" />
 <item drawable="revolt" />
 <item drawable="simple_text_editor" />
 <item drawable="xiaomi_security_center" />
@@ -364,6 +367,7 @@
 <item drawable="minesweeper" />
 <item drawable="mitch" />
 <item drawable="neko_atsume" />
+<item drawable="nintendo_switch_online" />
 <item drawable="phase_10" />
 <item drawable="playing_cards" />
 <item drawable="pokemon_go" />
@@ -400,7 +404,9 @@
 <item drawable="n64" />
 <item drawable="nds" />
 <item drawable="nes" />
+<item drawable="nintendo_switch" />
 <item drawable="psp" />
+<item drawable="ps_vita" />
 <item drawable="psx" />
 <item drawable="retroarch" />
 <item drawable="retroarch_plus" />
