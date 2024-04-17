@@ -3,13 +3,25 @@
 <version>1</version>
 
 <category title="Recent" />
+<item drawable="acode" />
 <item drawable="aimp" />
 <item drawable="ankidroid" />
 <item drawable="briar" />
 <item drawable="crunchyroll" />
+<item drawable="dns66" />
 <item drawable="ffupdater" />
+<item drawable="grapheneos_apps" />
+<item drawable="grapheneos_auditor" />
+<item drawable="grapheneos_pdf_viewer" />
+<item drawable="iconrequest" />
+<item drawable="lastfm" />
 <item drawable="libretube" />
+<item drawable="microg_settings" />
 <item drawable="neo_store" />
+<item drawable="pano_scrobbler" />
+<item drawable="pipepipe" />
+<item drawable="revolt" />
+<item drawable="simple_text_editor" />
 <item drawable="xiaomi_security_center" />
 
 <category title="Faces" />
@@ -183,11 +195,13 @@
 <item drawable="bandcamp_for_artists" />
 <item drawable="beats" />
 <item drawable="famistudio" />
+<item drawable="lastfm" />
 <item drawable="karaoke_dam" />
 <item drawable="karaoke_joysound" />
 <item drawable="karaoke_kan" />
 <item drawable="metronome" />
 <item drawable="pandora" />
+<item drawable="pano_scrobbler" />
 <item drawable="shazam" />
 <item drawable="soundcloud" />
 <item drawable="spotify" />
@@ -207,6 +221,7 @@
 <item drawable="newpipe" />
 <item drawable="next_player" />
 <item drawable="niconico" />
+<item drawable="pipepipe" />
 <item drawable="revanced_extended" />
 <item drawable="revanced_manager" />
 <item drawable="seal" />
@@ -290,6 +305,7 @@
 <item drawable="pixiv" />
 <item drawable="quora" />
 <item drawable="reddit" />
+<item drawable="revolt" />
 <item drawable="snapchat" />
 <item drawable="threads" />
 <item drawable="tiktok" />
@@ -403,12 +419,14 @@
 <item drawable="drive" />
 <item drawable="dropbox" />
 <item drawable="ftp" />
+<item drawable="grapheneos_pdf_viewer" />
 <item drawable="libreoffice_viewer" />
 <item drawable="mediafire" />
 <item drawable="mega" />
 <item drawable="microsoft_365" />
 <item drawable="nextcloud" />
 <item drawable="notally" />
+<item drawable="simple_text_editor" />
 
 <category title="Keyboards" />
 <item drawable="a__8vim" />
@@ -454,6 +472,7 @@
 <item drawable="a__1111" />
 <item drawable="a__3dcg" />
 <item drawable="a__7zipper" />
+<item drawable="acode" />
 <item drawable="activity_manager" />
 <item drawable="adaway" />
 <item drawable="aegis" />
@@ -488,6 +507,7 @@
 <item drawable="desmos_scientific" />
 <item drawable="digilocker" />
 <item drawable="dmss" />
+<item drawable="dns66" />
 <item drawable="droidify" />
 <item drawable="dual_wallpaper" />
 <item drawable="duolingo" />
@@ -510,8 +530,11 @@
 <item drawable="good_lock" />
 <item drawable="google_news" />
 <item drawable="google_translate" />
+<item drawable="grapheneos_apps" />
+<item drawable="grapheneos_auditor" />
 <item drawable="hobbyconnect" />
 <item drawable="hypatia" />
+<item drawable="iconrequest" />
 <item drawable="internet_speed_meter" />
 <item drawable="inure" />
 <item drawable="izzyondroid" />
@@ -525,6 +548,7 @@
 <item drawable="lovense_remote" />
 <item drawable="magisk" />
 <item drawable="markor" />
+<item drawable="microg_settings" />
 <item drawable="monospace" />
 <item drawable="mupdf_viewer" />
 <item drawable="my_fritz" />

@@ -54,6 +54,8 @@
     <!-- 7zipper -->
     <item component="ComponentInfo{org.joa.zipperplus7/org.test.flashtest.StartPageActivity}" drawable="a__7zipper" />
     <item component="ComponentInfo{org.joa.zipperplus7/org.joa.zipperplus7.StartPageActivity}" drawable="a__7zipper" />
+    <item component="ComponentInfo{org.joa.zipperplus/org.test.flashtest.StartPageActivity}" drawable="a__zipper"/>
+
 
     <!-- 8vim -->
     <item component="ComponentInfo{inc.flide.vi8/inc.flide.vi8.ui.SettingsActivity}" drawable="a__8vim"/>
@@ -62,6 +64,9 @@
 
     <!-- AccuWeather -->
     <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.activities.MainActivity}" drawable="weather" />
+
+    <!-- Acode -->
+    <item component="ComponentInfo{com.foxdebug.acode/com.foxdebug.acode.MainActivity}" drawable="acode"/>
 
     <!-- Activity Manager -->
     <item component="ComponentInfo{com.activitymanager/com.sdex.activityrunner.MainActivity}" drawable="activity_manager" />
@@ -635,6 +640,9 @@
     <!-- DMSS -->
     <item component="ComponentInfo{com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity}" drawable="dmss" />
 
+    <!-- DNS66 -->
+    <item component="ComponentInfo{org.jak_linux.dns66/org.jak_linux.dns66.MainActivity}" drawable="dns66"/>
+
     <!-- Documents -->
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.DocumentsActivity}" drawable="files" />
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
@@ -896,6 +904,9 @@
     <!-- Free Quran Education -->
     <item component="ComponentInfo{com.QuranApp.guide/com.QuranApp.guide.SplashActivity}" drawable="quran" />
 
+    <!-- FTPClient -->
+    <item component="ComponentInfo{de.qwerty287.ftpclient/de.qwerty287.ftpclient.MainActivity}" drawable="ftp"/>
+
     <!-- Gacha Life -->
     <item component="ComponentInfo{air.com.lunime.gachalife/air.com.lunime.gachalife.AIRAppEntry}" drawable="gacha_life" />
 
@@ -1084,6 +1095,15 @@
     <!-- Google Translate -->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate" />
 
+    <!-- GrapheneOS Apps -->
+    <item component="ComponentInfo{app.grapheneos.apps/app.grapheneos.apps.ui.MainActivity}" drawable="grapheneos_apps"/>
+
+    <!-- GrapheneOS Auditor -->
+    <item component="ComponentInfo{app.attestation.auditor/app.attestation.auditor.AttestationActivity}" drawable="grapheneos_auditor"/>
+
+    <!-- GrapheneOS PDF Viewer -->
+    <item component="ComponentInfo{app.grapheneos.pdfviewer/app.grapheneos.pdfviewer.PdfViewer}" drawable="grapheneos_pdf_viewer"/>
+
     <!-- Grubhub -->
     <item component="ComponentInfo{com.grubhub.android/com.grubhub.dinerapp.android.splash.SplashActivity}" drawable="just_eat"/>
 
@@ -1167,6 +1187,9 @@
 
     <!-- I Can't Wake Up! Alarm Clock -->
     <item component="ComponentInfo{com.kog.alarmclock/com.n7mobile.icantwakeup.ui.MainActivity}" drawable="alarm_clock" />
+
+    <!-- IconRequest -->
+    <item component="ComponentInfo{de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity}" drawable="iconrequest"/>
 
     <!-- Imagepipe -->
     <item component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}" drawable="imagepipe"/>
@@ -1405,6 +1428,9 @@
 
     <!-- Metronome -->
     <item component="ComponentInfo{com.bobek.metronome/com.bobek.metronome.MainActivity}" drawable="metronome"/>
+
+    <!-- microG設定 -->
+    <item component="ComponentInfo{app.revanced.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microg_settings"/>
 
     <!-- Microsoft 365 (Office) -->
     <item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="microsoft_365" />
@@ -1717,6 +1743,9 @@
     <item component="ComponentInfo{com.pandora.android/com.pandora.android.LauncherActivity}" drawable="pandora"/>
     <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="pandora"/>
 
+    <!-- Pano Scrobbler -->
+    <item component="ComponentInfo{com.arn.scrobble/com.arn.scrobble.main.MainActivity}" drawable="pano_scrobbler"/>
+
     <!-- PayPal -->
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" />
 
@@ -1777,6 +1806,9 @@
     <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest" />
     <item component="ComponentInfo{com.pinterest.twa/com.pinterest.twa.LauncherActivity}" drawable="pinterest" />
 
+    <!-- PipePipe -->
+    <item component="ComponentInfo{InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity}" drawable="pipepipe"/>
+
     <!-- pixiv -->
     <item component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}" drawable="pixiv"/>
 
@@ -1796,7 +1828,7 @@
     <item component="ComponentInfo{com.sega.pjsekai/com.google.firebase.MessagingUnityPlayerActivity}" drawable="project_sekai" />
 
     <!-- Project Sekai English -->
-	<item component="ComponentInfo{com.sega.ColorfulStage.en/com.google.firebase.MessagingUnityPlayerActivity}" drawable="project_sekai" />
+    <item component="ComponentInfo{com.sega.ColorfulStage.en/com.google.firebase.MessagingUnityPlayerActivity}" drawable="project_sekai" />
 
     <!-- ProtonMail -->
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.MainActivity}" drawable="protonmail" />
@@ -1917,6 +1949,9 @@
 
     <!-- ReVanced Manager -->
     <item component="ComponentInfo{app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity}" drawable="revanced_manager" />
+
+    <!-- Revolt -->
+    <item component="ComponentInfo{chat.revolt.app.twa/chat.revolt.app.twa.LauncherActivity}" drawable="revolt"/>
 
     <!-- Samsung Browser -->
     <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser" />
@@ -2425,8 +2460,8 @@
     <item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Grey_black}" drawable="notes" />
     <item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Red}" drawable="notes" />
 
-	<!-- Simple QR -->
-	<item component="ComponentInfo{com.tomfong.simpleqr/com.tomfong.simpleqr.MainActivity}" drawable="qr"/>
+    <!-- Simple QR -->
+    <item component="ComponentInfo{com.tomfong.simpleqr/com.tomfong.simpleqr.MainActivity}" drawable="qr"/>
 
     <!-- Simple SMS Messenger -->
     <item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Amber}" drawable="message" />
@@ -2448,6 +2483,9 @@
     <item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Blue_grey}" drawable="message" />
     <item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Grey_black}" drawable="message" />
     <item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Red}" drawable="message" />
+
+    <!-- Simple Text Editor -->
+    <item component="ComponentInfo{com.maxistar.textpad/com.maxistar.textpad.activities.EditorActivity}" drawable="simple_text_editor"/>
 
     <!-- Simple Voicerecorder -->
     <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Pink}" drawable="record" />
