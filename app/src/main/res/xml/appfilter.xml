@@ -1283,7 +1283,7 @@
     <item component="ComponentInfo{org.kde.kweather/org.qtproject.qt5.android.bindings.QtActivity}" drawable="weather" />
 
     <!-- Last.fm -->
-    <item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="last_fm" />
+    <item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="lastfm" />
   
     <!-- Lentil Translate -->
     <item component="ComponentInfo{dev.atajan.lingva_android/dev.atajan.lingva_android.MainActivity}" drawable="translate"/>
