@@ -28,6 +28,7 @@
 <item drawable="revolt" />
 <item drawable="simple_text_editor" />
 <item drawable="xiaomi_security_center" />
+<item drawable="zarchiver" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -437,6 +438,7 @@
 <item drawable="nextcloud" />
 <item drawable="notally" />
 <item drawable="simple_text_editor" />
+<item drawable="zarchiver" />
 
 <category title="Keyboards" />
 <item drawable="a__8vim" />
