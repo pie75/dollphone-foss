@@ -2014,6 +2014,9 @@
     <!-- Scanner -->
     <item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="barcode"/>
 
+    <!-- SCEE -->
+    <item component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}" drawable="scee"/>
+
     <!-- ScreenMashter -->
     <item component="ComponentInfo{pro.capture.screenshot/pro.capture.screenshot.activity.SplashActivity}" drawable="screen_master" />
 
