@@ -64,7 +64,7 @@ fetch('https://raw.githubusercontent.com/JapanYoshi/dollphone-foss/main/generate
         appEntriesDataGlobal = appEntriesData;
 
         // Example usage:
-        fetch('https://raw.githubusercontent.com/JapanYoshi/dollphone-foss/icon-requests/docs/assets/combined_appfilter.xml')
+        fetch('assets/combined_appfilter.xml')
             .then(response => {
                 if (!response.ok) {
                     // If appfilter.xml cannot be loaded, render appEntriesData as is
