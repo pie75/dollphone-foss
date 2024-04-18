@@ -19,6 +19,7 @@
 <item drawable="libretube" />
 <item drawable="microg_settings" />
 <item drawable="musicolet" />
+<item drawable="muzei" />
 <item drawable="neo_store" />
 <item drawable="nintendo_switch" />
 <item drawable="nintendo_switch_online" />
@@ -208,6 +209,7 @@
 <item drawable="karaoke_kan" />
 <item drawable="metronome" />
 <item drawable="musicolet" />
+<item drawable="muzei" />
 <item drawable="pandora" />
 <item drawable="pano_scrobbler" />
 <item drawable="shazam" />
