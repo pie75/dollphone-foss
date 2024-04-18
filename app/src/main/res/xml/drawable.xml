@@ -13,6 +13,7 @@
 <item drawable="cx_file_explorer" />
 <item drawable="dns66" />
 <item drawable="ffupdater" />
+<item drawable="geometry_dash" />
 <item drawable="grapheneos_apps" />
 <item drawable="grapheneos_auditor" />
 <item drawable="grapheneos_pdf_viewer" />
@@ -377,6 +378,7 @@
 <item drawable="flow_warps" />
 <item drawable="gacha_life" />
 <item drawable="gamergate" />
+<item drawable="geometry_dash" />
 <item drawable="hovercraft" />
 <item drawable="jackbox" />
 <item drawable="just_dance_now" />

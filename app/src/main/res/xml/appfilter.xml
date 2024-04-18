@@ -987,6 +987,10 @@
     <item component="ComponentInfo{com.mbestavros.geometricweather/com.mbestavros.geometricweather.main.MainActivity}" drawable="weather" />
     <item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity}" drawable="weather" />
 
+    <!-- Geometry Dash -->
+    <item component="ComponentInfo{com.robtopx.geometryjump/com.robtopx.geometryjump.GeometryJump}" drawable="geometry_dash"/>
+    <item component="ComponentInfo{com.robtopx.geometrydash/com.robtopx.geometrydash.GeometryJump}" drawable="geometry_dash"/>
+
     <!-- GIFShop -->
     <item component="ComponentInfo{com.gif.gifmaker/com.gif.gifmaker.ui.splash.SplashScreen}" drawable="gifshop" />
 
