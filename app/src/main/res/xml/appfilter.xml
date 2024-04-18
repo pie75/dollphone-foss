@@ -1300,6 +1300,9 @@
     <!-- Kotatsu -->
     <item component="ComponentInfo{org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity}" drawable="kotatsu"/>
 
+    <!-- KurobaEx -->
+    <item component="ComponentInfo{com.github.k1rakishou.chan/com.github.k1rakishou.chan.activity.StartActivity}" drawable="kurobaex"/>
+
     <!-- KurobaEx-fdroid -->
     <item component="ComponentInfo{com.github.k1rakishou.chan.fdroid/com.github.k1rakishou.chan.activity.StartActivity}" drawable="kurobaex"/>
 
