@@ -3,6 +3,7 @@
 - Added contributor icons by pie75: Adobe AIR, Bolt, Book Reader, CPU-Z, Everyday Tasks, Gauguin, Git Quick Reference, Google Voice Search, Karma Firewall, Lichess, Loop Habit Tracker, Nedbank Auth, Nedbank Black, Nedbank Green, NFC Reader, Nihonoari, Obsidian, Ruffle, Simon Tatham’s Puzzles, Steam Link, Suntimes (new), Suntimes Alarms, Syncthing, Syncthing Lite, Who Here, Zee Archiver
 - Added lots of aliases
 - Reverted Dollphone’s icon changed in v1.0.8
+- Removed icon request limit
 
 # 2024-04-03 (v1.1.1)
 - Added icons: 1DM, AnntennaPod, App Manager, Auxio, Droidify, Flow, Flow Bridges, Flow Hexes, Flow Warps, FluffyChat, FTP, GitHub, Google Home, Jellyfin, Keepass2Android, MEGA, Mull, My Tamagotchi Forever, Pixiv, Pokémon GO, SD Maid SE, Seal, Shazam, Shizuku, Super Tux Kart, Terminal, wX

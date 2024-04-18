@@ -183,7 +183,7 @@
         IGNORE if "enable_icon_request_limit" option is disabled
         ex: If you want to limit the number of icons a user can request to 10, set "icon_request_limit" option (above) to 10,
         but you also want users able to make 10 request again after update, then enable this option -->
-    <bool name="reset_icon_request_limit">true</bool>
+    <bool name="reset_icon_request_limit">false</bool>
 
     <!-- Enable JSON check before requesting icons
         It needs the option "config_json" to be configured in order to work -->
