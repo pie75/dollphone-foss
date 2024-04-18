@@ -9,6 +9,7 @@
 <item drawable="audiofx" />
 <item drawable="briar" />
 <item drawable="crunchyroll" />
+<item drawable="cx_file_explorer" />
 <item drawable="dns66" />
 <item drawable="ffupdater" />
 <item drawable="grapheneos_apps" />
@@ -430,6 +431,7 @@
 <item drawable="files_3" />
 <item drawable="a__7zipper" />
 <item drawable="a__1dm_plus" />
+<item drawable="cx_file_explorer" />
 <item drawable="davx_5" />
 <item drawable="documents" />
 <item drawable="drive" />

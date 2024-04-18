@@ -576,6 +576,9 @@
     <!-- cuscon -->
     <item component="ComponentInfo{com.froxot.cuscon.foss/com.froxot.cuscon.activities.SplashActivity}" drawable="cuscon" />
 
+    <!-- Cx File Explorer -->
+    <item component="ComponentInfo{com.cxinventor.file.explorer/com.alphainventor.filemanager.activity.MainActivity}" drawable="cx_file_explorer"/>
+
     <!-- Czech French Dictionary -->
     <item component="ComponentInfo{com.dragoma.csfr/com.dragoma.csfr.HomeActivity}" drawable="dictionary_cs" />
 
