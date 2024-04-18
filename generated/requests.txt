@@ -282,16 +282,6 @@ https://www.ecosia.org/search?q=ml.docilealligator.infinityforreddit
 Requested 5 times
 Last requested 1711884061.0
     
-<!-- Tachiyomi -->
-<item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi"/>
-https://play.google.com/store/apps/details?id=eu.kanade.tachiyomi
-https://f-droid.org/en/packages/eu.kanade.tachiyomi/
-https://apt.izzysoft.de/fdroid/index/apk/eu.kanade.tachiyomi
-https://galaxystore.samsung.com/detail/eu.kanade.tachiyomi
-https://www.ecosia.org/search?q=eu.kanade.tachiyomi
-Requested 5 times
-Last requested 1712107116.0
-    
 <!-- Mullvad VPN -->
 <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity}" drawable="mullvad_vpn"/>
 https://play.google.com/store/apps/details?id=net.mullvad.mullvadvpn
