@@ -167,6 +167,9 @@
     <item component="ComponentInfo{com.donnnno.arcticons.you.play/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_you" />
     <item component="ComponentInfo{com.donnnno.arcticons.you/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_you"/>
 
+    <!-- Audible -->
+    <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="audible"/>
+
     <!-- AudioFX -->
     <item component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}" drawable="audiofx"/>
 
