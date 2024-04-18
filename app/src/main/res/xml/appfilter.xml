@@ -1248,6 +1248,9 @@
     <!-- K-9 Mail -->
     <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageList}" drawable="k9mail" />
 
+    <!-- Kanji Dojo -->
+    <item component="ComponentInfo{ua.syt0r.kanji.fdroid/ua.syt0r.kanji.presentation.screen.main.FdroidMainActivity}" drawable="kanji_dojo"/>
+
     <!-- Karaoke Kan -->
     <item component="ComponentInfo{jp.karaokekan.karakan.karakan/jp.karaokekan.karakan.karakan.MainActivity}" drawable="karaoke_kan" />
 

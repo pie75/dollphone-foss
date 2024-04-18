@@ -17,6 +17,7 @@
 <item drawable="grapheneos_pdf_viewer" />
 <item drawable="iconrequest" />
 <item drawable="infinity" />
+<item drawable="kanji_dojo" />
 <item drawable="kurobaex" />
 <item drawable="lastfm" />
 <item drawable="libretube" />
@@ -557,6 +558,7 @@
 <item drawable="internet_speed_meter" />
 <item drawable="inure" />
 <item drawable="izzyondroid" />
+<item drawable="kanji_dojo" />
 <item drawable="kde_connect" />
 <item drawable="keepass2android" />
 <item drawable="keepassdx" />
