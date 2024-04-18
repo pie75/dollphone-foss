@@ -1,5 +1,5 @@
 # 2024-04-?? (v1.1.2)
-- Added icons: Acode, AIMP, AnkiDroid, Briar, Crunchyroll, DNS66, FFUpdater, GrapheneOS Apps, GrapheneOS Auditor, GrapheneOS PDF Viewer, IconRequest, Last.fm, LibreTube, MicroG Settings, Musicolet, Neo Store, Nintendo Switch, Nintendo Switch Online, Pano Scrobbler, PipePipe, PS Vita, Revolt, Simple Text Editor, Xiaomi Security Center
+- Added icons: Acode, AIMP, AnkiDroid, Briar, Crunchyroll, DNS66, FFUpdater, GrapheneOS Apps, GrapheneOS Auditor, GrapheneOS PDF Viewer, IconRequest, Last.fm, LibreTube, LineageOS AudioFX, MicroG Settings, Musicolet, Neo Store, Nintendo Switch, Nintendo Switch Online, Pano Scrobbler, PipePipe, PS Vita, Revolt, Simple Text Editor, Xiaomi Security Center
 - Added contributor icons by pie75: Adobe AIR, Bolt, Book Reader, CPU-Z, Everyday Tasks, Gauguin, Git Quick Reference, Google Voice Search, Karma Firewall, Lichess, Loop Habit Tracker, Nedbank Auth, Nedbank Black, Nedbank Green, NFC Reader, Nihonoari, Obsidian, Ruffle, Simon Tatham’s Puzzles, Steam Link, Suntimes (new), Suntimes Alarms, Syncthing, Syncthing Lite, Who Here, Zee Archiver
 - Added lots of aliases
 - Reverted Dollphone’s icon changed in v1.0.8
