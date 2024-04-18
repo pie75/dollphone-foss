@@ -1511,6 +1511,9 @@
     <item component="ComponentInfo{org.calyxos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music" />
     <item component="ComponentInfo{com.heytap.music/com.allsaints.music.ui.splash.SplashActivity}" drawable="music" />
 
+    <!-- Musicolet -->
+    <item component="ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}" drawable="musicolet"/>
+
     <!-- Music Player -->
     <item component="ComponentInfo{com.tohsoft.music.musicplayer.v2.pro/media.music.mp3player.musicplayer.activities.SplashScreen}" drawable="music" />
     <item component="ComponentInfo{org.fossify.musicplayer/org.fossify.musicplayer.activities.SplashActivity.Amber}" drawable="music" />
