@@ -1199,6 +1199,9 @@
     <!-- Image Toolbox -->
     <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity}" drawable="image_toolbox"/>
 
+    <!-- Infinity -->
+    <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity"/>
+
     <!-- InShot -->
     <item component="ComponentInfo{com.camerasideas.instashot/com.camerasideas.instashot.MainActivity}" drawable="inshot" />
 
