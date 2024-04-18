@@ -2996,6 +2996,9 @@
     <!-- ZArchiver -->
     <item component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver"/>
 
+    <!-- ZArchiver Pro -->
+    <item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver_pro"/>
+
     <!-- Zoom -->
     <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
 
