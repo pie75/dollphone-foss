@@ -5,14 +5,22 @@ import xml.dom.minidom
 import hashlib
 import requests
 
-# Your GitHub token
+# Change this to your Repo
+Repo = "JapanYoshi/dollphone-foss"
+
+# Get the branch name
+# Change this to your branch name
+branchName = "main"
+
+
+# Your GitHub token Don't change this
 github_token = os.getenv('GITHUB_TOKEN')
 
 # Initialize the GitHub instance
 g = Github(github_token)
 
-# Get the repository
-repo = g.get_repo("JapanYoshi/dollphone-foss")
+# Get the repository 
+repo = g.get_repo(Repo)
 
 def combine_xml_files(input_files, output_file):
     unique_components = set()
@@ -67,23 +75,7 @@ def calculate_sha1(content):
     return sha1.hexdigest()
 
 def combine_all_appfilters():
-
-    # Try to get the content of the existing combined_appfilter.xml file
-    try:
-        existing_file = repo.get_contents('app/src/main/res/xml/appfilter.xml', ref='main')
-        if existing_file:
-            response = requests.get(file.raw_url)
-            if response.status_code == 200:
-                content = response.content.decode('utf-8')
-                with open('newicons/appfilter.xml', 'w', encoding='utf-8') as f:
-                    f.write(content)
-                print(f"Downloaded appfilter.xml: {file.filename}")
-                appfilter_files= ['newicons/appfilter.xml']
-        else:
-            print("The existing_file is None.")
-    except Exception as e:
-        print(f"No existing appfilter.xml file found. {e}")
-        appfilter_files = ['app/src/main/res/xml/appfilter.xml']
+    appfilter_files = ['app/src/main/res/xml/appfilter.xml']
 
     # Combine the appfilter.xml files
     print(f"Combining {appfilter_files} appfilter.xml files...")
@@ -128,7 +120,7 @@ def combine_all_appfilters():
     
     # Try to get the content of the existing combined_appfilter.xml file
     try:
-        existing_file = repo.get_contents('docs/assets/combined_appfilter.xml', ref='icon-requests')
+        existing_file = repo.get_contents('docs/assets/combined_appfilter.xml', ref=branchName)
         print(existing_file)  # Debugging statement
         if existing_file:
             try:
@@ -165,11 +157,11 @@ def combine_all_appfilters():
         try:
             if existing_content is None:
                 # Create the combined_appfilter.xml file in the repository
-                repo.create_file('docs/assets/combined_appfilter.xml', 'Created combined appfilter.xml from pull requests', new_content, branch='icon-requests')
+                repo.create_file('docs/assets/combined_appfilter.xml', 'Created combined appfilter.xml from pull requests', new_content, branch=branchName)
                 print("Created combined_appfilter.xml in the repository.")
             else:
                 # Update the combined_appfilter.xml file in the repository
-                repo.update_file('docs/assets/combined_appfilter.xml', 'Updated combined appfilter.xml from pull requests', new_content, existing_sha, branch='icon-requests')
+                repo.update_file('docs/assets/combined_appfilter.xml', 'Updated combined appfilter.xml from pull requests', new_content, existing_sha, branch=branchName)
                 print("Updated combined_appfilter.xml in the repository.")
         except Exception as e:
             print(f"Error updating/creating combined_appfilter.xml in the repository: {e}")
