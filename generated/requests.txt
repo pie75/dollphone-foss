@@ -1,5 +1,5 @@
 -------------------------------------------------------
-1596 Requested Apps Pending (Updated 2024/04/18)
+1589 Requested Apps Pending (Updated 2024/04/18)
 -------------------------------------------------------
 
 <!-- Obsidian -->
@@ -1312,16 +1312,6 @@ https://www.ecosia.org/search?q=com.github.emavgl.piggybankpro
 Requested 3 times
 Last requested 1711895711.0
     
-<!-- SCEE -->
-<item component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}" drawable="scee"/>
-https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete.expert
-https://f-droid.org/en/packages/de.westnordost.streetcomplete.expert/
-https://apt.izzysoft.de/fdroid/index/apk/de.westnordost.streetcomplete.expert
-https://galaxystore.samsung.com/detail/de.westnordost.streetcomplete.expert
-https://www.ecosia.org/search?q=de.westnordost.streetcomplete.expert
-Requested 3 times
-Last requested 1711895711.0
-    
 <!-- Wilma -->
 <item component="ComponentInfo{fi.starsoft.wilma/crc6404bcd1e8d3e7ba74.MainActivity}" drawable="wilma"/>
 https://play.google.com/store/apps/details?id=fi.starsoft.wilma
@@ -1361,16 +1351,6 @@ https://galaxystore.samsung.com/detail/com.samsung.android.app.routines
 https://www.ecosia.org/search?q=com.samsung.android.app.routines
 Requested 3 times
 Last requested 1712230243.0
-    
-<!-- QKSMS -->
-<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity}" drawable="qksms"/>
-https://play.google.com/store/apps/details?id=com.moez.QKSMS
-https://f-droid.org/en/packages/com.moez.QKSMS/
-https://apt.izzysoft.de/fdroid/index/apk/com.moez.QKSMS
-https://galaxystore.samsung.com/detail/com.moez.QKSMS
-https://www.ecosia.org/search?q=com.moez.QKSMS
-Requested 3 times
-Last requested 1712466797.0
     
 <!-- ConnectBot -->
 <item component="ComponentInfo{org.connectbot/org.connectbot.HostListActivity}" drawable="connectbot"/>
@@ -1419,16 +1399,6 @@ https://f-droid.org/en/packages/com.gitlab.mudlej.MjPdfReader/
 https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader
 https://galaxystore.samsung.com/detail/com.gitlab.mudlej.MjPdfReader
 https://www.ecosia.org/search?q=com.gitlab.mudlej.MjPdfReader
-Requested 3 times
-Last requested 1712202331.0
-    
-<!-- QUIK -->
-<item component="ComponentInfo{dev.octoshrimpy.quik/dev.octoshrimpy.quik.feature.main.MainActivity}" drawable="quik"/>
-https://play.google.com/store/apps/details?id=dev.octoshrimpy.quik
-https://f-droid.org/en/packages/dev.octoshrimpy.quik/
-https://apt.izzysoft.de/fdroid/index/apk/dev.octoshrimpy.quik
-https://galaxystore.samsung.com/detail/dev.octoshrimpy.quik
-https://www.ecosia.org/search?q=dev.octoshrimpy.quik
 Requested 3 times
 Last requested 1712202331.0
     
@@ -1499,16 +1469,6 @@ https://f-droid.org/en/packages/com.cyb3rko.flashdim/
 https://apt.izzysoft.de/fdroid/index/apk/com.cyb3rko.flashdim
 https://galaxystore.samsung.com/detail/com.cyb3rko.flashdim
 https://www.ecosia.org/search?q=com.cyb3rko.flashdim
-Requested 2 times
-Last requested 1709764542.0
-    
-<!-- ZArchiver Pro -->
-<item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver_pro"/>
-https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver.pro
-https://f-droid.org/en/packages/ru.zdevs.zarchiver.pro/
-https://apt.izzysoft.de/fdroid/index/apk/ru.zdevs.zarchiver.pro
-https://galaxystore.samsung.com/detail/ru.zdevs.zarchiver.pro
-https://www.ecosia.org/search?q=ru.zdevs.zarchiver.pro
 Requested 2 times
 Last requested 1709764542.0
     
@@ -1742,16 +1702,6 @@ https://www.ecosia.org/search?q=com.cosmos.unreddit
 Requested 2 times
 Last requested 1709821547.0
     
-<!-- KurobaEx -->
-<item component="ComponentInfo{com.github.k1rakishou.chan/com.github.k1rakishou.chan.activity.StartActivity}" drawable="kurobaex"/>
-https://play.google.com/store/apps/details?id=com.github.k1rakishou.chan
-https://f-droid.org/en/packages/com.github.k1rakishou.chan/
-https://apt.izzysoft.de/fdroid/index/apk/com.github.k1rakishou.chan
-https://galaxystore.samsung.com/detail/com.github.k1rakishou.chan
-https://www.ecosia.org/search?q=com.github.k1rakishou.chan
-Requested 2 times
-Last requested 1710109593.0
-    
 <!-- Sparkasse -->
 <item component="ComponentInfo{com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.LauncherActivity}" drawable="sparkasse"/>
 https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus
@@ -1901,16 +1851,6 @@ https://galaxystore.samsung.com/detail/org.koreader.launcher.fdroid
 https://www.ecosia.org/search?q=org.koreader.launcher.fdroid
 Requested 2 times
 Last requested 1709889205.0
-    
-<!-- Geometry Dash -->
-<item component="ComponentInfo{com.robtopx.geometryjump/com.robtopx.geometryjump.GeometryJump}" drawable="geometry_dash"/>
-https://play.google.com/store/apps/details?id=com.robtopx.geometryjump
-https://f-droid.org/en/packages/com.robtopx.geometryjump/
-https://apt.izzysoft.de/fdroid/index/apk/com.robtopx.geometryjump
-https://galaxystore.samsung.com/detail/com.robtopx.geometryjump
-https://www.ecosia.org/search?q=com.robtopx.geometryjump
-Requested 2 times
-Last requested 1709746753.0
     
 <!-- MobilePay -->
 <item component="ComponentInfo{fi.danskebank.mobilepay/com.dnb.vipps.consentcard.activities.SplashActivity}" drawable="mobilepay"/>
@@ -8439,16 +8379,6 @@ https://f-droid.org/en/packages/com.simejikeyboard/
 https://apt.izzysoft.de/fdroid/index/apk/com.simejikeyboard
 https://galaxystore.samsung.com/detail/com.simejikeyboard
 https://www.ecosia.org/search?q=com.simejikeyboard
-Requested 1 times
-Last requested 1709269514.0
-    
-<!-- Geometry Dash -->
-<item component="ComponentInfo{com.robtopx.geometrydash/com.robtopx.geometrydash.GeometryJump}" drawable="geometry_dash_1"/>
-https://play.google.com/store/apps/details?id=com.robtopx.geometrydash
-https://f-droid.org/en/packages/com.robtopx.geometrydash/
-https://apt.izzysoft.de/fdroid/index/apk/com.robtopx.geometrydash
-https://galaxystore.samsung.com/detail/com.robtopx.geometrydash
-https://www.ecosia.org/search?q=com.robtopx.geometrydash
 Requested 1 times
 Last requested 1709269514.0
     
