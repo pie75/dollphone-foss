@@ -15,6 +15,7 @@
 <item drawable="grapheneos_auditor" />
 <item drawable="grapheneos_pdf_viewer" />
 <item drawable="iconrequest" />
+<item drawable="kurobaex" />
 <item drawable="lastfm" />
 <item drawable="libretube" />
 <item drawable="microg_settings" />
@@ -176,6 +177,7 @@
 <item drawable="image_toolbox" />
 <item drawable="imagepipe" />
 <item drawable="inshot" />
+<item drawable="kurobaex" />
 <item drawable="memetastic" />
 <item drawable="paint" />
 <item drawable="photo_edit" />
