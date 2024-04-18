@@ -1882,6 +1882,9 @@
     <!-- Pump It Up M -->
     <item component="ComponentInfo{com.andamiro.piume/com.unity3d.player.UnityPlayerActivity}" drawable="pump_it_up_m" />
 
+    <!-- QKSMS -->
+    <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity}" drawable="quik"/>
+
     <!-- QR/Barcode Scanner Pro -->
     <item component="ComponentInfo{com.barcode.qrcode.scanner.reader.pro/com.barcode.qrcode.scanner.reader.pro.activity.MainActivity}" drawable="qr" />
 
@@ -1911,6 +1914,9 @@
 
     <!-- QuickWeather -->
     <item component="ComponentInfo{com.ominous.quickweather/com.ominous.quickweather.activity.MainActivity}" drawable="weather" />
+
+    <!-- QUIK -->
+    <item component="ComponentInfo{dev.octoshrimpy.quik/dev.octoshrimpy.quik.feature.main.MainActivity}" drawable="quik"/>
 
     <!-- Quizlet -->
     <item component="ComponentInfo{com.quizlet.quizletandroid/com.quizlet.quizletandroid.activities.RootActivity}" drawable="quizlet" />

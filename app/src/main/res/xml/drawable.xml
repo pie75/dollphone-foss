@@ -32,6 +32,7 @@
 <item drawable="pano_scrobbler" />
 <item drawable="pipepipe" />
 <item drawable="ps_vita" />
+<item drawable="quik" />
 <item drawable="revolt" />
 <item drawable="scee" />"
 <item drawable="simple_text_editor" />
@@ -291,6 +292,7 @@
 <item drawable="monocles_mail" />
 <item drawable="outlook" />
 <item drawable="protonmail" />
+<item drawable="quik" />
 <item drawable="signal" />
 <item drawable="telegram" />
 <item drawable="threema" />
