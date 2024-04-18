@@ -11,6 +11,7 @@
 <item drawable="briar" />
 <item drawable="crunchyroll" />
 <item drawable="cx_file_explorer" />
+<item drawable="disney_plus" />
 <item drawable="dns66" />
 <item drawable="ffupdater" />
 <item drawable="geometry_dash" />
@@ -237,6 +238,7 @@
 <item drawable="bendystraw" />
 <item drawable="bilibili" />
 <item drawable="crunchyroll" />
+<item drawable="disney_plus" />
 <item drawable="jellyfin" />
 <item drawable="libretube" />
 <item drawable="mx_player_pro" />

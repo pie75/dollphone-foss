@@ -649,6 +649,10 @@
     <item component="ComponentInfo{com.discord/com.discord.main.MainActivity}" drawable="discord" />
     <item component="ComponentInfo{com.discord/com.discord.main.MainAngry}" drawable="discord" />
 
+    <!-- Disney+ -->
+    <item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="disney_plus"/>
+    <item component="ComponentInfo{in.startv.hotstar.dplus/com.hotstar.MainActivity}" drawable="disney_plus"/>
+
     <!-- DMSS -->
     <item component="ComponentInfo{com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity}" drawable="dmss" />
 
