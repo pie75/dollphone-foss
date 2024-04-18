@@ -89,6 +89,9 @@
     <!-- AIMP -->
     <item component="ComponentInfo{com.aimp.player/com.aimp.player.ui.activities.main.MainActivity}" drawable="aimp"/>
 
+    <!-- Amazon Alexa -->
+    <item component="ComponentInfo{com.amazon.dee.app/com.amazon.dee.app.Launcher}" drawable="amazon_alexa"/>
+
     <!-- AliExpress -->
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity}" drawable="aliexpress" />
 

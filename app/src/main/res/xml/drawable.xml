@@ -5,6 +5,7 @@
 <category title="Recent" />
 <item drawable="acode" />
 <item drawable="aimp" />
+<item drawable="amazon_alexa" />
 <item drawable="ankidroid" />
 <item drawable="audiofx" />
 <item drawable="briar" />
@@ -162,6 +163,7 @@
 
 <category title="Amazon" />
 <item drawable="amazon" />
+<item drawable="amazon_alexa" />
 <item drawable="amazon_appstore" />
 <item drawable="kindle" />
 
