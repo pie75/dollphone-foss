@@ -817,7 +817,7 @@
     <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Deep_purple}" drawable="files" />
     <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green}" drawable="files_3" />
     <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Grey_black}" drawable="files" />
-    <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Indigo}" drawable="files_" />
+    <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Indigo}" drawable="files_2" />
     <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Light_blue}" drawable="files_2" />
     <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Light_green}" drawable="files_3" />
     <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Lime}" drawable="files_3" />
@@ -2932,6 +2932,12 @@
     <!-- Wordfeud -->
     <item component="ComponentInfo{com.hbwares.wordfeud.free/com.hbwares.wordfeud.ui.WordFeudActivity}" drawable="wordfeud" />
     <item component="ComponentInfo{com.hbwares.wordfeud.full/com.hbwares.wordfeud.ui.WordFeudActivity}" drawable="wordfeud" />
+
+    <!-- Words 2 -->
+    <item component="ComponentInfo{com.zynga.words3/com.zynga.ZyngaUnityActivity.ZyngaUnityActivity}" drawable="words_with_friends_2"/>
+
+    <!-- Words Classic -->
+    <item component="ComponentInfo{com.zynga.words/com.zynga.wwf3.launch.ui.Words2LaunchActivity}" drawable="words_with_friends"/>
 
     <!-- Wörterbuch -->
     <item component="ComponentInfo{com.diotek.sec.lookup.dictionary/com.diotek.sec.lookup.dictionary.AppActivity}" drawable="dictionary_generic" />

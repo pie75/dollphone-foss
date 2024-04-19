@@ -38,6 +38,8 @@
 <item drawable="revolt" />
 <item drawable="scee" />"
 <item drawable="simple_text_editor" />
+<item drawable="words_with_friends" />
+<item drawable="words_with_friends_2" />
 <item drawable="xiaomi_security_center" />
 <item drawable="zarchiver" />
 <item drawable="zarchiver_pro" />
@@ -406,6 +408,8 @@
 <item drawable="tetris" />
 <item drawable="uno" />
 <item drawable="wordfeud" />
+<item drawable="words_with_friends" />
+<item drawable="words_with_friends_2" />
 <item drawable="xbox_game_pass" />
 <item drawable="ydkj" />
 
