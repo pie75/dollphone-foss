@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<head lang="en-US">
+  <meta charset="UTF-8" />
+  <title>Dollphone Icon Pack</title>
+  <meta property="og:title" value="Dollphone Icon Pack" />
+  <meta name="twitter:title" value="Dollphone Icon Pack" />
+  <!-- boilerplate -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta property="og:site_name" content="2GD4ME by Haley Halcyon" />
+  <meta name="twitter:site" content="@haruruchandesu" />
+  <meta name="twitter:creator" content="@haruruchandesu" />
+  <link rel="icon" href="/favicon.png" />
+  <!-- page metadata -->
+  <meta
+    name="description"
+    content="A cute icon pack for Android that’s not too hyperactive."
+  />
+  <meta
+    property="og:description"
+    content="A cute icon pack for Android that’s not too hyperactive."
+  />
+  <meta
+    name="twitter:description"
+    content="A cute icon pack for Android that’s not too hyperactive."
+    />
+  <meta name="author" content="Haley Wakamatsu" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:image" content="https://raw.githubusercontent.com/JapanYoshi/dollphone-foss/main/fastlane/metadata/android/en-US/images/featureGraphic.png">
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/JapanYoshi/dollphone-foss/main/fastlane/metadata/android/en-US/images/featureGraphic.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12,75,800;12,100,500;12,100,800&display=swap"
+    rel="stylesheet"
+  />
+  <script src="parallax.js"></script>
+  <link rel="stylesheet" href="haley.css" />
+  <link rel="stylesheet" href="dollphone.css" />
+  <script>
+    const urlDrawable =
+      "https://raw.githubusercontent.com/JapanYoshi/dollphone-foss/main/app/src/main/res/xml/drawable.xml";
+    const urlImage =
+      "https://raw.githubusercontent.com/JapanYoshi/dollphone-foss/main/app/src/main/res/drawable-nodpi/{}.png";
+    const urlImageLink =
+      "https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/{}.png";
+    const drawableList = {};
+
+    async function searchIcon() {
+      const status = document.getElementById("search-count");
+      if (Object.keys(drawableList).length == 0) {
+        status.innerText = "Downloading list of icons...";
+        const response = await fetch(urlDrawable);
+        if (!response.ok) {
+          status.innerText = "Sorry, couldn’t download the list of icons. :(";
+          return;
+        }
+        const xml = await response.text();
+        // I know I shouldn't use XML without a parser, but I know exactly which lines I want and that I can ignore the rest, so I'm doing it anyway
+        for (let line of xml.split("\n")) {
+          line = line.trim();
+          if (!line.startsWith('<item drawable="') || !line.endsWith('" />'))
+            continue;
+          let id = line.substring(
+            '<item drawable="'.length,
+            line.length - '" />'.length
+          );
+          drawableList[id.replace("a__", "").replaceAll("_", " ")] = id;
+        }
+        console.log(drawableList);
+      }
+      const searchTerm = document.getElementById("icon-search").value;
+      if (searchTerm.length < 2) {
+        status.innerText = "The search term is too short.";
+        return;
+      }
+      const results = Object.keys(drawableList).filter((value) =>
+        value.includes(searchTerm)
+      );
+      status.innerText = `${results.length} results`;
+      console.log(results);
+      const searchList = document.getElementById("search-result-list");
+      searchList.textContent = ""; // removes all children
+      for (const result of results) {
+        const el = document.createElement("li");
+        const elImage = document.createElement("img");
+        elImage.src = urlImage.replace("{}", drawableList[result]);
+        el.appendChild(elImage);
+        const elText = document.createElement("span");
+        const elLink = document.createElement("a");
+        elLink.innerText = result;
+        elLink.href = urlImageLink.replace("{}", drawableList[result]);
+        elText.append(elLink);
+        el.appendChild(elText);
+        searchList.appendChild(el);
+      }
+    }
+  </script>
+</head>
+<body>
+  <div id="header-box">
+    <div id="header-frame">
+      <div id="header-bg">
+        <img class="header-item parallax" src="./img/dollphone/clock.svg"      style="width: 9em;top: 1em;left:50em;" data-top=" 1" data-left="50" data-z="0.5">
+        <img class="header-item parallax" src="./img/dollphone/email.svg"      style="width: 8em;top:14em;left:44em;" data-top="14" data-left="44" data-z="0.5">
+        <img class="header-item parallax" src="./img/dollphone/news.svg"       style="width: 8em;top:29em;left:36em;" data-top="29" data-left="36" data-z="0.6">
+        <img class="header-item parallax" src="./img/dollphone/weather.svg"    style="width:11em;top: 1em;left:23em;" data-top=" 1" data-left="23" data-z="0.6">
+        <img class="header-item parallax" src="./img/dollphone/files.svg"      style="width: 8em;top:18em;left:54em;" data-top="18" data-left="54" data-z="0.7">
+        <img class="header-item parallax" src="./img/dollphone/camera.svg"     style="width: 8em;top: 9em;left:33em;" data-top=" 9" data-left="33" data-z="0.8">
+        <img class="header-item parallax" src="./img/dollphone/message.svg"    style="width: 8em;top:48em;left:44em;" data-top="48" data-left="44" data-z="0.9">
+        <img class="header-item parallax" src="./img/dollphone/phone.svg"      style="width: 5em;top:36em;left:43em;" data-top="36" data-left="43" data-z="1.0">
+        <img class="header-item parallax" src="./img/dollphone/qr.svg"         style="width: 7em;top:54em;left:56em;" data-top="54" data-left="56" data-z="1.1">
+        <img class="header-item parallax" src="./img/dollphone/settings.svg"   style="width: 8em;top:54em;left: 1em;" data-top="54" data-left=" 1" data-z="1.2">
+        <img class="header-item parallax" src="./img/dollphone/contacts.svg"   style="width: 6em;top: 7em;left:18em;" data-top=" 7" data-left="18" data-z="1.3">
+        <img class="header-item parallax" src="./img/dollphone/dictionary.svg" style="width: 7em;top: 3em;left:41em;" data-top=" 3" data-left="41" data-z="1.4">
+        <img class="header-item parallax" src="./img/dollphone/internet.svg"   style="width: 9em;top:26em;left:44em;" data-top="26" data-left="44" data-z="1.5">
+        <img class="header-item parallax" src="./img/dollphone/music.svg"      style="width: 6em;top:55em;left:49em;" data-top="55" data-left="49" data-z="1.6">
+        <img class="header-item parallax" src="./img/dollphone/radio.svg"      style="width: 8em;top:42em;left: 2em;" data-top="42" data-left=" 2" data-z="1.7">
+        <img class="header-item parallax" src="./img/dollphone/video.svg"      style="width:10em;top:27em;left:53em;" data-top="27" data-left="53" data-z="1.8">
+        <img class="header-item parallax" src="./img/dollphone/alarmclock.svg" style="width: 8em;top: 6em;left: 1em;" data-top=" 6" data-left=" 1" data-z="1.9">
+        <img class="header-item parallax" src="./img/dollphone/calculator.svg" style="width: 8em;top: 1em;left: 9em;" data-top=" 1" data-left=" 9" data-z="2.0">
+        <img class="header-item parallax" src="./img/dollphone/document.svg"   style="width: 6em;top:10em;left:58em;" data-top="10" data-left="58" data-z="2.1">
+        <img class="header-item parallax" src="./img/dollphone/gallery.svg"    style="width: 8em;top:20em;left:37em;" data-top="20" data-left="37" data-z="2.3">
+        <img class="header-item parallax" src="./img/dollphone/maps.svg"       style="width: 8em;top:44em;left:54em;" data-top="44" data-left="54" data-z="2.4">
+        <img class="header-item parallax" src="./img/dollphone/notes.svg"      style="width: 8em;top:35em;left:52em;" data-top="35" data-left="52" data-z="2.6">
+        <img class="header-item parallax" src="./img/dollphone/record.svg"     style="width: 5em;top:54em;left:39em;" data-top="54" data-left="39" data-z="2.8">
+        <img class="header-item parallax" src="./img/dollphone/doll.svg"       style="width:40em;top:12em;left: 1em;" data-top="12" data-left=" 1" data-z="4">
+      </div>
+    </div>
+    <div id="header-text">Dollphone Icon Pack</div>
+  </div>
+  <div id="body">
+    <div class="section">
+      <h3>Language</h3>
+      <ul>
+        <li><a href="dollphone">English</a></li>
+        <li lang="ja"><a href="dollphone_ja">Japanese / 日本語</a></li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>About</h3>
+
+      <p>
+        Dollphone is a cute icon pack that is very cute, but isn’t too hyper.
+        The icons avoid overly saturated or dark colors, and softly bulge out
+        the “straight” lines away from the center for a plushie-like look.
+      </p>
+      <p><a href="https://discord.gg/G4KBHz8ux6">official Discord server</a></p>
+
+      <p>
+        Dollphone Icon Pack is a crystallization of years of passion for the
+        “yurukawa” aesthetic.
+      </p>
+
+      <p>
+        It is 100% free (<a href="https://www.apache.org/licenses/LICENSE-2.0"
+          >Apache License 2.0</a
+        >) and
+        <a href="https://github.com/JapanYoshi/dollphone-foss">open-source</a>,
+        and can be downloaded from the following locations:
+      </p>
+
+
+      <ul id="download-location" class="bullet">
+        <li>
+          <a href="https://github.com/JapanYoshi/dollphone-foss/releases"
+            ><img
+              alt="GitHub"
+              src="https://img.shields.io/github/release/JapanYoshi/dollphone-foss.svg?logo=github
+"
+          /></a>
+          (Definitely latest!)
+        </li>
+        <li>
+          <a href="https://f-droid.org/packages/me.x2gd4.dollphone"
+            ><img
+              alt="F-droid"
+              src="https://img.shields.io/f-droid/v/me.x2gd4.dollphone.svg?logo=F-Droid"
+          /></a>
+          (Takes up to 6 days to update, but you can check for updates through
+          the F-droid app.)
+        </li>
+        <li>
+          <a href="#">Google Play Store</a> (Coming soon, I can't get the hang
+          of getting my app approved there)
+        </li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>Icon requests</h3>
+      <p>
+        If an icon you want is missing from the app, you can submit up to 12
+        icon requests per version using the in-app request feature. Check the
+        apps you want to request, then send the resulting email.
+      </p>
+      <p>
+        <a href="https://2gd4.me/dollphone-foss/requests"
+          >Has your icon been requested already?</a
+        >
+        I only have so much time in my day, so I prioritize the icons that have
+        been requested multiple times in the list above.
+      </p>
+      <h3>Icon commissions</h3>
+      <p>
+        Need an icon really badly? I will accept <b>commissions</b>! By paying
+        an extra fee, you can bypass the request queue and have me make an icon
+        of your choice and guarantee its inclusion in the next update.
+      </p>
+      <h4>Pricing</h4>
+      <ul class="bullet">
+        <li>
+          1 new icon: Ranging from $10 USD to $20 USD depending on the icon’s
+          complexity ($20 USD is about an hour’s pay for a vector illustrator
+          <a
+            href="https://www.glassdoor.com/Salaries/vector-illustrator-salary-SRCH_KO0,18.htm"
+            >according to Glassdoor</a
+          >)
+        </li>
+        <li>
+          Variant for an existing icon: $5 (Covers things like alternate
+          coloration, adding a badge, or changing the text)
+        </li>
+        <li>5 icons: 10% discount</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h3>Search</h3>
+
+      <p>
+        Do I have an icon for your favorite app? If so, you can preview it here.
+        If not,
+        <a href="https://2gd4.me/dollphone-foss/requests"
+          >check here if it’s been requested already</a
+        >!
+      </p>
+
+      <div id="search-module">
+        <div class="horizontal">
+          <input
+            id="icon-search"
+            placeholder="try “qr”, “google”, or “gacha life”..."
+          />
+          <button type="button" onclick="searchIcon()">search</button>
+        </div>
+        <hr />
+        <div id="search-results">
+          <div id="search-count">0/0 results</div>
+          <ul id="search-result-list"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="fullwidth">
+    <a class="biglink" href="https://ko-fi.com/itsspelledhaley">Donations</a
+    ><br />
+    <a class="biglink" href="../">Back</a><br />
+    <span>coded with &hearts; by Haley Halcyon</span>
+  </div>
+</body>
