@@ -48,6 +48,7 @@
 <category title="Faces" />
 <item drawable="black_clover_m" />
 <item drawable="dollphone" />
+<item drawable="genshin_impact" />
 <item drawable="kentucky_fried_chicken" />
 <item drawable="project_sekai" />
 <item drawable="starbucks" />
@@ -383,7 +384,6 @@
 <item drawable="flow_warps" />
 <item drawable="gacha_life" />
 <item drawable="gamergate" />
-<item drawable="genshin_impact" />
 <item drawable="geometry_dash" />
 <item drawable="hovercraft" />
 <item drawable="jackbox" />
