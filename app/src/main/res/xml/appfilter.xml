@@ -987,6 +987,9 @@
     <!-- Gemini -->
     <item component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}" drawable="google_gemini"/>
 
+    <!-- Genshin Impact -->
+    <item component="ComponentInfo{com.miHoYo.GenshinImpact/com.miHoYo.GetMobileInfo.MainActivity}" drawable="genshin_impact"/>
+
     <!-- Geometric Weather -->
     <item component="ComponentInfo{com.mbestavros.geometricweather/com.mbestavros.geometricweather.main.MainActivity}" drawable="weather" />
     <item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity}" drawable="weather" />
