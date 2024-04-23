@@ -82,7 +82,7 @@
             <p>If you want to request an icon that’s missing, please use the integrated “Request icons” feature to request up to 12 icons per version.
             However, please also note that this does not guarantee that your requested icons will be adapted.</p>
             <h3>I can’t wait! Can I pay you to make one faster?</h3>
-            <p>Certainly! Please check the pricing in <a href="https://2gd4.me/dollphone">the webpage</a> and start negotiating in <a href="https://discord.gg/G4KBHz8ux6">the Discord server</a>.</p>
+            <p>Certainly! Please check the pricing in <a href="https://japanyoshi.github.io/dollphone-foss/en">the webpage</a> and start negotiating in <a href="https://discord.gg/G4KBHz8ux6">the Discord server</a>.</p>
             <h3>An icon I have doesn't look right!</h3>
             <p>If you want to request changes to an icon that exists, please <a href="https://github.com/JapanYoshi/dollphone-foss/issues/new">file an Issue on GitHub</a>.</p>
             <h3>How can I get involved?</h3>
@@ -101,7 +101,7 @@
     <!-- Link to your app's main page. It will be used when your user shares your app using "Share" button.
         Leave this empty to disable the "Share" button.
         You can use special keyword `{{packageName}}`, `{{packageName}}` will be replaced with your app's package name -->
-    <string name="share_link">https://2gd4.me/dollphone</string>
+    <string name="share_link">https://japanyoshi.github.io/dollphone-foss/en</string>
 
     <!-- Enable "Check for update" button.
         It needs the option "config_json" to be configured in order to work -->
