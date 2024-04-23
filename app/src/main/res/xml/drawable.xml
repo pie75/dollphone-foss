@@ -9,6 +9,7 @@
 <item drawable="ankidroid" />
 <item drawable="audiofx" />
 <item drawable="briar" />
+<item drawable="bromite" />
 <item drawable="crunchyroll" />
 <item drawable="cx_file_explorer" />
 <item drawable="disney_plus" />
@@ -267,6 +268,7 @@
 <category title="Browsers" />
 <item drawable="browser" />
 <item drawable="brave" />
+<item drawable="bromite" />
 <item drawable="chrome" />
 <item drawable="cromite" />
 <item drawable="duckduckgo" />
