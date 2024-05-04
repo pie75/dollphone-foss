@@ -22,6 +22,7 @@
 <item drawable="grapheneos_pdf_viewer" />
 <item drawable="iconrequest" />
 <item drawable="infinity" />
+<item drawable="joplin" />
 <item drawable="kakugo" />
 <item drawable="kanji_dojo" />
 <item drawable="kurobaex" />
@@ -581,6 +582,7 @@
 <item drawable="internet_speed_meter" />
 <item drawable="inure" />
 <item drawable="izzyondroid" />
+<item drawable="joplin" />
 <item drawable="kakugo" />
 <item drawable="kanji_dojo" />
 <item drawable="kde_connect" />

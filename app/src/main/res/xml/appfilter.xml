@@ -1250,6 +1250,9 @@
     <item component="ComponentInfo{dev.obfusk.jiten/org.kivy.android.PythonActivity}" drawable="dictionary_ja_jisho" />
     <item component="ComponentInfo{dev.obfusk.jiten_webview/dev.obfusk.jiten_webview.MainActivity}" drawable="dictionary_ja_jisho"/>
 
+    <!-- Joplin -->
+    <item component="ComponentInfo{net.cozic.joplin/net.cozic.joplin.MainActivity}" drawable="joplin"/>
+
     <!-- Joysound Karaoke -->
     <item component="ComponentInfo{jp.co.xing.spnavi/jp.co.xing.spnavi.ui.activity.SplashScreenActivity}" drawable="karaoke_joysound" />
 
