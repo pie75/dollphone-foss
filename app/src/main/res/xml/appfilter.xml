@@ -2844,6 +2844,9 @@
     <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.core.SplashScreenActivity}" drawable="youtube_vanced" />
     <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity}" drawable="youtube_vanced" />
 
+    <!-- Vector Pinball -->
+    <item component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}" drawable="vector_pinball"/>
+
     <!-- Vendetta -->
     <item component="ComponentInfo{dev.beefers.vendetta/com.discord.main.MainDefault}" drawable="vendetta" />
     <item component="ComponentInfo{dev.beefers.vendetta/com.discord.main.MainPirate}" drawable="vendetta" />

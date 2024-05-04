@@ -40,6 +40,7 @@
 <item drawable="revolt" />
 <item drawable="scee" />"
 <item drawable="simple_text_editor" />
+<item drawable="vector_pinball" />
 <item drawable="words_with_friends" />
 <item drawable="words_with_friends_2" />
 <item drawable="xiaomi_security_center" />
@@ -411,6 +412,7 @@
 <item drawable="tamagotchi" />
 <item drawable="tetris" />
 <item drawable="uno" />
+<item drawable="vector_pinball" />
 <item drawable="wordfeud" />
 <item drawable="words_with_friends" />
 <item drawable="words_with_friends_2" />

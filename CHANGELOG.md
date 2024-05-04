@@ -29,7 +29,7 @@
 - Temporarily paused requests due to massive backlog
 - Added Discord link
 - Added Japanese translation
-- Added Burger King, Dijeweled Remastered, Kentucky Fried Chicken, MelonDS, Microsoft Solitaire Collection, MOS Burger, Phase 10, RetroArch Plus, Slack, Starbucks, UNO
+- Added Burger King, Dijeweled Remastered, Kentucky Fried Chicken, MelonDS, Microsoft Solitaire Collection, MOS Burger, Phase 10, RetroArch Plus, Slack, Starbucks, UNO, Vector Pinball
 - Added alias for the English release of Project Sekai (Requested by Hamad Asghar)
 - Added 1~N of Ankit Malik’s requests: 48 new icons, 1 alias for existing icons
 - Added Yoanel’s request: Black Clover M
