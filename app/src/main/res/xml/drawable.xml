@@ -38,6 +38,7 @@
 <item drawable="pipepipe" />
 <item drawable="ps_vita" />
 <item drawable="quik" />
+<item drawable="renshuu" />
 <item drawable="revolt" />
 <item drawable="scee" />"
 <item drawable="simple_text_editor" />
@@ -623,6 +624,7 @@
 <item drawable="quran" />
 <item drawable="rar" />
 <item drawable="reckoning_skills" />
+<item drawable="renshuu" />
 <item drawable="reset_system" />
 <item drawable="save_locally" />
 <item drawable="scee" />

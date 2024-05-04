@@ -2000,6 +2000,9 @@
     <item component="a{com.andrewshu.android.reddit/com.andrewshu.android.reddit.MainActivity}" drawable="reddit" />
     <item component="ComponentInfo{com.andrewshu.android.redditdonation/com.andrewshu.android.reddit.MainActivity}" drawable="reddit" />
 
+    <!-- renshuu -->
+    <item component="ComponentInfo{com.renshuu.renshuu_org/com.renshuu.renshuu_org.MainActivity}" drawable="renshuu"/>
+
     <!-- Reset system -->
     <item component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.presentation.switcher.view.SecureFolderShortcutActivity}" drawable="reset_system" />
 
