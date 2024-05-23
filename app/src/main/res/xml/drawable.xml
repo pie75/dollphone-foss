@@ -53,7 +53,6 @@
 <item drawable="sgt_puzzles" />
 <item drawable="starbucks" />
 <item drawable="steam_link" />
-<item drawable="suntimes" />
 <item drawable="suntimes_alarms" />
 <item drawable="syncthing" />
 <item drawable="syncthing_lite" />
@@ -510,7 +509,6 @@
 <item drawable="spacedesk" />
 <item drawable="streetcomplete" />
 <item drawable="spectrogram" />
-<item drawable="suntimes" />
 <item drawable="suntimes_alarms" />
 <item drawable="syncthing" />
 <item drawable="syncthing_lite" />

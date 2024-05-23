@@ -2187,9 +2187,6 @@
     <!-- Sudoku Free -->
     <item component="ComponentInfo{com.app2go.sudokufree/com.app2go.sudokufree.MainActivity}" drawable="sudoku" />
 
-	<!-- Suntimes -->
-	<item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}" drawable="suntimes" />
-
 	<!-- Suntimes Alarms -->
 	<item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.alarmclock.ui.AlarmClockActivityLauncher}" drawable="suntimes_alarms" />
 
