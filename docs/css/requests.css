@@ -1,0 +1,204 @@
+body {
+    text-align: center;
+    font-family: 'Bricolage Grotesque', Inter, DejaVu Sans, Liberation Sans, -apple-system, BlinkMacSystemFont, Arial, Helvetica, sans-serif, sans-serif;
+}
+
+.app-entry {
+    display: none;
+    /* Hide initially */
+}
+
+.copy-button {
+    cursor: pointer;
+    background-color: var(--aqua-dark);
+    color: var(--white);
+    border: none;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 100px;
+}
+
+.copy-button:hover {
+    background-color: var(--aqua-light);
+}
+
+#copy-notification {
+    display: none;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1;
+}
+
+#search-notification {
+    display: none;
+    background-color: #8b1708;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    top: 20px;
+    right: 10px;
+    z-index: 1;
+}
+
+#search-container {
+    display: flex;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#search-input {
+    margin: 1em 0;
+    width: calc(100% - .5rem - 16px);
+    box-sizing: border-box !important;
+    overflow: visible;
+    min-height: 3rem;
+    border-radius: 4em;
+    background-color: var(--white);
+    border: 0.25rem solid var(--gray);
+    box-shadow: none;
+    outline: none;
+    padding: 0.8em 1.2em;    
+    font-size: 16px;
+    font-weight: bold;
+    font-family: inherit;
+    color: var(--black);
+}
+
+.table-container {
+    border-radius: 0.5rem;
+    max-height: calc(100svh - 1rem);
+    /* Set maximum height for scrollable area */
+    overflow-y: auto;
+    /* Enable vertical scrolling */
+
+    border: 0.25rem solid var(--pink-dark);
+    background: var(--pink-light);
+    max-width: 720px;
+    margin: 0 auto 4rem;
+}
+
+.table-container thead th {
+    position: sticky;
+    /* make the table heads sticky */
+    top: 0px;
+    /* table head will be placed from the top of the table and sticks to it */
+
+    font-stretch: 75%;
+    color: var(--white);
+    background: var(--aqua-dark);
+}
+
+.sortable-header {
+    cursor: pointer;
+    /* Add cursor style for sorting */
+    position: relative;
+}
+
+.sortable-header::after {
+    content: '';
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 0;
+    height: 0;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+}
+
+.asc::after {
+    border-bottom: 4px solid #000000;
+}
+
+.desc::after {
+    border-top: 4px solid #000000;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    line-height: 1;
+}
+
+th,
+td {
+    text-align: center;
+    padding: 0;
+    vertical-align: middle;
+}
+
+td:nth-child(1) {
+    width: 20%;
+}
+
+td:nth-child(2) {
+}
+
+td:nth-child(3) {
+    display: flex;
+    flex-direction: row;
+    width: 35%;
+    min-width: 250px;
+    align-items: center;
+}
+
+td:nth-child(3) > a {
+    line-height: 0;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+td:nth-child(4) {
+    width: 10%;
+}
+
+/* timestamp */
+td:nth-child(5) {
+    font-size: 75%;
+    line-height: 1em;
+    width: 15%;
+}
+
+td:nth-child(6) {
+    max-width: 100px;
+}
+
+tr {
+    /* NO MATTER WAHT I DO, EVERY ROW IS 53PX TALL INSTEAD OF 50PX LIKE IT'S SUPPOSED TO BE. I AM HAVING A MENTAL BERAKDOWN AS I TYPE THIS COMMENT. FUCK. */
+}
+
+tr:nth-child(even) {
+    background-color: var(--pink-med);
+}
+
+h1 {
+    display: inline-block;
+    margin: 0 auto 20px;
+    padding: 1rem;
+    border: 0.25rem solid var(--aqua-light);
+    border-top-width: 0;
+    border-radius: 0 0 0.75rem 0.75rem;
+    text-align: center;
+    color: var(--white);
+    background: var(--aqua-dark);
+    font-weight: 900;
+    font-stretch: 75%;
+    font-size: 1.5rem;
+    line-height: 1.0;
+}
+
+#app-entries tr td a::after {
+    display: none;
+}

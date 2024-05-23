@@ -1,0 +1,3 @@
+<!-- Pano Scrobbler -->
+<item component="ComponentInfo{com.arn.scrobble/com.arn.scrobble.MainActivity}" drawable="pano_scrobbler" />
+

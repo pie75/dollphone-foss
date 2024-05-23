@@ -4,6 +4,8 @@
 
 ![Header image](./fastlane/metadata/android/en-US/images/featureGraphic.png)
 
+[Official Discord server](https://discord.gg/G4KBHz8ux6)
+
 ## English
 Dollphone is an icon pack that is very cute, but isn’t too hyper. The icons avoid overly saturated or dark colors, and softly bulge out the "straight" lines away from the center for a plushie-like look.
 
@@ -29,6 +31,10 @@ Dollphone is built with the [Candybar-FOSS Dashboard](https://github.com/Donnnno
 # This app is missing an icon! How can I get you to make one?
 
 The app has an in-built feature to request missing icons. Simply follow the on-screen instructions: select the icons you want to request, then send me the resulting e-mail.
+
+## I can’t wait! Can I pay you to make an icon faster?
+
+Certainly! Please check the pricing in [the Dollphone webpage](https://2gd4.me/dollphone).
 
 # How can I make an icon for you to include?
 

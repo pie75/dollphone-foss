@@ -2,24 +2,39 @@
 <resources>
 
     <contributor
-        name="Name 1"
-        contribution="Contribution 1, contribution 2"
-        image="https://avatars1.githubusercontent.com/u/23138905?v=3&amp;s=300"
-        link="" />
+        name="Donnnno"
+        contribution="Candybar FOSS dashboard"
+        image="https://avatars.githubusercontent.com/u/31142286?s=300"
+        link="https://github.com/Donnnno" />
     <contributor
-        name="Name 2"
-        contribution="Contribution 1, contribution 2, contribution 3"
-        image=""
-        link="" />
+        name="Kaiserdragon2"
+        contribution="Icon request dashboard &amp; request update script"
+        image="https://avatars.githubusercontent.com/u/8929967?s=300"
+        link="https://github.com/Kaiserdragon2" />
     <contributor
-        name="Another Name"
-        contribution="Contribution 1"
-        image=""
-        link="http://plus.google.com/..." />
+        name="Poussinou"
+        contribution="Assistance with F-droid"
+        image="https://avatars.githubusercontent.com/u/19646549?s=300"
+        link="https://github.com/Poussinou" />
     <contributor
-        name="Another Name 2"
-        contribution="Contribution 1, contribution 2, contribution 3, contribution 4, contribution 5, contribution 6"
-        image=""
-        link="http://www.link.com" />
+        name="quantenzitrone"
+        contribution="Contributor icons"
+        image="https://avatars.githubusercontent.com/u/74491719?s=300"
+        link="https://github.com/quantenzitrone" />
+    <contributor
+        name="maxtron95"
+        contribution="Contributor icons"
+        image="https://avatars.githubusercontent.com/u/53346722?s=300"
+        link="http://github.com/maxtron95" />
+    <contributor
+        name="Merdekca"
+        contribution="Contributor icons"
+        image="https://avatars.githubusercontent.com/u/91247432?s=300"
+        link="http://github.com/Merdekca" />
+    <contributor
+        name="Latzze"
+        contribution="Contributor icons"
+        image="https://avatars.githubusercontent.com/u/108397320?s=300"
+        link="https://github.com/Latzze" />
 
 </resources>

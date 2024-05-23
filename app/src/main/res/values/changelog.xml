@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date" translatable="false">2024-02-28</string>
+    <string name="changelog_date" translatable="false">2024-04-03</string>
 
     <string-array name="changelog">
-        <item></item>
+        <item>Added icons: 1DM, AnntennaPod, App Manager, Auxio, Droidify, Flow, Flow Bridges, Flow Hexes, Flow Warps, FluffyChat, FTP, GitHub, Google Home, Jellyfin, Keepass2Android, MEGA, Mull, My Tamagotchi Forever, Pixiv, Pokémon GO, SD Maid SE, Seal, Shazam, Shizuku, Super Tux Kart, Terminal, wX</item>
+        <item>Added contributor icons by quantenzitrone: FOSS Warn, Obtainium, Organic Maps, Scoop, Stremio</item>
+        <item>Added contributor icons by Latzze: Yle, Yle Areena, Yle Kielikoulu, Yle Lasten Areena</item>
+        <item>Added lots of aliases</item>
+        <item>Removed Google Podcasts because they discontinued the app</item>
     </string-array>
 
 </resources>

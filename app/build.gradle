@@ -7,8 +7,8 @@ android {
         applicationId 'me.x2gd4.dollphone'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 8
-        versionName '1.0.7'
+        versionCode 12
+        versionName '1.1.2'
         multiDexEnabled true
 
         // Naming app bundles
@@ -39,5 +39,5 @@ android {
 
     dependencies {
         implementation 'androidx.legacy:legacy-support-v4:1.0.0'
-        implementation 'com.github.donnnno:candybar-foss:3.19.0-hotfix'
+        implementation 'com.github.donnnno:candybar-foss:3.19.1'
     }

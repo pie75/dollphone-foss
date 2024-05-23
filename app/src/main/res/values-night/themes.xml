@@ -3,7 +3,7 @@
     <style name="CandyBar.Theme.App.DayNight" parent="CandyBar.Theme.Base">
         <item name="cb_colorPrimary">#600030</item>
         <item name="cb_colorPrimaryDark">#400020</item>
-        <item name="cb_colorAccent">#600030</item>
+        <item name="cb_colorAccent">#40b0ff</item>
 
         <!-- Navigation Bar -->
         <item name="cb_navigationBar">#600030</item>

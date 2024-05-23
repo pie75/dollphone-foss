@@ -2,13 +2,19 @@
 <resources>
     <string name="app_name">Dollphone</string>
     <string name="home_title">Dollphoneアイコンパック</string>
-    <string name="home_description">"<![CDATA[
-<b>Dollphone</b>（ドールフォーン）は、かわいいアイコンパックです。角は丸くて、直線的な部分は少し膨らんでいて、人形のような雰囲気です。かわいい雑貨と少しレトロな家電製品にも構想を得ています。
-<br>
-このアイコンパックが気に入って、私の創作活動を支援したいと思った方は、<a href="https://ko-fi.com/itsspelledhaley">Ko-fiから寄付する</a>ことを考えてみてください。
-<br>
-欠けているアイコンがあったら、「アイコンリクエスト」機能を使ってください。まとめて制作してアップデートします。]]>"</string>
-    <string name="share_link">https://2gd4.me/dollphone</string>
+    <string name="home_description"><![CDATA[
+<p><b>Dollphone</b>（ドールフォーン）は、かわいいアイコンパックです。角は丸くて、直線的な部分は少し膨らんでいて、人形のような雰囲気です。かわいい雑貨と少しレトロな家電製品にも構想を得ています。</p>
+<h3>欲しいアイコンが変わってない！</h3>
+<p>対応していないアイコンがある場合、「アイコンリクエスト」機能を使って、一回に最大12個までアイコンをリクエストしてください。ただし、リクエストしたからと言って、制作される保証はないのでご了承ください。</p>
+<h3>待てない！ お金払ったら早く作ってくれる？</h3>
+<p>もちろんです！ <a href="https://japanyoshi.github.io/dollphone-foss/ja">Webページ</a>で価格設定を確認して、<a href="https://discord.gg/G4KBHz8ux6">Discordサーバー</a>で交渉しましょう。（#negotiationチャンネルで）</p>
+<h3>アイコンが変になった！</h3>
+<p>対応しているアイコンに問題がある場合、<a href="https://github.com/JapanYoshi/dollphone-foss/issues/new">GitHubでイシューを開いてください</a>。</p>
+<h3>交流を深めるには？</h3>
+<p><a href="https://discord.gg/G4KBHz8ux6">公式Discordサーバー</a>にいらっしゃい！</p>
+<p>このアイコンパックが気に入って、私の創作活動を支援したいと思った方は、<a href="https://ko-fi.com/itsspelledhaley">Ko-fiから寄付する</a>ことを考えてみてください。</p>
+]]></string>
+    <string name="share_link">https://japanyoshi.github.io/dollphone-foss/ja</string>
     <string name="regular_request_email_subject">Dollphoneリクエスト</string>
     <string name="about_title">はるるちゃん</string>
     <string name="about_desc">"<![CDATA[

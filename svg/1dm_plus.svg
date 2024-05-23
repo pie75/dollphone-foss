@@ -5,7 +5,7 @@
    enable-background="new"
    inkscape:export-ydpi="384"
    inkscape:export-xdpi="384"
-   inkscape:export-filename="..\..\Downloads\dollphone-foss\app\src\main\res\drawable-nodpi\pandora.png"
+   inkscape:export-filename="..\app\src\main\res\drawable-nodpi\a__1dm.png"
    sodipodi:docname="1dm_plus.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    id="svg8"
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="7.5"
-     inkscape:cy="176"
+     inkscape:zoom="3.3034838"
+     inkscape:cx="42.682214"
+     inkscape:cy="122.59785"
      inkscape:document-units="px"
-     inkscape:current-layer="layer77"
+     inkscape:current-layer="g27"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -1762,9 +1762,9 @@
        inkscape:label="Drop Shadow"
        id="filter4260"
        x="-0.045454545"
-       y="-0.074074074"
+       y="-0.063688583"
        width="1.1136364"
-       height="1.2222222"><feFlood
+       height="1.1910657"><feFlood
          flood-opacity="0.498039"
          flood-color="rgb(85,152,204)"
          result="flood"
@@ -2109,7 +2109,7 @@
        cy="64"
        r="60" /><g
        id="g27"
-       style="filter:url(#filter4260)"><g
+       style="display:inline;filter:url(#filter4260)"><g
          id="g4215"
          style="display:inline"
          transform="translate(-14,-13)"><path
@@ -2118,7 +2118,7 @@
            id="path4161"
            inkscape:connector-curvature="0" /></g><text
          xml:space="preserve"
-         style="font-weight:bold;font-size:28px;line-height:1;font-family:Mikado;-inkscape-font-specification:'Mikado Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#5598cc;stroke-width:8;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         style="font-weight:bold;font-size:28px;line-height:1;font-family:Mikado;-inkscape-font-specification:'Mikado Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;fill:#ffffff;fill-opacity:1;stroke:#5598cc;stroke-width:8;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          x="95"
          y="43.25"
          id="text27"><tspan
@@ -2128,6 +2128,6 @@
            y="43.25">+</tspan></text><path
          d="m 74.921434,62.709279 c 0.03371,-0.101125 -1.887655,-2.629233 -2.123612,-2.629233 -0.168539,0 -4.685428,3.640476 -6.337126,4.921385 0,-3.674185 -0.235957,-15.337194 -0.303372,-15.472026 -0.06742,-0.134833 -3.606769,-0.101125 -4.044974,0.404497 -0.134833,1.146076 0,11.46076 0.06742,15.101237 -1.651698,-1.314617 -6.26971,-4.988801 -6.337126,-4.988801 -0.134833,0 -1.955071,2.460692 -1.820238,2.629233 0.134832,0.16854 9.84277,8.898943 10.415808,8.898943 0.70787,0 10.449516,-8.764111 10.483225,-8.865235 z m -21.67432,6.173365 c 0,0 -3.606769,-0.03371 -3.640477,0.101124 -0.06742,0.134833 -0.06742,8.898943 -0.06742,8.932651 0,0.03371 28.820441,0.842703 28.820441,0.842703 l 0.101124,-9.876478 c 0,-0.03371 -3.40452,-0.134833 -3.471936,-0.03371 -0.101125,0.101124 -0.134833,5.089925 -0.134833,5.325882 0,0.235957 -21.775444,-0.101124 -21.775444,-0.101124 -0.03371,0 0.168541,-5.19105 0.168541,-5.19105 z"
          id="text28"
-         style="font-weight:bold;font-size:28px;line-height:1;font-family:Mikado;-inkscape-font-specification:'Mikado Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:8;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="font-weight:bold;font-size:28px;line-height:1;font-family:Mikado;-inkscape-font-specification:'Mikado Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:8;stroke-linejoin:round;paint-order:stroke fill markers"
          aria-label="→]"
          sodipodi:nodetypes="sscsccssssccscccscc" /></g></g></svg>
