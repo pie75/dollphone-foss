@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date" translatable="false">2024-04-03</string>
+    <string name="changelog_date" translatable="false">2024-05-24</string>
 
     <string-array name="changelog">
-        <item>Added icons: 1DM, AnntennaPod, App Manager, Auxio, Droidify, Flow, Flow Bridges, Flow Hexes, Flow Warps, FluffyChat, FTP, GitHub, Google Home, Jellyfin, Keepass2Android, MEGA, Mull, My Tamagotchi Forever, Pixiv, Pokémon GO, SD Maid SE, Seal, Shazam, Shizuku, Super Tux Kart, Terminal, wX</item>
-        <item>Added contributor icons by quantenzitrone: FOSS Warn, Obtainium, Organic Maps, Scoop, Stremio</item>
-        <item>Added contributor icons by Latzze: Yle, Yle Areena, Yle Kielikoulu, Yle Lasten Areena</item>
+        <item>Upgraded CandyBar dashboard to v3.19.1</item>
+        <item>Added icons: Acode, AIMP, AnkiDroid, Amazon Alexa, Audible, Briar, Bromite, Crunchyroll, Cx File Explorer, Disney+, DNS66, FFUpdater, Genshin Impact, Geometry Dash, GrapheneOS Apps, GrapheneOS Auditor, GrapheneOS PDF Viewer, IconRequest, Kakugo, Kanji Dojo, KurobaEx, Last.fm, LibreTube, LineageOS AudioFX, MicroG Settings, Musicolet, Muzei, Neo Store, Nintendo Switch, Nintendo Switch Online, QUIK/QKSMS, Pano Scrobbler, PipePipe, PS Vita, Revolt, SCEE, Simple Text Editor, Words With Friends, Words With Friends 2, Xiaomi Security Center, ZArchiver, ZArchiver Pro</item>
+        <item>Added contributor icons by pie75: Adobe AIR, Bolt, Book Reader, CPU-Z, Everyday Tasks, Gauguin, Git Quick Reference, Google Voice Search, Karma Firewall, Lichess, Loop Habit Tracker, Nedbank Auth, Nedbank Black, Nedbank Green, NFC Reader, Nihonoari, Obsidian, Ruffle, Simon Tatham’s Puzzles, Steam Link, Suntimes (new), Suntimes Alarms, Syncthing, Syncthing Lite, Who Here, Zee Archiver</item>
         <item>Added lots of aliases</item>
-        <item>Removed Google Podcasts because they discontinued the app</item>
+        <item>Reverted Dollphone’s icon changed in v1.0.8</item>
+        <item>Removed icon request limit</item>
     </string-array>
 
 </resources>

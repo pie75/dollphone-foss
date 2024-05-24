@@ -17,10 +17,20 @@
         image="https://avatars.githubusercontent.com/u/19646549?s=300"
         link="https://github.com/Poussinou" />
     <contributor
+        name="pie75"
+        contribution="Contributor icons"
+        image="https://avatars.githubusercontent.com/u/44603413?s=300"
+        link="https://github.com/pie75" />
+    <contributor
         name="quantenzitrone"
         contribution="Contributor icons"
         image="https://avatars.githubusercontent.com/u/74491719?s=300"
         link="https://github.com/quantenzitrone" />
+    <contributor
+        name="Latzze"
+        contribution="Contributor icons"
+        image="https://avatars.githubusercontent.com/u/108397320?s=300"
+        link="https://github.com/Latzze" />
     <contributor
         name="maxtron95"
         contribution="Contributor icons"
@@ -31,10 +41,5 @@
         contribution="Contributor icons"
         image="https://avatars.githubusercontent.com/u/91247432?s=300"
         link="http://github.com/Merdekca" />
-    <contributor
-        name="Latzze"
-        contribution="Contributor icons"
-        image="https://avatars.githubusercontent.com/u/108397320?s=300"
-        link="https://github.com/Latzze" />
 
 </resources>
