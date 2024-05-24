@@ -3,20 +3,28 @@
 <version>1</version>
 
 <category title="Recent" />
+<item drawable="adobe_air" />
 <item drawable="acode" />
 <item drawable="aimp" />
 <item drawable="amazon_alexa" />
 <item drawable="ankidroid" />
 <item drawable="audiofx" />
+<item drawable="bolt" />
+<item drawable="book_reader" />
 <item drawable="briar" />
 <item drawable="bromite" />
+<item drawable="cpuz" />
 <item drawable="crunchyroll" />
 <item drawable="cx_file_explorer" />
 <item drawable="disney_plus" />
 <item drawable="dns66" />
+<item drawable="everyday_tasks"/>
 <item drawable="ffupdater" />
+<item drawable="gauguin" />
 <item drawable="genshin_impact" />
 <item drawable="geometry_dash" />
+<item drawable="git_quick_reference"/>
+<item drawable="google_voice_search"/>
 <item drawable="grapheneos_apps" />
 <item drawable="grapheneos_auditor" />
 <item drawable="grapheneos_pdf_viewer" />
@@ -25,29 +33,45 @@
 <item drawable="joplin" />
 <item drawable="kakugo" />
 <item drawable="kanji_dojo" />
+<item drawable="karma_fw"/>
 <item drawable="kurobaex" />
 <item drawable="lastfm" />
 <item drawable="libretube" />
+<item drawable="lichess"/>
+<item drawable="loop_habits" />
 <item drawable="microg_settings" />
 <item drawable="musicolet" />
 <item drawable="muzei" />
+<item drawable="nedbank_auth" />
+<item drawable="nedbank_black" />
+<item drawable="nedbank_green" />
 <item drawable="neo_store" />
+<item drawable="nihonoari" />
 <item drawable="nintendo_switch" />
 <item drawable="nintendo_switch_online" />
+<item drawable="obsidian" />
 <item drawable="pano_scrobbler" />
 <item drawable="pipepipe" />
 <item drawable="ps_vita" />
 <item drawable="quik" />
 <item drawable="renshuu" />
 <item drawable="revolt" />
+<item drawable="ruffle" />
 <item drawable="scee" />"
+<item drawable="sgt_puzzles" />
 <item drawable="simple_text_editor" />
+<item drawable="steam_link" />
+<item drawable="suntimes_alarms" />
+<item drawable="syncthing" />
+<item drawable="syncthing_lite" />
 <item drawable="vector_pinball" />
+<item drawable="who_here" />
 <item drawable="words_with_friends" />
 <item drawable="words_with_friends_2" />
 <item drawable="xiaomi_security_center" />
 <item drawable="zarchiver" />
 <item drawable="zarchiver_pro" />
+<item drawable="zee_archiver" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -167,6 +191,7 @@
 <item drawable="google_slides" />
 <item drawable="play_store" />
 <item drawable="google_translate" />
+<item drawable="google_voice_search"/>
 
 <category title="Microsoft" />
 <item drawable="copilot" />
@@ -182,6 +207,7 @@
 
 <category title="Adobe" />
 <item drawable="adobe_acrobat" />
+<item drawable="adobe_air" />
 
 <category title="Samsung" />
 <item drawable="bixby_vision" />
@@ -389,11 +415,13 @@
 <item drawable="flow_warps" />
 <item drawable="gacha_life" />
 <item drawable="gamergate" />
+<item drawable="gauguin" />
 <item drawable="geometry_dash" />
 <item drawable="hovercraft" />
 <item drawable="jackbox" />
 <item drawable="just_dance_now" />
 <item drawable="lexica" />
+<item drawable="lichess"/>
 <item drawable="lingo_classic" />
 <item drawable="lingo_itv" />
 <item drawable="minecraft" />
@@ -406,8 +434,10 @@
 <item drawable="pokemon_go" />
 <item drawable="project_sekai" />
 <item drawable="pump_it_up_m" />
+<item drawable="sgt_puzzles" />
 <item drawable="smule" />
 <item drawable="steam" />
+<item drawable="steam_link" />
 <item drawable="stepmaniax" />
 <item drawable="sudoku" />
 <item drawable="super_tux_kart" />
@@ -415,6 +445,7 @@
 <item drawable="tetris" />
 <item drawable="uno" />
 <item drawable="vector_pinball" />
+<item drawable="who_here" />
 <item drawable="wordfeud" />
 <item drawable="words_with_friends" />
 <item drawable="words_with_friends_2" />
@@ -446,6 +477,7 @@
 <item drawable="psx" />
 <item drawable="retroarch" />
 <item drawable="retroarch_plus" />
+<item drawable="ruffle" />
 <item drawable="sfc" />
 <item drawable="winlator" />
 
@@ -472,6 +504,7 @@
 <item drawable="simple_text_editor" />
 <item drawable="zarchiver" />
 <item drawable="zarchiver_pro" />
+<item drawable="zee_archiver" />
 
 <category title="Keyboards" />
 <item drawable="a__8vim" />
@@ -491,6 +524,7 @@
 <item drawable="aliexpress" />
 <item drawable="anb" />
 <item drawable="appsales" />
+<item drawable="bolt" />
 <item drawable="burger_king" />
 <item drawable="commbank" />
 <item drawable="ebay" />
@@ -503,6 +537,8 @@
 <item drawable="mcdonalds" />
 <item drawable="mos_burger" />
 <item drawable="my_stc" />
+<item drawable="nedbank_black" />
+<item drawable="nedbank_green" />
 <item drawable="nike" />
 <item drawable="paypal" />
 <item drawable="starbucks" />
@@ -537,6 +573,7 @@
 <item drawable="bible" />
 <item drawable="bitmoji" />
 <item drawable="bitwarden" />
+<item drawable="book_reader" />
 <item drawable="bubble" />
 <item drawable="cache_cleaner" />
 <item drawable="car_report" />
@@ -546,6 +583,7 @@
 <item drawable="chatgpt" />
 <item drawable="code_editor" />
 <item drawable="cool_text_and_symbols" />
+<item drawable="cpuz" />
 <item drawable="cryptomator" />
 <item drawable="deepl" />
 <item drawable="desmos" />
@@ -558,6 +596,7 @@
 <item drawable="duolingo" />
 <item drawable="easy_xkcd" />
 <item drawable="eds_lite" />
+<item drawable="everyday_tasks"/>
 <item drawable="extirpater" />
 <item drawable="fake_chat" />
 <item drawable="fake_traveler" />
@@ -571,6 +610,7 @@
 <item drawable="foss_warn" />
 <item drawable="free_download_manager" />
 <item drawable="freeotp" />
+<item drawable="git_quick_reference"/>
 <item drawable="github" />
 <item drawable="good_lock" />
 <item drawable="google_news" />
@@ -586,6 +626,7 @@
 <item drawable="joplin" />
 <item drawable="kakugo" />
 <item drawable="kanji_dojo" />
+<item drawable="karma_fw"/>
 <item drawable="kde_connect" />
 <item drawable="keepass2android" />
 <item drawable="keepassdx" />
@@ -593,6 +634,7 @@
 <item drawable="kotatsu" />
 <item drawable="localsend" />
 <item drawable="logseq" />
+<item drawable="loop_habits" />
 <item drawable="lovense_remote" />
 <item drawable="magisk" />
 <item drawable="markor" />
@@ -600,15 +642,18 @@
 <item drawable="monospace" />
 <item drawable="mupdf_viewer" />
 <item drawable="my_fritz" />
+<item drawable="nedbank_auth" />
 <item drawable="neo_backup" />
 <item drawable="neo_store" />
 <item drawable="news" />
 <item drawable="nextcloud_cookbook" />
+<item drawable="nfc_reader" />
 <item drawable="night_mode" />
 <item drawable="notes" />
 <item drawable="notificationlog" />
 <item drawable="nova_launcher" />
 <item drawable="obtainium" />
+<item drawable="obsidian" />
 <item drawable="oneplus_clone_phone" />
 <item drawable="open_note_scanner" />
 <item drawable="open_stable_diffusion" />
@@ -641,6 +686,9 @@
 <item drawable="squawker" />
 <item drawable="streetcomplete" />
 <item drawable="suntimes" />
+<item drawable="suntimes_alarms" />
+<item drawable="syncthing" />
+<item drawable="syncthing_lite" />
 <item drawable="tata_1mg" />
 <item drawable="terminal" />
 <item drawable="tiny_weather_forecast" />
@@ -677,6 +725,7 @@
 <item drawable="dictionary_zh" />
 <item drawable="dictionary_zh_hans" />
 <item drawable="merriam_webster_dictionary" />
+<item drawable="nihonoari" />
 <item drawable="oxford_dictionary" />
 <item drawable="spanishdict" />
 <item drawable="wikipedia" />
