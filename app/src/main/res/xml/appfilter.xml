@@ -2972,7 +2972,7 @@
     <item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Yellow}" drawable="record" />
 
     <!-- Voice Search -->
-	<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="voice_search"/>
+	<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google_voice_search"/>
     
     <!-- Voyager -->
     <item component="ComponentInfo{app.vger.voyager/app.vger.voyager.MainActivity}" drawable="voyager" />
