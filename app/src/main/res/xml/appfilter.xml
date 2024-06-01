@@ -1242,6 +1242,7 @@
 
     <!-- Image Toolbox -->
     <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity}" drawable="image_toolbox"/>
+    <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.app.presentation.AppActivity}" drawable="image_toolbox"/>
 
     <!-- Infinity -->
     <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity"/>
@@ -1765,6 +1766,7 @@
 	
 	<!-- Obtainium -->
 	<item component="ComponentInfo{dev.imranr.obtainium/dev.imranr.obtainium.MainActivity}" drawable="obtainium"/>
+	<item component="ComponentInfo{dev.imranr.obtainium.fdroid/dev.imranr.obtainium.MainActivity}" drawable="obtainium"/>
 
     <!-- Ola Party -->
     <item component="ComponentInfo{com.live.party/com.yy.hiyo.MainActivity}" drawable="ola_party" />
