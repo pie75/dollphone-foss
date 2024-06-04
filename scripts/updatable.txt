@@ -1,3 +1,12 @@
-<!-- Pano Scrobbler -->
-<item component="ComponentInfo{com.arn.scrobble/com.arn.scrobble.MainActivity}" drawable="pano_scrobbler" />
+<!-- Messages -->
+<item component="ComponentInfo{com.samsung.android.messaging/com.samsung.android.messaging.ui.ConversationList}" drawable="messages" />
+
+<!-- Phone -->
+<item component="ComponentInfo{com.android.contacts/com.android.dialer.app.DialtactsActivity}" drawable="phone" />
+
+<!-- AccuWeather -->
+<item component="ComponentInfo{com.accuweather.android/com.accuweather.android.splashscreen.SplashActivity}" drawable="accuweather" />
+
+<!-- Recorder -->
+<item component="ComponentInfo{com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile}" drawable="recorder" />
 
