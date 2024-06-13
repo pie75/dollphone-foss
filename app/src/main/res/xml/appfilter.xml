@@ -279,6 +279,10 @@
     <item component="ComponentInfo{com.garena.game.bc/com.epicgames.ue4.SplashActivity}" drawable="black_clover_m" />
 
 	<!-- Bolt -->
+    <!-- Bluesky -->
+    <item component="ComponentInfo{xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity}" drawable="bluesky"/>
+
+    <!-- Bolt -->
 	<item component="ComponentInfo{ee.mtakso.client/ee.mtakso.client.activity.SplashHomeActivity}" drawable="bolt"/>
 
 	<!-- Book Reader -->
