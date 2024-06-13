@@ -4,6 +4,7 @@
 
 <category title="New this version" />
 <item drawable="bluesky" />
+<item drawable="tuta" />
 
 <category title="Faces" />
 <item drawable="black_clover_m" />
@@ -267,6 +268,7 @@
 <item drawable="signal" />
 <item drawable="telegram" />
 <item drawable="threema" />
+<item drawable="tuta" />
 <item drawable="tutanota" />
 <item drawable="whatsapp" />
 <item drawable="yahoo_mail" />

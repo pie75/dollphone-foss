@@ -278,7 +278,6 @@
     <!-- Black Clover M -->
     <item component="ComponentInfo{com.garena.game.bc/com.epicgames.ue4.SplashActivity}" drawable="black_clover_m" />
 
-	<!-- Bolt -->
     <!-- Bluesky -->
     <item component="ComponentInfo{xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity}" drawable="bluesky"/>
 
@@ -2888,7 +2887,7 @@
     <item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
 
     <!-- Tutanota -->
-    <item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tutanota" />
+    <item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tuta" />
 
     <!-- Twitch -->
     <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />

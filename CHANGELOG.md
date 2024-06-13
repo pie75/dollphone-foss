@@ -1,4 +1,6 @@
 # 2024-??-?? (v1.1.3)
+- Added icons: Bluesky, Tuta
+- Obsoleted Tutanota icon due to rebrand to Tuta
 - Removed icon request limit, for real this time
 
 # 2024-05-24 (v1.1.2)
