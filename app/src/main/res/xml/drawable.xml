@@ -4,6 +4,7 @@
 
 <category title="New this version" />
 <item drawable="bluesky" />
+<item drawable="db_navigator" />
 <item drawable="tuta" />
 
 <category title="Faces" />
@@ -520,6 +521,7 @@
 <item drawable="cool_text_and_symbols" />
 <item drawable="cpuz" />
 <item drawable="cryptomator" />
+<item drawable="db_navigator" />
 <item drawable="deepl" />
 <item drawable="desmos" />
 <item drawable="desmos_scientific" />
