@@ -169,7 +169,7 @@
     <!-- Enable regular icon request limit
         When enabled users will be able to request only the specified number of icons.
         The number of icon a user can request should be specified in the "icon_request_limit" section -->
-    <bool name="enable_icon_request_limit">true</bool>
+    <bool name="enable_icon_request_limit">false</bool>
 
     <!-- Limit the numbers of icon a user can request
         IGNORE if "enable_icon_request_limit" option is disabled

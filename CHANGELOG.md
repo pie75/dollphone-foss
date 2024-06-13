@@ -1,3 +1,6 @@
+# 2024-??-?? (v1.1.3)
+- Removed icon request limit, for real this time
+
 # 2024-05-24 (v1.1.2)
 - Upgraded CandyBar dashboard to v3.19.1
 - Added icons: Acode, AIMP, AnkiDroid, Amazon Alexa, Audible, Briar, Bromite, Crunchyroll, Cx File Explorer, Disney+, DNS66, FFUpdater, Genshin Impact, Geometry Dash, GrapheneOS Apps, GrapheneOS Auditor, GrapheneOS PDF Viewer, IconRequest, Kakugo, Kanji Dojo, KurobaEx, Last.fm, LibreTube, LineageOS AudioFX, MicroG Settings, Musicolet, Muzei, Neo Store, Nintendo Switch, Nintendo Switch Online, QUIK/QKSMS, Pano Scrobbler, PipePipe, PS Vita, Revolt, SCEE, Simple Text Editor, Words With Friends, Words With Friends 2, Xiaomi Security Center, ZArchiver, ZArchiver Pro
