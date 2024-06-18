@@ -1,12 +1,6 @@
-<!-- Messages -->
-<item component="ComponentInfo{com.samsung.android.messaging/com.samsung.android.messaging.ui.ConversationList}" drawable="messages" />
+<!-- Telegram -->
+<item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.AquaIcon}" drawable="telegram" />
 
-<!-- Phone -->
-<item component="ComponentInfo{com.android.contacts/com.android.dialer.app.DialtactsActivity}" drawable="phone" />
-
-<!-- AccuWeather -->
-<item component="ComponentInfo{com.accuweather.android/com.accuweather.android.splashscreen.SplashActivity}" drawable="accuweather" />
-
-<!-- Recorder -->
-<item component="ComponentInfo{com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile}" drawable="recorder" />
+<!-- microG Settings -->
+<item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microg_settings_1" />
 
