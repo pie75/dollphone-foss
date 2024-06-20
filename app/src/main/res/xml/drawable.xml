@@ -6,6 +6,7 @@
 <item drawable="animal_crossing" />
 <item drawable="bluesky" />
 <item drawable="db_navigator" />
+<item drawable="mullvad_vpn" />
 <item drawable="tuta" />
 
 <category title="Faces" />
@@ -579,6 +580,7 @@
 <item drawable="markor" />
 <item drawable="microg_settings" />
 <item drawable="monospace" />
+<item drawable="mullvad_vpn" />
 <item drawable="mupdf_viewer" />
 <item drawable="my_fritz" />
 <item drawable="nedbank_auth" />
