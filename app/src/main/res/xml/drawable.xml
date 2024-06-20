@@ -3,6 +3,7 @@
 <version>1</version>
 
 <category title="New this version" />
+<item drawable="animal_crossing" />
 <item drawable="bluesky" />
 <item drawable="db_navigator" />
 <item drawable="tuta" />
@@ -331,6 +332,7 @@
 <item drawable="a__1010_klooni" />
 <item drawable="a__2048" />
 <item drawable="among_us" />
+<item drawable="animal_crossing" />
 <item drawable="beatx" />
 <item drawable="bejeweled_blitz" />
 <item drawable="bejeweled_classic" />

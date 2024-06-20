@@ -124,6 +124,9 @@
     <!-- AndFTP -->
     <item component="ComponentInfo{lysesoft.andftp/lysesoft.andftp.SplashActivity}" drawable="ftp"/>
 
+    <!-- Animal Crossing Pocket Camp -->
+    <item component="ComponentInfo{com.nintendo.zaca/com.snslinkage.dena.snslinkageunityplugin.SnsLinkageSafeUnityPlayerNativeActivity}" drawable="animal_crossing" />
+
     <!-- AnimeZone -->
     <item component="ComponentInfo{com.bksapps.animezone/com.bksapps.animezone.MainActivity}" drawable="cosplay" />
 
