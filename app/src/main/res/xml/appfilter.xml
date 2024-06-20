@@ -1950,6 +1950,9 @@
     <!-- Project Sekai English -->
     <item component="ComponentInfo{com.sega.ColorfulStage.en/com.google.firebase.MessagingUnityPlayerActivity}" drawable="project_sekai" />
 
+    <!-- Proton Drive -->
+    <item component="ComponentInfo{me.proton.android.drive/me.proton.android.drive.ui.MainActivity}" drawable="proton_drive"/>
+
     <!-- ProtonMail -->
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.MainActivity}" drawable="protonmail" />
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="protonmail" />

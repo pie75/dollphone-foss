@@ -7,6 +7,7 @@
 <item drawable="bluesky" />
 <item drawable="db_navigator" />
 <item drawable="mullvad_vpn" />
+<item drawable="proton_drive" />
 <item drawable="tuta" />
 
 <category title="Faces" />
@@ -440,6 +441,7 @@
 <item drawable="microsoft_365" />
 <item drawable="nextcloud" />
 <item drawable="notally" />
+<item drawable="proton_drive" />
 <item drawable="simple_text_editor" />
 <item drawable="zarchiver" />
 <item drawable="zarchiver_pro" />
