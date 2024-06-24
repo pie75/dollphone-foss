@@ -1372,6 +1372,9 @@
     <!-- Libre Camera -->
     <item component="ComponentInfo{com.iakmds.librecamera/com.iakmds.librecamera.MainActivity}" drawable="camera_1"/>
 
+    <!-- Librera FD -->
+    <item component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}" drawable="librera_fd"/>
+
     <!-- LibreTube -->
     <item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="libretube"/>
     <item component="ComponentInfo{com.github.libretube/com.github.libretube.DefaultLight}" drawable="libretube"/>

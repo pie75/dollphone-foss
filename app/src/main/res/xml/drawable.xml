@@ -6,6 +6,7 @@
 <item drawable="animal_crossing" />
 <item drawable="bluesky" />
 <item drawable="db_navigator" />
+<item drawable="librera_fd" />
 <item drawable="mullvad_vpn" />
 <item drawable="proton_drive" />
 <item drawable="splash" />
@@ -576,6 +577,7 @@
 <item drawable="keepassdx" />
 <item drawable="kfz_kennzeichen" />
 <item drawable="kotatsu" />
+<item drawable="librera_fd" />
 <item drawable="localsend" />
 <item drawable="logseq" />
 <item drawable="loop_habits" />
