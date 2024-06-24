@@ -1,37 +1,7 @@
 -------------------------------------------------------
-1699 Requested Apps Pending (Updated 2024/06/18)
+1696 Requested Apps Pending (Updated 2024/06/24)
 -------------------------------------------------------
 
-<!-- Proton Drive -->
-<item component="ComponentInfo{me.proton.android.drive/me.proton.android.drive.ui.MainActivity}" drawable="proton_drive"/>
-https://play.google.com/store/apps/details?id=me.proton.android.drive
-https://f-droid.org/en/packages/me.proton.android.drive/
-https://apt.izzysoft.de/fdroid/index/apk/me.proton.android.drive
-https://galaxystore.samsung.com/detail/me.proton.android.drive
-https://www.ecosia.org/search?q=me.proton.android.drive
-Requested 8 times
-Last requested 1717932631.0
-    
-<!-- Librera FD -->
-<item component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}" drawable="librera_fd"/>
-https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader
-https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/
-https://apt.izzysoft.de/fdroid/index/apk/com.foobnix.pro.pdf.reader
-https://galaxystore.samsung.com/detail/com.foobnix.pro.pdf.reader
-https://www.ecosia.org/search?q=com.foobnix.pro.pdf.reader
-Requested 7 times
-Last requested 1717078647.0
-    
-<!-- Mullvad VPN -->
-<item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity}" drawable="mullvad_vpn"/>
-https://play.google.com/store/apps/details?id=net.mullvad.mullvadvpn
-https://f-droid.org/en/packages/net.mullvad.mullvadvpn/
-https://apt.izzysoft.de/fdroid/index/apk/net.mullvad.mullvadvpn
-https://galaxystore.samsung.com/detail/net.mullvad.mullvadvpn
-https://www.ecosia.org/search?q=net.mullvad.mullvadvpn
-Requested 7 times
-Last requested 1717932631.0
-    
 <!-- Shattered Pixel Dungeon -->
 <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}" drawable="shattered_pixel_dungeon"/>
 https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon
