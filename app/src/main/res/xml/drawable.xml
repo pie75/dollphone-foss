@@ -8,6 +8,7 @@
 <item drawable="db_navigator" />
 <item drawable="mullvad_vpn" />
 <item drawable="proton_drive" />
+<item drawable="splash" />
 <item drawable="tuta" />
 
 <category title="Faces" />
@@ -307,6 +308,7 @@
 <item drawable="reddit" />
 <item drawable="revolt" />
 <item drawable="snapchat" />
+<item drawable="splash" />
 <item drawable="threads" />
 <item drawable="tiktok" />
 <item drawable="tinder" />

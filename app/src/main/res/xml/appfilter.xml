@@ -2730,6 +2730,9 @@
     <!-- Spectroid -->
     <item component="ComponentInfo{org.intoorbit.spectrum/org.intoorbit.spectrum.SpectrumActivity}" drawable="spectrogram" />
 
+    <!-- Splash -->
+    <item component="ComponentInfo{rahul.apps.splash/rahul.apps.splash.MainActivity}" drawable="splash" />
+
     <!-- Spotify -->
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify"/>
     <item component="ComponentInfo{com.spotify.s4a/com.spotify.s4a.SplashActivity}" drawable="spotify"/>
