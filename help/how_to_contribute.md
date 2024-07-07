@@ -68,6 +68,8 @@ Brown       | #af8f7c | #74564d | #9e6545
 ### Visual Style and Design Language
 
 * {Advised} If the logo represents something tangible, skeuomorphize it using cute real-life objects. cf. [Phone/Dialer](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/phone.png) (that Nokia brick), [Alarm Clock](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/alarm_clock.png) (a cute round alarm clock I found online), [Radio](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/radio.png) (a classic brown radio).
+* {Advised} Do not add faces to icons that do not have faces.
+    * Exceptions include the smiling Sun in [Weather](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/weather.png) and other icons including the Sun like [Tiny Weather Forecast](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/tiny_weather_forecast.png) and [Suntimes](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/suntimes.png), and [Snapchat](https://github.com/JapanYoshi/dollphone-foss/blob/main/app/src/main/res/drawable-nodpi/snapchat.png) where I just felt like giving the ghost a face for no reason.
 
 ![](./howto_humor.png)
 
